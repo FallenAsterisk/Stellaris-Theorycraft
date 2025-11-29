@@ -1,6 +1,6 @@
 {
-  "description": "Stellaris Engine Skeleton - master JSON structure for modules. Fill in the arrays with your real data.",
-  "version": "skeleton-v1",
+  "description": "Stellaris Engine Skeleton - extended JSON structure for modules, covering all major common/ repo concepts.",
+  "version": "skeleton-v2",
   "modules": {
     "01_tech": {
       "description": "Technology data: physics, society, engineering.",
@@ -54,8 +54,9 @@
         "techs": []
       }
     },
+
     "02_traits": {
-      "description": "All traits: biological, machine, cyborg, overtuned, ascension, unique.",
+      "description": "All traits: biological, machine, cyborg, overtuned, ascension-like species traits, unique.",
       "schema": {
         "trait_object": {
           "id": "string (e.g. trait.industrious)",
@@ -79,6 +80,7 @@
         "traits": []
       }
     },
+
     "03_species": {
       "description": "Species archetypes, species rights, population rules.",
       "schema": {
@@ -118,8 +120,9 @@
         "pop_rules": []
       }
     },
+
     "04_empire": {
-      "description": "Ethics, authorities, civics, policies, edicts, factions.",
+      "description": "Ethics, authorities, civics, policies, edicts, factions, diplomacy, federation, and ascension perks.",
       "schema": {
         "ethic_object": {
           "id": "string",
@@ -180,6 +183,80 @@
           "ethic": "string (ethic id)",
           "demands": "array of condition descriptors",
           "effects": "object (unity generation, approval impact)"
+        },
+        "ascension_perk_object": {
+          "id": "string",
+          "name": "string",
+          "modifiers": "object (empire-level bonuses)",
+          "requirements": [
+            "ids (traditions, techs, situation outcomes, etc.)"
+          ],
+          "tags": [
+            "string"
+          ]
+        },
+        "agreement_object": {
+          "id": "string",
+          "name": "string",
+          "category": "commercial | research | subject | federation | defensive_pact | etc.",
+          "terms": [
+            "agreement_term id or descriptor"
+          ],
+          "requirements": [
+            "ids (ethics, civics, tech, federation_type, laws, etc.)"
+          ],
+          "effects": "object (resource transfer, opinion modifiers, subject tax, integration rules, etc.)",
+          "tags": [
+            "string"
+          ]
+        },
+        "casus_belli_object": {
+          "id": "string",
+          "name": "string",
+          "war_goal_types": [
+            "war_goal id"
+          ],
+          "requirements": [
+            "ids (ethics, tech, events, claims, situations)"
+          ],
+          "effects": "object (warscore modifiers, war_exhaustion, occupation rules, etc.)",
+          "tags": [
+            "string"
+          ]
+        },
+        "federation_type_object": {
+          "id": "string",
+          "name": "string",
+          "category": "hegemony | militarist | trade | research | spiritual | etc.",
+          "modifiers": "object (base cohesion, envoys, empire modifiers)",
+          "tags": [
+            "string"
+          ]
+        },
+        "federation_law_object": {
+          "id": "string",
+          "name": "string",
+          "federation_type": "string (federation_type id)",
+          "category": "string (law branch/category)",
+          "effects": "object (cohesion, centralization, envoys, contributions, etc.)",
+          "requirements": [
+            "ids (cohesion thresholds, previous laws, techs, etc.)"
+          ],
+          "tags": [
+            "string"
+          ]
+        },
+        "galactic_resolution_object": {
+          "id": "string",
+          "name": "string",
+          "category": "string (sanctions, economy, defense, etc.)",
+          "effects": "object (empire modifiers when passed)",
+          "requirements": [
+            "ids (council presence, diplomatic weight, tech, etc.)"
+          ],
+          "tags": [
+            "string"
+          ]
         }
       },
       "data": {
@@ -188,11 +265,18 @@
         "civics": [],
         "policies": [],
         "edicts": [],
-        "factions": []
+        "factions": [],
+        "ascension_perks": [],
+        "agreements": [],
+        "casus_belli": [],
+        "federation_types": [],
+        "federation_laws": [],
+        "galactic_resolutions": []
       }
     },
+
     "05_economy": {
-      "description": "Buildings, districts, jobs, resources, planet features/modifiers, blockers, economy rules.",
+      "description": "Buildings, districts, jobs, resources, planet features/modifiers, blockers, economy rules, economic plans and colony automation.",
       "schema": {
         "building_object": {
           "id": "string",
@@ -272,6 +356,28 @@
           "affected_by": [
             "ids (traits, civics, buildings, etc.)"
           ]
+        },
+        "economic_plan_object": {
+          "id": "string",
+          "name": "string",
+          "category": "balanced | research | alloy | unity | trade | etc.",
+          "weights": "object (resource or job weights used by AI/economy scripts)",
+          "affected_by": [
+            "ids (ai_personalities, policies, difficulty_settings, etc.)"
+          ],
+          "tags": [
+            "string"
+          ]
+        },
+        "colony_automation_plan_object": {
+          "id": "string",
+          "name": "string",
+          "category": "string (colony_automation category id)",
+          "build_priorities": "array of building/district ids in priority order",
+          "conditions": "object (min pops, planet designation, resource thresholds, etc.)",
+          "tags": [
+            "string"
+          ]
         }
       },
       "data": {
@@ -282,11 +388,14 @@
         "planet_modifiers": [],
         "planet_features": [],
         "blockers": [],
-        "economy_rules": []
+        "economy_rules": [],
+        "economic_plans": [],
+        "colony_automation_plans": []
       }
     },
+
     "06_military": {
-      "description": "Ships, sections, components, armies, mutations, military rules.",
+      "description": "Ships, sections, components, armies, mutations, bombardment stances, military rules.",
       "schema": {
         "ship_hull_object": {
           "id": "string",
@@ -361,6 +470,19 @@
           "affected_by": [
             "ids"
           ]
+        },
+        "bombardment_stance_object": {
+          "id": "string",
+          "name": "string",
+          "damage_to_pops": "number",
+          "damage_to_armies": "number",
+          "damage_to_planets": "number",
+          "requirements": [
+            "ids (ethics, civics, policies, techs)"
+          ],
+          "tags": [
+            "string (total_war, selective, etc.)"
+          ]
         }
       },
       "data": {
@@ -369,11 +491,13 @@
         "components": [],
         "armies": [],
         "mutations": [],
-        "military_rules": []
+        "military_rules": [],
+        "bombardment_stances": []
       }
     },
+
     "07_megastructures": {
-      "description": "Megastructures, habitats, orbital rings, crisis megastructures.",
+      "description": "Megastructures, habitats, orbital rings, crisis megastructures, galaxy features.",
       "schema": {
         "megastructure_object": {
           "id": "string",
@@ -432,17 +556,28 @@
           "tags": [
             "string"
           ]
+        },
+        "galaxy_feature_object": {
+          "id": "string",
+          "name": "string",
+          "effects": "object (system or planet modifiers, travel rules, etc.)",
+          "source": "string (e.g. bypass, cosmic_storms, dust_clouds, ambient_objects)",
+          "tags": [
+            "string (bypass, storm, nebula, etc.)"
+          ]
         }
       },
       "data": {
         "megastructures": [],
         "habitats": [],
         "orbital_rings": [],
-        "crisis_megastructures": []
+        "crisis_megastructures": [],
+        "galaxy_features": []
       }
     },
+
     "08_events_situations": {
-      "description": "Situations, event tech, relics, archeotech.",
+      "description": "Situations, event tech, relics, archeotech, anomalies, archaeology, espionage operations.",
       "schema": {
         "situation_object": {
           "id": "string",
@@ -480,24 +615,66 @@
           "unlocked_by": [
             "ids"
           ]
+        },
+        "anomaly_object": {
+          "id": "string",
+          "name": "string",
+          "category": "astral | exploration | archaeology | special_project | etc.",
+          "stages": "array of stage descriptors",
+          "effects": "object",
+          "requirements": [
+            "ids (techs, ship_components, empire scope triggers)"
+          ],
+          "tags": [
+            "string"
+          ]
+        },
+        "archaeological_site_object": {
+          "id": "string",
+          "name": "string",
+          "stages": "array of stage descriptors",
+          "rewards": "object (relics, resources, modifiers, archeotech, etc.)",
+          "requirements": [
+            "ids (events, anomalies, origins)"
+          ],
+          "tags": [
+            "string (dig_site, precursor, etc.)"
+          ]
+        },
+        "espionage_operation_object": {
+          "id": "string",
+          "name": "string",
+          "category": "string (sabotage, intel, asset_acquisition, etc.)",
+          "stages": "array of stage descriptors",
+          "requirements": [
+            "ids (intel_levels, assets, traditions, civics, etc.)"
+          ],
+          "effects": "object (modifiers, events, resource swings)",
+          "tags": [
+            "string"
+          ]
         }
       },
       "data": {
         "situations": [],
         "event_tech": [],
         "relics": [],
-        "archeotech": []
+        "archeotech": [],
+        "anomalies": [],
+        "archaeological_sites": [],
+        "espionage_operations": []
       }
     },
+
     "09_rules": {
-      "description": "Global rules: population, economy, combat, research, diplomacy, empire size.",
+      "description": "Global rules: population, economy, combat, research, diplomacy, empire size, AI, intel, crisis.",
       "schema": {
         "rule_object": {
           "id": "string (e.g. rule.pop_growth_base)",
-          "type": "population|economy|combat|research|diplomacy|empire",
+          "type": "population|economy|combat|research|diplomacy|empire|ai|intel|crisis",
           "formula": "string",
           "affected_by": [
-            "ids (traits, civics, techs, policies, etc.)"
+            "ids (traits, civics, techs, policies, agreements, etc.)"
           ],
           "notes": "string"
         }
@@ -506,16 +683,42 @@
         "rules": []
       }
     },
+
     "10_metadata": {
-      "description": "Engine-level metadata, versioning, indices.",
+      "description": "Engine-level metadata, indices, achievements, and game concepts.",
       "schema": {
         "metadata_object": {
           "id": "string",
           "value": "any"
+        },
+        "achievement_object": {
+          "id": "string",
+          "name": "string",
+          "description": "string",
+          "requirements": [
+            "ids (events, techs, empires states, etc.)"
+          ],
+          "tags": [
+            "string (steam, in_game, meta)"
+          ]
+        },
+        "game_concept_object": {
+          "id": "string",
+          "name": "string",
+          "category": "string (tutorial, advanced_mechanic, UI_help, etc.)",
+          "description": "string",
+          "links": [
+            "ids (rules, techs, traits, etc.)"
+          ],
+          "tags": [
+            "string"
+          ]
         }
       },
       "data": {
         "metadata": [],
+        "achievements": [],
+        "game_concepts": [],
         "modules_list": [
           "01_tech",
           "02_traits",
