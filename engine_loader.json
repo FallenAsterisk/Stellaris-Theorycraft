@@ -1,0 +1,17 @@
+{
+  "description": "Stellaris theorycraft engine loader config.",
+  "repo_url": "https://github.com/FallenAsterisk/Stellaris-Theorycraft",
+  "modules": {
+    "01_tech": "01_tech/",
+    "02_traits": "02_traits/",
+    "03_species": "03_species/",
+    "04_empire": "04_empire/",
+    "05_economy": "05_economy/",
+    "06_military": "06_military/",
+    "07_megastructures": "07_megastructures/",
+    "08_events_situations": "08_events_situations/",
+    "09_rules": "09_rules/",
+    "10_metadata": "10_metadata/"
+  },
+  "notes": "In a new ChatGPT chat, upload this file or paste the repo URL and say: 'Load the Stellaris engine using engine_loader.json'. The assistant should then read the JSON, fetch the repo, and reconstruct the internal engine."
+}
