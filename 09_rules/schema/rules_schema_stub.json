@@ -1,0 +1,10 @@
+{
+  "description": "Schema stub for engine rule objects.",
+  "rule_object": {
+    "id": "string (e.g. rule.pop_growth_base)",
+    "type": "population|economy|combat|research|diplomacy|empire",
+    "formula": "string (how the rule computes a value)",
+    "affected_by": "array of ids (traits, civics, techs, policies, etc.)",
+    "notes": "string"
+  }
+}

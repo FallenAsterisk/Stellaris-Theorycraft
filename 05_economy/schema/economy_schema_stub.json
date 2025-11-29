@@ -1,0 +1,62 @@
+{
+  "description": "Schema stub for canonical economy objects.",
+  "building_object": {
+    "id": "string (e.g. building.research_lab_1)",
+    "name": "string",
+    "category": "string (e.g. research, alloy, cg, unity, etc.)",
+    "tier": "integer",
+    "base_cost": "object (resource \u2192 amount)",
+    "upkeep": "object (resource \u2192 amount)",
+    "jobs_created": "array of {job_id, count}",
+    "prerequisites": "array of tech ids",
+    "upgrades_from": "string or null",
+    "planet_restrictions": "array (e.g. habitat_only, hive_only)",
+    "tags": "array of strings"
+  },
+  "district_object": {
+    "id": "string",
+    "name": "string",
+    "type": "city | generator | mining | agriculture | habitat_* etc.",
+    "jobs_created": "array of {job_id, count}",
+    "planet_types": "array of allowed planet classes",
+    "tags": "array of strings"
+  },
+  "job_object": {
+    "id": "string (e.g. job.researcher)",
+    "name": "string",
+    "stratum": "worker | specialist | ruler | drone",
+    "inputs": "object (resource \u2192 amount)",
+    "outputs": "object (resource \u2192 amount)",
+    "modifiers": "object (e.g. stability, amenities)",
+    "tags": "array of strings"
+  },
+  "resource_object": {
+    "id": "string",
+    "name": "string",
+    "category": "basic | strategic | special",
+    "tags": "array of strings"
+  },
+  "planet_modifier_object": {
+    "id": "string",
+    "name": "string",
+    "effects": "object (job output, growth, stability, etc.)",
+    "source": "string (tech, event, feature, etc.)"
+  },
+  "planet_feature_object": {
+    "id": "string",
+    "name": "string",
+    "effects": "object (district caps, blockers, etc.)",
+    "tags": "array of strings"
+  },
+  "blocker_object": {
+    "id": "string",
+    "name": "string",
+    "cleared_by": "array of tech ids",
+    "effects": "object (removes districts, etc.)"
+  },
+  "economy_rule_object": {
+    "id": "string (e.g. rule.stability_output_mapping)",
+    "formula": "string",
+    "affected_by": "array of ids (traits, civics, buildings, etc.)"
+  }
+}

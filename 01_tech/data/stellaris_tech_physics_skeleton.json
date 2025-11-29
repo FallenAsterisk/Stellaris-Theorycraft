@@ -1,0 +1,53 @@
+{
+  "description": "Tech skeleton for physics technologies. Fill `data.techs` with real physics tech entries.",
+  "area": "physics",
+  "schema": {
+    "tech_object": {
+      "id": "string (e.g. tech.battleships)",
+      "name": "string",
+      "area": "physics | society | engineering",
+      "subfield": "string (e.g. computing, field_manipulation, voidcraft, biology, etc.)",
+      "tier": "integer (0-5)",
+      "base_cost": "number",
+      "prerequisites": [
+        "tech id"
+      ],
+      "unlocks_components": [
+        "component id"
+      ],
+      "unlocks_ships": [
+        "ship_hull id"
+      ],
+      "unlocks_buildings": [
+        "building id"
+      ],
+      "unlocks_districts": [
+        "district id"
+      ],
+      "unlocks_jobs": [
+        "job id"
+      ],
+      "unlocks_traits": [
+        "trait id"
+      ],
+      "unlocks_policies": [
+        "policy id"
+      ],
+      "unlocks_edicts": [
+        "edict id"
+      ],
+      "unlocks_megastructures": [
+        "megastructure id"
+      ],
+      "modifies_rules": [
+        "rule id"
+      ],
+      "tags": [
+        "string"
+      ]
+    }
+  },
+  "data": {
+    "techs": []
+  }
+}

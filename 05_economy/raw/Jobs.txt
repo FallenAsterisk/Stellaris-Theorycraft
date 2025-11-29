@@ -1,0 +1,156 @@
+Jobs
+
+Version
+
+Please help with verifying or updating older sections of this article. At least some were last verified for  3.14.
+
+This article is for the PC version of Stellaris only.
+Planetary management
+
+
+ 
+ 
+ 
+ Jobs
+A  Job is where resources are produced on worlds. Jobs are divided into different strata and higher stratum jobs are usually filled before lower stratum ones. Most Jobs are created by  and  and thus limited in number. Depending on its origin an empire will use one of two job systems:
+Jobs in empires that do not have the  Wilderness origin are worked by pops and receive efficiency bonuses and penalties depending on the traits of the pop working the job. Pops automatically fill empty jobs that they are capable of holding and generally choose the highest stratum job that gets the most out of their traits based on a weighting system; however, a priority can be set towards and away from specific jobs to ensure they are filled before others. New pops that are more suitable for a job than the current pop holding the job may take the job from it. Each job has a slider that can be lowered to decrease the maximum number of pops that can have the job.
+Jobs in empires that have the  Wilderness origin are worked without pops and receive efficiency bonuses and penalties depending on the traits of the primary species. Each job has a slider that can be lowered to decrease the resource consumption and production of the job.
+Contents
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Job categories
+Most jobs belong to a job category that is mentioned on certain tooltips, and groups it together with other similar jobs. This allows modifiers to apply to multiple job types.
+For instance,  Alloy Mega-Forges increasing output and upkeep by  +1 Alloys and  −1 Minerals from  Metallurgists will also provide additional output and upkeep to  Odd Factory Workers.
+All sub-categories will always inherit multiplicative modifiers from their parent category, but only a few specified sub-categories also inherit additive modifiers.
+The following jobs inherit modifiers from other categories, even if they are not classified under said category:
+Elite jobs
+ Elite stratum jobs. Gestalt Consciousness empires do not use this stratum or its jobs, nor use any equivalent.
+Specialist and Complex Drone jobs
+ Specialist and  Complex Drone stratum jobs.
+Pops under Chattel Slavery cannot work Specialist or Elite jobs. Other slave types may work some Specialist jobs, see  for details.
+Industrial jobs
+Industrial jobs produce  advanced resources, typically using  minerals upkeep.
+Refinery jobs
+Refinery jobs produce  strategic resources, typically using  minerals upkeep.
+If the empire has a 
+ Catalytic Processing
+ civic, refinery jobs have  +0.5 extra base output for their respective resource, and have  −15 base food upkeep instead of  minerals upkeep.
+Research jobs
+Research jobs produce  research, typically using  consumer goods upkeep. Gestalt job variants use  minerals or  energy upkeep instead.
+Unity jobs
+Unity jobs produce  unity, typically using  consumer goods upkeep. Gestalt job variants use  energy upkeep instead.
+Pops employed in  Priest category jobs have  ×0.1 Materialist ethic attraction.
+Monument jobs
+These jobs are added by planet-unique .
+Monument jobs gain additional effects depending on the empire's governing ethics:
+Holo-Museum jobs
+The following jobs are added by empire-unique Holo-Museum buildings.
+Their job category depends on empire type:
+ Individualist jobs are categorized as  Culture Worker category jobs.
+ Gestalt Consciousness jobs are categorized as  Evaluator category jobs.
+Trade jobs
+These jobs produce  trade value, typically using  consumer goods upkeep. All of them benefit from  Trader category modifiers.
+Amenities jobs
+These jobs produce  amenities, typically using  consumer goods upkeep.
+Crime reduction jobs
+These jobs reduce planet  crime.
+Pop growth and assembly jobs
+These jobs produce  pop growth and  pop assembly.
+Ascension jobs
+The following jobs are unlocked as part of an ascension path.
+Worker and Menial Drone jobs
+ Worker and  Menial Drone jobs
+Basic resource jobs
+The following jobs produce basic resources such as  energy,  minerals, or  food.
+Strategic resource gatherer jobs
+The following jobs produce strategic resources such as  exotic gases,  rare crystals, or  volatile motes from rare planetary features. They are  Worker jobs for regular empires, but  Complex Drone jobs for gestalt empires.
+
+Prison Industrial jobs
+Special jobs unique to  Penal Colonies. They have smaller upkeep and output than the standard industrial jobs, and are  Worker stratum jobs instead.
+Slave jobs
+Slave jobs can only be worked by pops belonging to a species that is enslaved.
+Special jobs
+Unemployed
+Pops that do not have a job, either because none is available or because they do not meet requirements, are  unemployed. Depending on , most unemployed pops will suffer a happiness penalty. With  Comfort the Fallen resolution, happiness penalty for unemployed pops is reduced by  −10%
+Undergoing Assimilation
+Pops set to  Assimilation citizenship have their stratum changed to  Assimilation and are automatically set to  Undergoing Assimilation jobs. The job's effects depend on the assimilation type.
+Purging
+Pops set to  Undesirables citizenship have their stratum changed to  Undesirables and are automatically set to  Purging jobs that produce resources based on the . Certain purge types are inherit base output modifiers from certain categories.
+Purged pops also produce additional resources for certain empire types, regardless of purge type:
+With  Fanatic Purifiers:
+ +2 Monthly unity per 100 purging pops
+ 5~100 Unity
+ per 100 purged pops
+With  Devouring Swarm:
+ +2 Monthly society research per 100 purging pops
+ 5~100 Society Research
+ per 100 purged pops
+If  Wilderness, gain  Biomass equal to 10% of purged pops
+Subversive jobs
+High crime, deviancy, or unemployment can create planet modifiers that add subversive jobs. Pops will abandon subversive jobs if  Elite,  Specialist, or  Soldier jobs become available. All subversive jobs have negative output.
+Pre-sapient jobs
+Pre-sapients are not normally productive, but depending on the  Pre-Sapients policy, they can produce amenities or resources. Pre-sapient pops use the  Pre-Sapients stratum.
+Bio-Trophy
+Organic pops in  Rogue Servitor empires use a special  Bio-Trophy stratum and jobs. Employed Bio-Trophy pops have their housing needs automatically fulfilled.
+Neural Chip
+Pops on the  Synaptic Lathe have their stratum changed to  Computing Component and are automatically set to Neural Chip jobs.
+Origin jobs
+Unique jobs unlocked by certain origins.
+Broken Shackles jobs
+Empires with the  Broken Shackles origin start with  that provide low tech jobs. They are replaced by regular jobs once the buildings are upgraded.
+Knightly Order jobs
+Empires with the  Knights of the Toxic God origin use unique jobs on their starting habitat and , as well as from  upgraded homeworld features.
+Wrangler jobs
+Empires with the  Primal Calling origin use unique Wrangler jobs, with different variants depending on stance (or  Warrior Culture civic). They are added by unique Wildlife buildings and the  Untamed Wilds modifier.
+They are all classified as  Wranglers, a sub-category of  Culture Workers, and also produce additional output .
+Overlord jobs
+Overlord jobs are generated by  and can be used by both individualist and  Gestalt Consciousness subjects. The upkeep is paid by the subject. All overlord jobs have a priority of 4 and the subject cannot lower or raise the job's priority.
+Event jobs
+Event jobs are generated by either planetary features or planet modifiers.
+Pre-FTL jobs
+ use the same strata system as normal empires, but their jobs provide negligible output.
+Standard pre-FTL jobs
+These jobs are used by regular pre-FTL civilizations.
+Hive Mind pre-FTL jobs
+These jobs are used by  Hive Mind pre-FTL civilizations.
+Unique pre-FTL jobs
+These jobs are used by unique pre-FTL civilizations.
+Fallen empire jobs
+Fallen empires use a special set of  Precursor stratum jobs that have no upkeep. By default, pops without any building-provided jobs will be  Hedonists.

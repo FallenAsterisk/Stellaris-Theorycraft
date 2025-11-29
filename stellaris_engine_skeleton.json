@@ -1,0 +1,534 @@
+{
+  "description": "Stellaris Engine Skeleton - master JSON structure for modules. Fill in the arrays with your real data.",
+  "version": "skeleton-v1",
+  "modules": {
+    "01_tech": {
+      "description": "Technology data: physics, society, engineering.",
+      "schema": {
+        "tech_object": {
+          "id": "string (e.g. tech.battleships)",
+          "name": "string",
+          "area": "physics | society | engineering",
+          "subfield": "string (e.g. computing, field_manipulation, voidcraft, biology, etc.)",
+          "tier": "integer (0-5)",
+          "base_cost": "number",
+          "prerequisites": [
+            "tech id"
+          ],
+          "unlocks_components": [
+            "component id"
+          ],
+          "unlocks_ships": [
+            "ship_hull id"
+          ],
+          "unlocks_buildings": [
+            "building id"
+          ],
+          "unlocks_districts": [
+            "district id"
+          ],
+          "unlocks_jobs": [
+            "job id"
+          ],
+          "unlocks_traits": [
+            "trait id"
+          ],
+          "unlocks_policies": [
+            "policy id"
+          ],
+          "unlocks_edicts": [
+            "edict id"
+          ],
+          "unlocks_megastructures": [
+            "megastructure id"
+          ],
+          "modifies_rules": [
+            "rule id"
+          ],
+          "tags": [
+            "string"
+          ]
+        }
+      },
+      "data": {
+        "techs": []
+      }
+    },
+    "02_traits": {
+      "description": "All traits: biological, machine, cyborg, overtuned, ascension, unique.",
+      "schema": {
+        "trait_object": {
+          "id": "string (e.g. trait.industrious)",
+          "name": "string",
+          "type": "biological | machine | cyborg | overtuned | ascension | unique | pre_sapient",
+          "cost": "integer (can be negative)",
+          "picks_used": "integer",
+          "modifiers": "object (job output, growth, upkeep, habitability, etc.)",
+          "conflicts_with": [
+            "trait id"
+          ],
+          "requires": [
+            "ids (tech, civic, authority, archetype, etc.)"
+          ],
+          "tags": [
+            "string"
+          ]
+        }
+      },
+      "data": {
+        "traits": []
+      }
+    },
+    "03_species": {
+      "description": "Species archetypes, species rights, population rules.",
+      "schema": {
+        "species_archetype_object": {
+          "id": "string (e.g. archetype.organic)",
+          "name": "string",
+          "primary_trait": "string (organic | lithoid | thermophile | machine | etc.)",
+          "base_upkeep": "object (resource -> amount)",
+          "base_growth": "number",
+          "base_assembly": "number",
+          "habitability_baseline": "object (climate_group -> fraction)",
+          "tags": [
+            "string"
+          ]
+        },
+        "species_rights_object": {
+          "id": "string",
+          "name": "string",
+          "category": "citizenship | slavery | assimilation | migration | colonization | etc.",
+          "effects": "object (political power, jobs allowed, purge type, etc.)",
+          "requirements": [
+            "ids (ethics, civics, authority, tech, etc.)"
+          ]
+        },
+        "pop_rule_object": {
+          "id": "string (e.g. rule.pop_growth_hive)",
+          "type": "growth | assembly | habitability | upkeep",
+          "formula": "string",
+          "affected_by": [
+            "ids (traits, buildings, techs, civics, etc.)"
+          ]
+        }
+      },
+      "data": {
+        "species_archetypes": [],
+        "species_rights": [],
+        "pop_rules": []
+      }
+    },
+    "04_empire": {
+      "description": "Ethics, authorities, civics, policies, edicts, factions.",
+      "schema": {
+        "ethic_object": {
+          "id": "string",
+          "name": "string",
+          "axis": "string (materialist, xenophile, etc.)",
+          "fanatic": "boolean",
+          "modifiers": "object",
+          "excludes": [
+            "ethic id"
+          ],
+          "tags": [
+            "string"
+          ]
+        },
+        "authority_object": {
+          "id": "string",
+          "name": "string",
+          "modifiers": "object",
+          "requirements": [
+            "ids (ethics, civics, etc.)"
+          ],
+          "tags": [
+            "string"
+          ]
+        },
+        "civic_object": {
+          "id": "string",
+          "name": "string",
+          "modifiers": "object (empire-wide effects, job changes, etc.)",
+          "requirements": [
+            "ids (ethics, authority, origin, etc.)"
+          ],
+          "forbidden_with": [
+            "civic id"
+          ],
+          "tags": [
+            "string"
+          ]
+        },
+        "policy_object": {
+          "id": "string",
+          "name": "string",
+          "category": "string (policy group)",
+          "options": "array of option objects with modifiers and requirements"
+        },
+        "edict_object": {
+          "id": "string",
+          "name": "string",
+          "cost": "object (unity, influence, etc.)",
+          "modifiers": "object",
+          "requirements": [
+            "ids (tech, ethics, civics, etc.)"
+          ]
+        },
+        "faction_object": {
+          "id": "string",
+          "name": "string",
+          "ethic": "string (ethic id)",
+          "demands": "array of condition descriptors",
+          "effects": "object (unity generation, approval impact)"
+        }
+      },
+      "data": {
+        "ethics": [],
+        "authorities": [],
+        "civics": [],
+        "policies": [],
+        "edicts": [],
+        "factions": []
+      }
+    },
+    "05_economy": {
+      "description": "Buildings, districts, jobs, resources, planet features/modifiers, blockers, economy rules.",
+      "schema": {
+        "building_object": {
+          "id": "string",
+          "name": "string",
+          "category": "string (research, alloy, cg, unity, etc.)",
+          "tier": "integer",
+          "base_cost": "object (resource -> amount)",
+          "upkeep": "object",
+          "jobs_created": "array of {job_id, count}",
+          "prerequisites": [
+            "tech id"
+          ],
+          "upgrades_from": "string or null",
+          "planet_restrictions": [
+            "tags (habitat_only, hive_only, etc.)"
+          ],
+          "tags": [
+            "string"
+          ]
+        },
+        "district_object": {
+          "id": "string",
+          "name": "string",
+          "type": "city | generator | mining | agriculture | habitat_* etc.",
+          "jobs_created": "array of {job_id, count}",
+          "planet_types": [
+            "planet_class id"
+          ],
+          "tags": [
+            "string"
+          ]
+        },
+        "job_object": {
+          "id": "string",
+          "name": "string",
+          "stratum": "worker | specialist | ruler | drone",
+          "inputs": "object (resource -> amount)",
+          "outputs": "object",
+          "modifiers": "object",
+          "tags": [
+            "string"
+          ]
+        },
+        "resource_object": {
+          "id": "string",
+          "name": "string",
+          "category": "basic | strategic | special",
+          "tags": [
+            "string"
+          ]
+        },
+        "planet_modifier_object": {
+          "id": "string",
+          "name": "string",
+          "effects": "object",
+          "source": "string (tech, event, feature, etc.)"
+        },
+        "planet_feature_object": {
+          "id": "string",
+          "name": "string",
+          "effects": "object (district caps, blockers, etc.)",
+          "tags": [
+            "string"
+          ]
+        },
+        "blocker_object": {
+          "id": "string",
+          "name": "string",
+          "cleared_by": [
+            "tech id"
+          ],
+          "effects": "object"
+        },
+        "economy_rule_object": {
+          "id": "string",
+          "formula": "string",
+          "affected_by": [
+            "ids (traits, civics, buildings, etc.)"
+          ]
+        }
+      },
+      "data": {
+        "buildings": [],
+        "districts": [],
+        "jobs": [],
+        "resources": [],
+        "planet_modifiers": [],
+        "planet_features": [],
+        "blockers": [],
+        "economy_rules": []
+      }
+    },
+    "06_military": {
+      "description": "Ships, sections, components, armies, mutations, military rules.",
+      "schema": {
+        "ship_hull_object": {
+          "id": "string",
+          "name": "string",
+          "size_class": "corvette|destroyer|cruiser|battleship|titan|juggernaut|platform|bio|nanite|fe etc.",
+          "base_stats": "object (hull, armor, shields, evasion, speed, etc.)",
+          "base_cost": "object (alloys, etc.)",
+          "sections": [
+            "ship_section id"
+          ],
+          "unlocked_by": [
+            "tech id"
+          ],
+          "tags": [
+            "string"
+          ]
+        },
+        "ship_section_object": {
+          "id": "string",
+          "name": "string",
+          "slots": "array of {slot_type, size}",
+          "compatible_hulls": [
+            "ship_hull id"
+          ],
+          "tags": [
+            "string"
+          ]
+        },
+        "component_object": {
+          "id": "string",
+          "name": "string",
+          "slot_type": "weapon|utility|core|aux|sensor|thruster|reactor|aura|strike_craft",
+          "sizes": [
+            "size labels"
+          ],
+          "stats": "object (damage, tracking, accuracy, modifiers vs armor/shields/hull, etc.)",
+          "unlocked_by": [
+            "tech id"
+          ],
+          "requires_resources": "object",
+          "tags": [
+            "string"
+          ]
+        },
+        "army_object": {
+          "id": "string",
+          "name": "string",
+          "type": "assault|defense|psionic|clone|robotic|bio etc.",
+          "stats": "object (damage, morale, health)",
+          "unlocked_by": [
+            "tech id"
+          ],
+          "tags": [
+            "string"
+          ]
+        },
+        "mutation_object": {
+          "id": "string",
+          "name": "string",
+          "category": "offensive|defensive|special",
+          "effects": "object",
+          "unlocked_by": [
+            "tech id"
+          ],
+          "tags": [
+            "string"
+          ]
+        },
+        "military_rule_object": {
+          "id": "string",
+          "formula": "string",
+          "affected_by": [
+            "ids"
+          ]
+        }
+      },
+      "data": {
+        "ship_hulls": [],
+        "ship_sections": [],
+        "components": [],
+        "armies": [],
+        "mutations": [],
+        "military_rules": []
+      }
+    },
+    "07_megastructures": {
+      "description": "Megastructures, habitats, orbital rings, crisis megastructures.",
+      "schema": {
+        "megastructure_object": {
+          "id": "string",
+          "name": "string",
+          "stages": "integer or array",
+          "cost": "object",
+          "upkeep": "object",
+          "effects": "object",
+          "prerequisites": [
+            "tech id"
+          ],
+          "planet_restrictions": [
+            "tags"
+          ],
+          "tags": [
+            "string"
+          ]
+        },
+        "habitat_object": {
+          "id": "string",
+          "name": "string",
+          "districts_allowed": [
+            "district ids"
+          ],
+          "prerequisites": [
+            "tech id"
+          ],
+          "effects": "object",
+          "tags": [
+            "string"
+          ]
+        },
+        "orbital_ring_object": {
+          "id": "string",
+          "name": "string",
+          "tier": "1|2|3",
+          "modules": [
+            "module ids"
+          ],
+          "prerequisites": [
+            "tech id"
+          ],
+          "effects": "object",
+          "tags": [
+            "string"
+          ]
+        },
+        "crisis_megastructure_object": {
+          "id": "string",
+          "name": "string",
+          "stages": "integer",
+          "effects": "object",
+          "requirements": [
+            "tech ids or crisis-level triggers"
+          ],
+          "tags": [
+            "string"
+          ]
+        }
+      },
+      "data": {
+        "megastructures": [],
+        "habitats": [],
+        "orbital_rings": [],
+        "crisis_megastructures": []
+      }
+    },
+    "08_events_situations": {
+      "description": "Situations, event tech, relics, archeotech.",
+      "schema": {
+        "situation_object": {
+          "id": "string",
+          "name": "string",
+          "category": "string",
+          "stages": "array of stage descriptors",
+          "effects": "object",
+          "requirements": [
+            "ids"
+          ]
+        },
+        "event_tech_object": {
+          "id": "string",
+          "name": "string",
+          "unlocked_by": "event chain id",
+          "effects": "object",
+          "tags": [
+            "string"
+          ]
+        },
+        "relic_object": {
+          "id": "string",
+          "name": "string",
+          "effects": "object",
+          "activation_cost": "object",
+          "tags": [
+            "string"
+          ]
+        },
+        "archeotech_object": {
+          "id": "string",
+          "name": "string",
+          "category": "weapon|defense|utility",
+          "stats": "object",
+          "unlocked_by": [
+            "ids"
+          ]
+        }
+      },
+      "data": {
+        "situations": [],
+        "event_tech": [],
+        "relics": [],
+        "archeotech": []
+      }
+    },
+    "09_rules": {
+      "description": "Global rules: population, economy, combat, research, diplomacy, empire size.",
+      "schema": {
+        "rule_object": {
+          "id": "string (e.g. rule.pop_growth_base)",
+          "type": "population|economy|combat|research|diplomacy|empire",
+          "formula": "string",
+          "affected_by": [
+            "ids (traits, civics, techs, policies, etc.)"
+          ],
+          "notes": "string"
+        }
+      },
+      "data": {
+        "rules": []
+      }
+    },
+    "10_metadata": {
+      "description": "Engine-level metadata, versioning, indices.",
+      "schema": {
+        "metadata_object": {
+          "id": "string",
+          "value": "any"
+        }
+      },
+      "data": {
+        "metadata": [],
+        "modules_list": [
+          "01_tech",
+          "02_traits",
+          "03_species",
+          "04_empire",
+          "05_economy",
+          "06_military",
+          "07_megastructures",
+          "08_events_situations",
+          "09_rules",
+          "10_metadata"
+        ]
+      }
+    }
+  }
+}

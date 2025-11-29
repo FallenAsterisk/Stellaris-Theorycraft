@@ -1,0 +1,10 @@
+{
+  "description": "Example megastructure subset.",
+  "megastructures": [
+    {
+      "id": "mega.dyson_sphere",
+      "name": "Dyson Sphere",
+      "stages": 5
+    }
+  ]
+}

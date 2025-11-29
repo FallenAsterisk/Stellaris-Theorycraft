@@ -1,0 +1,91 @@
+Resources
+
+Version
+
+Please help with verifying or updating older sections of this article. At least some were last verified for  4.1.
+
+This article is for the PC version of Stellaris only.
+Resources
+
+Common resources
+ 
+ 
+
+A  with four units of research resources and one unit of the very rare Zro resource.
+In , the economy is based on production and consumption of resources and services, either from a specific  or throughout the . It relies primarily on  pops working  jobs to produce most resources, with mining or research stations built over space deposits as a secondary source. Certain  and other sources can produce resources as well.
+Resources can vary from fairly common  food crops to very rare substances such as  dark matter and also abstract concepts such as  influence and  research.
+There are two kinds of resources: Material and Abstract. In addition, certain empire capacities (e.g.  naval capacity) or planetary values (e.g.  amenities) are "produced" in a similar way to resources. If an empire's stored stockpile for a material resource drops to 0 with negative income, for most material resources it triggers a  situation and for rare and abstract resources, it gives an empire-wide penalty.
+Contents
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Resource storage capacity
+All resources can be stockpiled. All empires have a 15,000 starting storage capacity for each material resource except  trade, which has a 50,000 starting storage capacity. An empire can build   buildings on colonies and   buildings on starbases to expand their storage capacity. In addition, when the Galactic Market is founded, all members of the  Galactic Community gain 10,000 storage capacity unless the  Universal Prosperity Mandate resolution has been passed, and researching  Mega-Engineering adds 20,000 to an empire's storage capacity. When an empire's storage capacity for a resource is reached, any additional production of that resource is simply lost.
+For abstract resources, only  influence has a maximum storage capacity: 1,000.  Unity and  research have unlimited storage capacity; stored research is automatically used when researching a technology or special project, for more see .
+Material resources
+Material resources are the primary means of developing an empire's infrastructure. Most construction – whether , , , or other – requires at least one material resource. Additionally, material resources are used for most  upkeep, from  pops to ships to megastructures and more.
+Resource deposits the empire does not have the technology to exploit will appear greyed out on map.
+Basic resources
+Basic resources are directly gathered from orbital deposits or by  jobs from . Biomass is only available to empires with the  Wilderness origin.
+Advanced resources
+Advanced resources are produced by  jobs which refine them from  minerals.  Gestalt Consciousness empires do not use or produce  consumer goods unless they have the  Rogue Servitor or  Obsessional Directive civic or are paying some monthly expense of the resource (for instance paying contribution to a subject or overlord).
+Strategic resources
+ Strategic resources are specialized resources required to both build and maintain advanced buildings and ship components. They are harder to obtain than the common basic and advanced resources and are therefore also much more highly valued. Strategic resources can be obtained by either extracting them from natural space or planetary deposits or manufacturing them synthetically. Natural strategic resource deposits are always visible but requires specific technologies to exploit. Synthetic versions are produced from  minerals, albeit at a steep price. All strategic resources can also be manufactured from Fallen Empires' Dimensional Fabricator buildings.
+Rare resources
+Rare resources which cannot be manufactured by regular empires. Space and planetary deposits of these resources are much less common than even the regular strategic resources. Fallen Empires' Dimensional Fabricator buildings are uniquely able to produce the following resources, making them highly desirable.
+Abstract resources
+Abstract resources represent an empire's sociopolitical and technological capabilities.
+Empire caps
+Empire caps impose various limits on the expansion of an empire.
+The market
+
+The market
+The market is available to every empire from the start, and represents various actors within an empire with whom the empire itself can buy and sell resources. Resources are bought and sold for  Trade, with their prices dependent on empire economy, supply and demand, and whether the galactic market is founded. The price can go as low as 20% and as high as 500% of the base price, further subject to market fee. Resources can be purchased or sold either in bulk (bottom left of the Market screen) or by setting up an automatic monthly trade order (bottom right, ).
+If too much of a resource is bought in a single month, the price for that resource will rise for the following month(s); if too much is sold, the price will drop. This is true for both bulk purchases (left side of screen) and automated Monthly Trades (right side), and the two are additive for any given month. Returning any buying/selling of that resource to within the values listed will, over time, shift the price back toward and eventually to the Base Price.
+The market base prices are the following:
+Automated trading
+In the right lower area of the Market screen, a player can "Add new monthly trade", to automatically buy or sell a specified amount of any or all of the 5 basic resources ( Energy Credits,  Minerals,  Food,  Consumer Goods, and/or  Alloys) each month. Optionally, the player can also, in the same area, specify a maximum or minimum price, which is useful if the player wishes to return the current price back to the Base Price (see table and comments, previous).
+When selecting an amount to Buy, it's important to understand that all purchases are paid for with stored  Trade; if you don't have enough Trade stored, you cannot make the Purchase. This amount does not include "future" Trade, only what you currently have on hand.
+Similarly, when selecting an amount to Sell, it's also important to understand that the Market does not allow the player to sell "future" production, i.e. you can only sell what you have currently stored before the date clicks over from the 30th to the 1st of the next month. You cannot sell based on your monthly "income", only what is currently listed as "stored".
+Lastly, and of equal importance, understand that, if a Sale order is more than is available, that sale will not be made! The game will not sell "what is available" and partially complete the order, it will simply ignore the excessive sale order entirely and sell zero that turn.* With this in mind, be aware that +/- resource production values included in the top margin are rounded nearest - mouse-hover over the value to make sure you are not selling a fraction over the monthly income.
+(* Note: At the time of this posting (July 2025), it is not known if this is working as intended or not, it is simply the observed current mechanic.)
+Example:
+A player wants to build a Colony Ship, which will cost 200 Food, 200 Consumer Goods, and 200 Alloys. They currently have 225 Food stored, and a surplus Food production of +35, so while waiting to get enough of CG's and Alloys, they are selling off their extra Food, -35/Turn, so the 225 stored Food value stays stable. The player has carefully balanced the rest of their Purchase and Sales around that, so their Trade is also stable.
+They finally get 200(+) of both Consumer Goods and Alloys, and Build their Colony Ship. {225 Food -200} leaves them with 25 Food stored. They do not adjust their standing automated Food Sell order, so it remains at -35/month.
+Next turn, there is not enough food stored to cover the -35 monthly Sell order, so that is ignored, and 0 Food is sold and +0 Trade is generated from Food sales this month. The full value of 35 Food production is applied, leaving the player with 60 food stored (previous 25 + 35 production), and a drop in Trade income from the loss of 35 Food sold.
+The turn after that, there is then enough Food (60) to cover the -35 Sell order, so that monthly Sell order is completed successfully, leaving 60 Food stored (60 stored previously, -35 sold, +35 produced), and the Trade income returns as it was previously.
+Galactic market
+The galactic market is created via the  Form the Galactic Market galactic focus in the Galactic Community. Once the focus is set the Galactic Market Nomination will begin. For 5 years, eligible empires may boost their chances of being selected as the market nexus by nominating one of their planets and further by boosting their nomination bid.
+The host for the galactic market is chosen through two random rolls. The first happens when the  Galactic Market Hub Nomination decision is enacted on a planet. This randomly assigns a rating ranging from Weak to Strong to the planet according to the weightings listed below, under Nomination rating chance. Improving the trade output the planet later on will not improve the rating of the planet, however the nomination can be revoked and then repaid to reroll the weighting. Additionally, this rating can be improved to the next higher rating by passing the  Boost Nomination Bid decision up to two times. Each empire can only nominate a single planet.
+Once 5 years have passed, the second random roll happens, determining the planet to host the galactic market. In this roll, each planet is weighted according to the rating of the owning empire's nominated planet, if any, and the total trade value produced in the system, using this calculation:
+Start with the empire's market nomination rating as a number from 1 (None) to 6 (Perfect).
+Multiply by the total trade value produced in the same system as the planet. This includes the planet itself, all other colonies in the same system, and any trade value deposits in the same system. It does not include trade gathered from other systems by the starbase.
+If the specific planet is not nominated, divide by 10.
+Raise to the exponent of 1.5.
+For example, a planet with a Strong nomination that produces 90 trade value, with another planet in the system that produces 10 trade value, would have a winning weight of (4 * 100)1.5 = 8000. The other planet in the same system would have a winning weight of (4 * 100 / 10)1.5 = 252.98. A planet in another system with 10 trade value, owned by the same empire, would have a winning weight of (4 * 10 / 10)1.5 = 8.
+Winning weight is effectively the chance of each planet succeeding in the bid. Your chance of winning is calculated using YourWinningWeightAllWinningWeights
+The lottery weights are:
+Empires may only access and trade on the galactic market if they are a member of the  Galactic Community. The owner of the galactic market system enjoys a reduction in its market fee. Supply and demand on the galactic market affects the prices for every empire, and large shifts in prices will affect the economy of every empire relying on importing or exporting a resource. Resources will only become available after at least one empire has them in storage.
+If the empire hosting the galactic market leaves the galactic community the nomination process will start again to choose a new host. If the hosting empire loses ownership of the system with the galactic market, the market system will be relocated if that system has no owner or is now held by an empire who is not a member of the galactic community, with the galactic market station relocating to a weighted random galactic community member's capital system.
+Slave market
+Access to the slave market is granted once the galactic market is founded. Only empires that also have access to the galactic market will be able to use the slave market. Only pops that are enslaved are able to be sold on the slave market, with a base price of 1000  Energy Credits, raised or lowered by species traits.  Mechanical pops can be bought and sold on the market if enslaved or non-sentient. Empires will be notified if there are slaves of their founder species put on sale.
+Empires that have the slavery policy set to Outlawed will set free any pop bought on the slave market, but the pop price will be doubled.
+The slave market can be closed first for organic species and then for all species via Galactic Community resolutions.
+Market fee
+All sales or purchases on the internal and galactic market have a market fee added to them. The market fee starts at 30% and cannot go below 5%. It can be altered by the following:
+ Trader Proxy Office starbase buildings: −5% each
+ Insider Trading tradition: −10%
+ Adaptive Programming tradition: −10%
+Hosting the Galactic Market: −10%
+The Economic Sanctions Galactic Community resolution will increase the market fee by +10% per level of the sanctions (max +30%).

@@ -1,0 +1,106 @@
+Factions
+
+Version
+
+This article has been verified for the current PC  (4.2) of the game.
+
+Factions screen
+Factions are groups of  Pops with shared demands regarding the governance of the Empire. Most ethics have only one faction, and in most cases, every pop joins the faction corresponding to its ethic. Faction names are randomly generated but can be manually changed at any point.  Gestalt Consciousness empires don't have factions.
+Contents
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Faction properties
+Every faction has all of these properties. Approval, size, and support are usually the most important figures to keep in mind.
+Formation
+Factions can begin forming after 10 years as long as the empire has encountered alien life (including space fauna). Empires with the  Broken Shackles origin will form factions after 1 year instead. Empires with the  Parliamentary System or the  Crowdsourcing civic will form them within the first 3 months regardless of origin. All factions require at least 500 pops with the Full Citizenship or Residence species rights to appear and if the number of pops drops below that the faction will be disbanded, but can be reformed later if conditions allow. There is also a 180-day cooldown between factions forming, though this does not apply to the very first set of factions. A faction can only form if its ethic attraction in the empire is at least 3%.
+The  Supremacist faction will only form if the empire does not have the  Pacifist or  Fanatic Pacifist governing ethic.
+Approval
+ Faction approval is a value from 0 to 100, starting at a base of 50 and modified by fulfilling or ignoring the faction's demands on various issues, as well as actions taken towards factions. Faction approval adds a  happiness modifier to all member pops:
+Size
+ Faction size is the number of pops who are members of the faction. Pops cannot join a faction if they have the  Hive-Minded,  Nerve Stapled,  Zombie or  Suppressed traits. Some factions have no ethics restrictions to join, others do. Some factions have different faction attraction values (this is separate from ethics attraction). Robot pops can only join factions if they have citizen rights, and cannot join the  Traditionalist faction unless the empire is Spiritualist Individualist Machines. Alien species can never join the  Supremacist faction and will instead join the  Isolationist faction.
+Depending on the size, an unhappy faction will be listed as white, yellow, or red in the outliner.
+Support
+ Faction support is the percentage of an empire's  political power held by pops in the faction. A faction can have higher support than another faction with a larger size if the smaller faction has many members who are  elites with  living standards that increase their political power.
+Issues
+Issues are the primary way of affecting faction Approval: the more issues that are fulfilled, the higher the Approval. By their nature, factions with opposing ethics have some opposing issues, making it impossible to make all factions happy. An issue can be either fulfilled or not fulfilled. In either case, it might produce a happiness penalty (red), a happiness bonus (green), or be neutral (yellow). Many issues have requirements before they can appear, making it sometimes hard to know what will please a faction before unlocking the proper options. Some issues increase Approval if fulfilled, others decrease Approval if not fulfilled, and others do both.
+Effects
+Unless they have extremely low approval, all factions produce  Unity if the empires does not have the  Crowdsourcing civic and two  Research resources if the empire has the civic. Factions produce resources equal to the 0.15 times the combined political power of the pops (not percentage) times the approval of the faction.
+Faction Support is Faction's Political Power divided by the global sum of political power of all pops in all factions (except for slaves):
+Faction Support=(Faction's Political Power/∑Political power of all pops in all factions)/10000
+Note: Pops that have an ethic, but did not form a faction, are not counted in this global sum. Faction Support is always rounded down, but that is pure cosmetic.
+Faction resource gain can be improved by the following:
+ Egalitarian ethic: +25%
+ Fanatic Egalitarian ethic: +50%
+ Parliamentary System civic: +40%
+ Democratic authority: +2% per ruler skill level
+ The Living State technology: +10%
+Actions
+There are three actions available to manipulate your empire's factions. If multiple factions have the same ethic only one faction with that ethic can be promoted or suppressed.
+Embrace shifts empire ethics one step towards the selected faction's ethics. It costs 5000  Unity, has a 10-year lockout and requires at least 20% Faction support. For 10 years the embraced faction will gain +10% Approval and the other factions will lose −35% Approval. This option is not available if the empire is a  Dominion.
+Promote gives +100%  Ethic Attraction for the faction's primary ethic and can be used in preparation for embracing the faction.
+Suppress gives −75%  Ethic Attraction for the faction's primary ethic and −50% Approval with the faction. This will cause pops to leave the faction and can potentially eliminate the faction.
+Extort is only available to empires with  Oligarchic Sleepwork authority and gives the faction −10% Approval. If the empires does not have the  Crowdsourcing civic the faction will replace its  Unity output with a different resource. If the empires has the  Crowdsourcing civic the faction will double its  Research output. With the Stately Acclaim edict the faction will also gain +50% ethic attraction for the faction's primary ethic and gain +30% Approval.
+Factions
+There are 9 standard factions, one for each  except  Xenophobe, which has two. Many faction issues are not present if the empire has the  Fanatic Purifiers civic or require the empire to have established  communications with a certain number of empires.
+The following issues appear on every faction:
+Every faction will gain +5 Approval if a leader with one of its ethics is part of the empire council
+Every faction will lose −20 Approval if a leader with one of its ethics isn't part of the empire council
+Every faction will gain +15 Approval if the  ruler has one of its ethics
+Every faction will lose −30 Approval if the  ruler has an opposed ethic
+Ethics mentioned in bold are the ones that are affected by faction actions.
+Imperialist
+
+Progressive
+
+Prosperity
+
+Technologist
+
+Totalitarian
+
+Traditionalist
+
+Xenoist
+
+Supremacist
+
+Isolationist
+
+Manifesti
+Manifesti is a special faction type that can appear during the  event chain. If the faction approval falls below 35% for an extended period of time or 940 days pass since appearance of the faction, the faction will disband and will not appear again. Manifesti has 5 odd issues.
+
+Cybernetic Creed factions
+Empires with the  Cybernetic Creed origin cannot have the  Traditionalist faction and will instead start with four unique  Spiritualist factions:
+They initially have only two issues:
+Pious Polity: +5 Approval as long as empire remains  Spiritualist, −5 otherwise
+Unhallowed Flesh: −5 Approval until the founder species gains the  Cybernetic trait, +15 afterwards
+Unlike other factions, most of their issues come from events that will happen every few years in the first years of play. Every event will add a new issue. Siding with a faction will increase its Approval but decrease the Approval of every other faction. Siding against a faction will increase the Approval of every other faction but greatly decrease the approval of the rejected faction. Both options will result in a net loss of Approval overall.
+While all four factions are present, they will produce less  Unity than regular factions.
+During stage 3 of the The Conclave of Fusion situation, one Cybernetic Creed faction must be chosen and the remaining three factions will be disbanded. Alternatively, all four factions can be merged into the  The United Creeds faction. This will remove all event issues and add the  Traditionalist faction issues.
+Secret societies
+Secret societies are three factions created a month after an empire with the  Secret Societies or  Influential Cartel civic completes the starting two first contacts. Instead of  Unity they produce empire-wide bonuses. The faction ethics will always be the governing ethics of the empire, the Fanatic ethic if the empire has one.
+Conquering a system with a Sentry Array will not trigger All Seeing Eye but losing a system with a completed Sentry Array will not remove it either.
+Scourge of the Volcano
+For empires that have the  Fire Cult civic the  Traditionalist faction is replaced by  Scourge of the Volcano.
+

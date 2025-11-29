@@ -1,0 +1,9 @@
+{
+  "description": "Raw rule-related text extracted from uploads (pop, economy, combat, research, etc.).",
+  "raw_files": [
+    "Engineering Research.txt",
+    "Pop Modification.txt",
+    "Population.txt",
+    "Society Research.txt"
+  ]
+}

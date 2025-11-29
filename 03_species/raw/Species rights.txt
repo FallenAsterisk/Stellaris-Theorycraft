@@ -1,0 +1,81 @@
+Species rights
+
+Version
+
+This article has been verified for the current PC  (4.2) of the game.
+
+Species rights interface.
+Species rights determined how species are treated in an empire. The rights can be determined individually for each species and can be changed every 10 years. Default rights for new species in the empire can also be set, which can later be modified for individual species. What rights can be selected depends on whether the species is the founder species of the empire and what , , , and  the empire has. The set rights interface can be found from the species panel.
+When a species template is created, it inherits the species right of the unmodified species. However, the template can be given separate rights afterwards.
+Contents
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Citizenship
+Citizenship represents the status of a species in an empire. It also affects  pops' ability to seek refuge: empires can allow all refugees, granting them residence or full citizenship, or only accept refugees from species that already have full citizenship.
+The founder species, as well as species from the same class if the empire has the  Selective Kinship civic, always have Full Citizenship rights. Species with Full Military Service also have Full Citizenship if the empire has the  Citizen Service civic.
+Disconnected drones citizenship
+Pops with the  Hive-Minded trait in empires without  Hive Mind authority have a different set of citizenships available.
+Assimilation
+Assimilation is a special citizenship type where pops are changed over time to match the founder species of the empire. Each month 100 pops will be assimilated. The type of assimilation depends on the empire and the pop in question. Assimilation of biological species is not available to Genocidal empires. Assimilating an invaded primitive species will remove stellar culture shock modifiers. Species under assimilation will not generate  Crime.
+Pops with the  Hive-Minded trait cannot be assimilated by non- Hive Mind empires unless the trait can be removed.
+Pops with the  Psionic trait will lose it if assimilated to add the  Cybernetic or  Hive-Minded trait.
+Pops with the  Cybernetic trait will lose it if assimilated to add the  Psionic trait.
+Empires with a robotic founder species can also assimilate all robotic pops of different species. This will change their species to the founder species.
+Sub-species integration
+Sub-species integration decides whether sub-species that are not the default template will slowly be replaced by the default template.
+Living standards
+Living standards represents how economically favored a species is, as well as the gap between different social strata. The higher the living standards of a Pop is, the more Consumer Goods it will use, but the happier it will be. Higher living standards also remove the penalties from . Happiness bonuses require the empire to not have a deficit of consumer goods.
+Most living standards cannot be used for species with  Undesirables citizenship unless their  is set to either Neutering or Synaptic Service.
+Egalitarian standards
+The following living standards are only available to  Egalitarian empires. Empires that have the  Shared Burdens or  Worker Cooperative civics cannot use other living standards except Chemical Bliss and Non-Existent. Egalitarian standards affect all strata the same way and remove the penalties from unemployment.
+Chemical Bliss
+Chemical Bliss is a living standard available to all individualist empires for biological species after researching the  Subdermal Stimulation technology unless the species has the Chattel Slavery or Domestic Servitude rights. It affects all strata with the following effects:
+ +40% Happiness
+ +1 Consumer Goods Upkeep per 100 pops (+0.1 for slaves)
+ −60% Job Efficiency
+ No unemployment penalties
+Changing the living standards of a species from Chemical Bliss to anything else will give the entire species the Withdrawal Symptoms modifier, which reduces its  happiness by −10% and its  resource output by −20% for 5 years.
+Forced standards
+The following living standards are obligatory when their conditions are fulfilled.
+Assimilation standards
+The following living standards are used by all pops with  Assimilation citizenship. All of them reduce  happiness by −50%.
+Dystopian Society
+Empires with the  Oppressive Autocracy must use this living standard except when forced as above.
+In addition to the effects above, if the empire has a deficit of consumer goods, instead of gaining happiness,  Elites lose −25% happiness and enforcers, telepaths, and colonists lose −75% happiness; the latter also lose their additional political power over their stratum. Enforcers, telepaths, and colonists also lose −75% happiness if there is a deficit of amenities on their planet, but do not lose their political power.
+Military service
+Military Service determines a species' right to join the police or military and whether or not they can become military leaders.
+Founder species must always be set to Full Military Service
+ Xenophobe empires cannot set alien species to Full Military Service, unless they have the  Selective Kinship civic, in which case they can use Full Military Service for species from their founder species class.
+ Robotic species can only be used for Military Service if the empire has the  Artificial Specialists technology or a  Machine founder species.
+Colonization rights
+Colonization Rights determines whether a species is allowed to board colony ships and settle new worlds.
+Population controls
+Population Controls determines whether a species is allowed to reproduce enough to grow new pops or only enough to ensure it will not die off.
+Migration controls
+Migration controls affect both migration between planets within the empire and migration to and from empires with a  Migration Treaty. Migration controls do not affect manual resettlement.
+Slavery type
+
+Grid Amalgamation slavery
+ Slavery type can be selected if the species has Slaves or Exploited Drones citizenship or the empire has the  Slaver Guilds or  Indentured Assets civic. Slavery type determines certain properties of an enslaved pop, such as which jobs they can be employed in. Slaves cannot take the  Knights of the Toxic God unique jobs.
+Purge type
+Purging type is only available to species with the Undesirables citizenship. It determines how quickly or humanely the pops are purged. Every option besides Neutering requires the Purge policy to be set to Allowed.
+Pops being purged can produce resources based on the purge type, for as long as the pop has the Undesirables citizenship, not just when the pop is being declined, meaning that a planet with a pop of Processing purge type will yield  +6, while a planet with 2 of these pops will yield  +12 in total, until all undesirable pops have been purged. These monthly resources are modified by planet unique buildings in the same way as the associated jobs; for example an Energy Grid gives an additional  +1 per pop under Chemical Processing.
+The  Fanatic Purifiers civic gives  +2 unity for each pop being purged while the  Devouring Swarm civic gives  +2 society research per pop in addition to the resources said purge type may have.
+Each planet has at most one pop at a time that is Declining; purging is not the only way it can happen, but it generally takes priority. A decline progress bar goes from 0 to 100, and fills up at a rate depending on the purge type. When the bar fills up, an undesirable pop on the planet will be removed. Depending on the purge type, the pop has a chance to be displaced as a , if it is eligible; otherwise it is killed. Most purge types also cause other empires to get  opinion penalties towards the purging empire, provided they have enough  Intel to know it is happening.
+All non-gestalt empires that have the same founder species as the purged pop will have their  opinion of the purger reduced by −25 per pop, to a maximum of −1000.
+All other empires will also have their opinion of the purger reduced by −5, and  Egalitarian or  Xenophile empires who don't allow species-wide purges have it reduced by a further −5–15 per pop, to a maximum of −1000.

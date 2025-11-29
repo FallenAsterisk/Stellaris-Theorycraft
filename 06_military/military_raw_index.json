@@ -1,0 +1,11 @@
+{
+  "description": "Raw military-related source text (ships, components, weapons, armies, mutations, etc.) extracted from your uploads.",
+  "raw_files": [
+    "Core components.txt",
+    "Mutations.txt",
+    "Offensive Mutations.txt",
+    "Ship designer.txt",
+    "Utility Components.txt",
+    "Weapon Components.txt"
+  ]
+}

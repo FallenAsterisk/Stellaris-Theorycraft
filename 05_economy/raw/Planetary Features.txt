@@ -1,0 +1,95 @@
+Planetary features
+
+Version
+
+This article has been verified for the current PC  (4.2) of the game.
+Celestial object
+
+
+
+Planetary features
+
+Planetary features represent notable areas found on natural planets. They determine the number of Districts the planet can support and some features exclusively obtained by events can provide various bonuses to planets. If a planet is terraformed into an  Ecumenopolis,  Hive World or  Machine World, it loses all of its planetary features, including event features. Hive Worlds and Machine Worlds do not lose the deposit features that determine the max number of Strategic Resource buildings.
+Contents
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Features
+Deposit features
+These planetary features are generated on each natural planet and determine the number of resource districts the planet can support. They are rerolled if the planet is terraformed but are likely to change into planetary features with the same effects that fit the new planet class. Each planet will have between 4 and 15 deposit features depending on planet size.
+Dry planets are 50% more likely to have planetary features that increase the limit for Generator Districts, wet planets are 50% more likely to have planetary features that increase the limit for Agriculture Districts and cold planets are 50% more likely to have planetary features that increase the limit for Mining Districts.
+Features that increase the number of  Agriculture Districts and  Mining Districts cannot appear on  Volcanic Worlds. Features that increase the number of  Magma Conduits and  Thermotechnic Forums can only appear on  Volcanic Worlds.
+Strategic resource deposits
+Strategic resource deposits increase the maximum number of districts and if the required extraction technology is researched, add additional strategic resource output to jobs and unlock a strategic resource specialization. Each planet can only have one strategic resource deposit for each resource and they cannot appear on homeworlds, with exception for certain origins. They are 50% more likely to appear on their favored planet class and 100% more likely to appear on  Gaia Worlds.
+Anomaly features
+These planetary features can be added by anomalies found on habitable planets.
+Decision features
+These planetary features can be added by certain decisions on owned planets.
+Relic world features
+These planetary features can only be found on relic worlds and are usually blocked by relic world blockers.
+Event features
+These planetary features do not naturally generate on planets. They can be created exclusively by certain events and controllable factors.
+Terraforming features
+These planetary features can only appear following choices made during .
+Homeworld features
+These features can be found on empire homeworlds:
+Earth features
+Earth has a set of custom planetary features when selected as the empire homeworld, detailing its history before the events of Stellaris.
+Toxic God features
+Empires with the  Knights of the Toxic God origin start with an extra set of planetary features. Initially they all reduce  Max Districts by −1. Based on choices made during the , they can be replaced with beneficial planetary features.
+Unique features
+These features can only be found on certain worlds in the galaxy.
+Transformation features
+These features can only be obtained during the . They come in 3 levels of quality depending on how much the empire invested in each research event during the situation. When the empire chooses its ascension tradition path in stage IV, the related feature has its output tripled.
+Cosmic storm features
+After a cosmic storm every habitable planet affected by the storm has a 6.6% chance to gain a special planetary features. Each planetary feature can only appear once per empire.
+Blockers
+Blockers are obstacles that reduce  Max Districts, and may block some planetary features from being exploited. They can be cleared by spending resources and time and some of them may have rewards when cleared. Clearing can be done while the planet is being colonized or after the colony is completed.
+Blockers have a  yellow border if they can be removed, and a  red border if they cannot be removed due to missing technology or other requirements.
+If a natural planet is terraformed into a planet class other than  Ecumenopolis, all of its blockers are cleared and rewards are given. If it was terraformed into  Hive World or  Machine World, the planetary feature it unblocks will be lost.
+Natural blockers
+These blockers can be found on . Most of them require a certain  New Worlds technology to be cleared.  Ranger jobs will produce additional resources for each natural blocker.
+Relic world blockers
+There are a number of blockers that can be exclusively found on relic worlds. They are expensive but rewarding to remove.
+Homeworld blockers
+Each empire homeworld starts with at least three blockers that don't require technology to be cleared. They reward either a  pop or a planetary feature when cleared. The blocker types can vary based on government and origin.
+Event blockers
+These blockers can be created by certain events. These blockers do not block any planetary feature or require any technology to be cleared but still decrease the max districts.
+Shattered Ring World blockers
+ Shattered Ring Worlds that are not a homeworld (the ones created by the Guaranteed Habitable Worlds setting) will have a number of additional blockers that impair the functionality of the segment.
+Detox blockers
+ Toxic Worlds that have been terraformed will have one of each of the following blockers. They give more penalties to the colony than regular blockers and take a year to remove.
+Wilderness blockers
+Wilderness blockers appear when a planet owned by an empire with the  Wilderness origin is conquered by an empire that doesn't have the origin. They come in two levels depending on how many of each district the planet had. Wilderness blockers take 4 months to remove.
+Blazing Scourge blockers
+Blazing Scourge blockers can only be added by the decision with the same name. All of them give a −20% penalty to  Habitability which cannot be canceled by any habitability bonuses. If the empire has the  Fire Cult civic the blockers will also give +500  Amenities.
+Unique blockers
+These blockers can only be found on certain worlds in the galaxy.
+Orbinal bombardment blockers
+These blockers can only spawn from orbital bombardment that caused sufficient  Devastation.
+Other blockers
+These blockers do not block any planetary feature or require any technology to be cleared but still decrease the max districts and may have other negative effects.

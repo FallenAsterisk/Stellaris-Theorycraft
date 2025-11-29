@@ -1,0 +1,15 @@
+{
+  "description": "Metadata example.",
+  "modules": [
+    "01_tech",
+    "02_traits",
+    "03_species",
+    "04_empire",
+    "05_economy",
+    "06_military",
+    "07_megastructures",
+    "08_events_situations",
+    "09_rules",
+    "10_metadata"
+  ]
+}

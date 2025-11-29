@@ -1,0 +1,75 @@
+Government
+
+Version
+
+Please help with verifying or updating older sections of this article. At least some were last verified for  4.1.
+
+This article is for the PC version of Stellaris only.
+Every  has a government that provides different benefits and positions for  leaders. The name of a government is automatically determined according to its , ,  and . The government can be reformed once every 20 years at the cost of 10  Unity per each point of  Empire Size.
+Contents
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Authority
+An empire's authority decides how the ruler is selected, what their effects are, and what other bonuses the empire receives.
+Individualist authorities
+The rulers of non-gestalt empires are changed through elections, which are held over a number of years or when the current ruler dies, except in  Imperial empires, where the heir becomes the new ruler. These authorities can be changed by reforming the government unless the empire has the  Under One Rule origin.
+ The Machine Age DLC is required to select non-gestalt authorities as a  Machine species.
+Gestalt authorities
+Gestalt authorities can only be selected by  Gestalt Consciousness empires. They do not hold elections, their ruler and council nodes are immortal, and their authority type cannot be changed once the game starts.
+Ascension authorities
+Empires that completed an  will have the option to replace their authority with an ascension authority. All ascension authorities will inherit the ruler effects and election mechanics from its parent authority, with exception for some ascension  Imperial authorities, which have different . The initial authority will match the parent authority but the empire can switch between authorities within the same set by reforming government. Subject empires will also unlock ascension authorities if their overlord does.
+Synthetic authorities
+Empires that completed the Synthetization situation can unlock synthetic authorities. 6 months after the situation is finished, the  event chain will start. Completing it will unlock either the physical or virtual set of authorities depending on whether the empire made more physical or virtual choices during the event chain. If the empire picked an equal number of physical and virtual choices they can choose which set to unlock.
+Cybernetic authorities
+Empires that completed the Cyberization situation can unlock cybernetic authorities. For empires that are not  Gestalt Consciousness or  Cybernetic Creed, 6 months after the situation is finished the  event chain will start. For  Gestalt Consciousness empires the choices will take place during the Cyberization situation instead. Both will unlock either the individualist or the collectivist set of authorities depending on whether they make more individualist or collectivist choices during the event chain. If they picked an equal number of individualist and collectivist choices they can choose which set to unlock.
+Cybernetic Creed authorities
+Empires with the  Cybernetic Creed origin will unlock a different set of authorities upon finishing the The Conclave of Fusion situation.
+Biological authorities
+Biological authorities are unlocked by completing one of the biological ascension tradition trees. They are not available to empires with the  Wilderness origin.
+Evolutionary Predators authorities
+Empires with the  Evolutionary Predators origin will unlock a different set of authorities if they complete the  Mutation tradition tree. All of them reduce  Empire Size by 1% for each trait the founder species has.
+Psionic authorities
+Empires that do not have the  Endbringers origin or a covenant with End of the Cycle and have delved into the Shroud at least 3 times can unlock advanced authorities. The chance to unlock them is 5% for every delve into the Shroud. For empires that formed a Covenant or chose to reject all Covenants the chance is increased by 50%.
+When the empire delves into the Shroud it will be contacted by the Shroud and asked three questions during the event Shroud Song: Mind, Energy, Death. The top answer is transcendent while the bottom answer is corporeal. Depending on whether most answers were transcendent or corporeal the empire will be offered the option to unlock the matching advanced authority set.
+Elections
+Elections come in two kinds: democratic and oligarchic. Dictatorial authorities also have elections, which are identical to oligarchic ones except that the winner rules until death. Imperial authorities have no elections. The election cycle lasts 3 months and all empire leaders take part. The current ruler stays in office until the replacement is decided (if applicable). The cost of influencing elections is reduced by −75% by the  Shadow Council civic.
+In oligarchic elections, a random leader is chosen as the next ruler. The empire can pay an amount of  Unity determined by empire size to choose the winner.
+In democratic elections, each leader has a Support value which is equal to the power of the faction that shares its ethic. The leader with the highest Support becomes the next ruler. Support is affected in the following ways:
++20% if the empire is  Fanatic Xenophile and the leader is not from the founder species or the current ruler
++20% if the leader class is favored by the government type
++20% if the leader has a veteran class focused on the council
++10% if the leader is the current ruler
++5% if the leader is already part of the empire council
++5% per councilor trait
++2% per skill level
+−20% if the leader has a veteran class not focused on the council
+−20% if the leader is near the end of its lifespan
+−50% if the empire is not any degree of  Xenophobe or  Xenophile and the leader is not from the founder species
+Does not apply to leaders from the same species class if empire has the  Selective Kinship civic
+−90% if the empire is  Xenophobe and the leader is not from the founder species
+Does not apply to leaders from the same species class if empire has the  Selective Kinship civic
+−99% if the empire is  Fanatic Xenophobe and the leader is not from the founder species
+Does not apply to leaders from the same species class if empire has the  Selective Kinship civic
+The empire can pay an amount of  Unity determined by empire size to increase support by +5 each time
+An election will immediately take place if the ruler dies.
+Government type
+Aside from setting the default name of the  Ruler council position and deciding the first AI message when establishing communications, government types also decide which leader classes will have increased support during democratic elections.
+The rules are not dissimilar from an AI Personality: Certain requirements must be met and every value has a weight – which can be modified by certain factors – with the highest weighted option being used. Governments that are not assigned due to a special civic or a weight multiplier always have the  or Materialist option as the highest weighted priority if either of the two ethics are chosen, even if either Militarist or Pacifist are set to Fanatic. However, Militarist civic government options tiebreak to override Materialist civic government options if both are the same weight, and Spiritualist civic governments of the same weight as Militarist ones override them in turn.
+Certain civics, such as  Warrior Culture, override ones of the same weight and  type. In the case of  Warrior Culture, it takes precedence over  Citizen Service.
+Ascension governments
+Ascension governments can be adopted as a result of pursuing an ascension path.
+Unplayable governments
+The following government types are not available to player empires.

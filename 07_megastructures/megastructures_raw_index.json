@@ -1,0 +1,7 @@
+{
+  "description": "Raw megastructure-related source text (megastructures, habitats, orbital rings, player crisis) extracted from your uploads.",
+  "raw_files": [
+    "Megastructures.txt",
+    "Player Crisis.txt"
+  ]
+}

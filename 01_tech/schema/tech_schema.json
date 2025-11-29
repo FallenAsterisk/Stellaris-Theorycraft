@@ -1,0 +1,47 @@
+{
+  "description": "Canonical tech object layout for Stellaris engine.",
+  "tech_object": {
+    "id": "string (e.g. tech.battleships)",
+    "name": "string",
+    "area": "physics | society | engineering",
+    "subfield": "string (e.g. field_manipulation, voidcraft, biology, etc.)",
+    "tier": "integer (0-5)",
+    "base_cost": "float (unmodified research cost)",
+    "prerequisites": [
+      "array of tech ids"
+    ],
+    "unlocks_components": [
+      "array of component ids"
+    ],
+    "unlocks_ships": [
+      "array of ship_hull ids"
+    ],
+    "unlocks_buildings": [
+      "array of building ids"
+    ],
+    "unlocks_districts": [
+      "array of district ids"
+    ],
+    "unlocks_jobs": [
+      "array of job ids"
+    ],
+    "unlocks_traits": [
+      "array of trait ids"
+    ],
+    "unlocks_policies": [
+      "array of policy ids"
+    ],
+    "unlocks_edicts": [
+      "array of edict ids"
+    ],
+    "unlocks_megastructures": [
+      "array of megastructure ids"
+    ],
+    "modifies_rules": [
+      "array of rule ids"
+    ],
+    "tags": [
+      "array of strings for categorization"
+    ]
+  }
+}

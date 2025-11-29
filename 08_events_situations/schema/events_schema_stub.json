@@ -1,0 +1,32 @@
+{
+  "description": "Schema stub for events, situations, relics.",
+  "situation_object": {
+    "id": "string",
+    "name": "string",
+    "category": "string",
+    "stages": "array of stage objects",
+    "effects": "object",
+    "requirements": "array"
+  },
+  "event_tech_object": {
+    "id": "string",
+    "name": "string",
+    "unlocked_by": "event chain id",
+    "effects": "object",
+    "tags": "array"
+  },
+  "relic_object": {
+    "id": "string",
+    "name": "string",
+    "effects": "object",
+    "activation_cost": "object",
+    "tags": "array"
+  },
+  "archeotech_object": {
+    "id": "string",
+    "name": "string",
+    "category": "weapon|defense|utility",
+    "stats": "object",
+    "unlocked_by": "array"
+  }
+}

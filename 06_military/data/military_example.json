@@ -1,0 +1,14 @@
+{
+  "description": "Example subset of military data.",
+  "ship_hulls": [
+    {
+      "id": "ship_hull.corvette",
+      "name": "Corvette",
+      "size_class": "corvette",
+      "base_stats": {
+        "hull": 300,
+        "evasion": 0.6
+      }
+    }
+  ]
+}

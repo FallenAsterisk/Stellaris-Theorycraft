@@ -1,0 +1,14 @@
+{
+  "description": "Example subset of traits for rebuild reference.",
+  "traits": [
+    {
+      "id": "trait.industrious",
+      "name": "Industrious",
+      "type": "biological",
+      "cost": 2,
+      "modifiers": {
+        "job_output_miner": 0.15
+      }
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "description": "Raw species- and population-related source text extracted from your uploads.",
+  "raw_files": [
+    "Pop Modification.txt",
+    "Population.txt",
+    "Species rights.txt"
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "description": "Schema stub for canonical military objects.",
+  "ship_hull_object": {
+    "id": "string (e.g. ship_hull.battleship)",
+    "name": "string",
+    "size_class": "corvette|destroyer|cruiser|battleship|titan|juggernaut|platform|bio|nanite etc.",
+    "base_stats": "object (hull, armor, shields, evasion, speed)",
+    "base_cost": "object (alloys, etc.)",
+    "sections": "array of ship_section ids",
+    "unlocked_by": "array of tech ids",
+    "tags": "array"
+  },
+  "ship_section_object": {
+    "id": "string",
+    "name": "string",
+    "slots": "array of {slot_type, size}",
+    "compatible_hulls": "array",
+    "tags": "array"
+  },
+  "component_object": {
+    "id": "string",
+    "name": "string",
+    "slot_type": "weapon|utility|core|aux|sensor|thruster|reactor",
+    "sizes": "array (S,M,L,XL,G,P,AUX, etc.)",
+    "stats": "object (damage, tracking, accuracy, etc.)",
+    "unlocked_by": "array of tech ids",
+    "requires_resources": "object",
+    "tags": "array"
+  },
+  "army_object": {
+    "id": "string",
+    "name": "string",
+    "type": "assault|defense|robotic|psionic|clone|bio etc.",
+    "stats": "object (damage, morale, health)",
+    "unlocked_by": "array of tech ids",
+    "tags": "array"
+  },
+  "mutation_object": {
+    "id": "string",
+    "name": "string",
+    "category": "offensive|defensive|special",
+    "effects": "object",
+    "unlocked_by": "array of tech ids",
+    "tags": "array"
+  },
+  "military_rule_object": {
+    "id": "string",
+    "formula": "string",
+    "affected_by": "array of ids"
+  }
+}

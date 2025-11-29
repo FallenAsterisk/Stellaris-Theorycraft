@@ -1,0 +1,49 @@
+Machine traits
+
+Version
+
+This article has been verified for the current PC  (4.2) of the game.
+Species traits
+
+
+
+Machine traits
+Machine traits are available to species with the  Machine and  Mechanical primary traits. Empires with such a founder species can change machine traits at any point unless they have the  Life-Seeded,  Voidforged or  Shattered Ring origin. Those empires, as well as empires with a biological founder species must research the  Machine Template System technology to change machine traits.
+Contents
+
+
+
+
+
+
+
+
+
+
+
+
+
+Climate preference traits
+Each species has a climate preference trait that determines their base  Habitability on the various types of planets, usually that corresponding to the type of their homeworld. Habitability traits can be changed through machine modification unless the species has the  Waterproof trait. A pop can never have more than one Habitability trait.
+Despite the values listed here,  Machine and  Mechanical traits granting minimum habitability means that habitability will never go below 50%. However, base habitability must still be increased to increase habitability above 50%.
+Origin traits
+Origin traits are obtained by starting the game with a certain origin and do not cost any trait points. If a biological species completes synthetic ascension its origin trait will be replaced with the version for machine species.
+Basic traits
+Basic traits can be selected when first creating a species, or changed through machine modification. They can all be changed later through machine modification, a few of them being restricted to  Mechanical or  Machine species.
+Organic empires must research higher tiers of robot technologies before they can add some of the more advanced traits to  Mechanical pops.
+Positive traits
+Negative traits
+Waterproof
+The Waterproof trait can be selected in empire creation for machine species with the  Ocean World homeworld, or added to  Wet Preference machines through machine modification.
+Strategic resource traits
+These traits are unavailable at game start, and can instead be added through machine modification once the empire gains access to  strategic resources. Each of them adds strategic resource upkeep to the pop.
+Design traits
+Design traits are only available at empire creation and do not cost trait points. A species can only have one design trait.
+Ascension traits
+These traits are added by completing certain ascension and cannot be added or removed through pop modification. None of them costs any trait points.
+Modularity traits
+Modularity traits are made available for machine modification with either the  Advanced Tools tradition or a  Synthetic physical authority. Some of them add additional pop upkeep
+Mechanical leviathan traits
+Mechanical leviathan traits can only be added by empires that have the  Leviathan Tech Genesis technology and defeated the  with the same name.
+Event traits
+These traits can be gained from certain events. They do not cost any trait points and cannot be added or removed, except through assimilation into the main template.

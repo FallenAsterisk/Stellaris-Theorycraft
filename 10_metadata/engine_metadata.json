@@ -1,0 +1,16 @@
+{
+  "description": "Metadata package for the Stellaris engine export.",
+  "modules": [
+    "01_tech",
+    "02_traits",
+    "03_species",
+    "04_empire",
+    "05_economy",
+    "06_military",
+    "07_megastructures",
+    "08_events_situations",
+    "09_rules",
+    "10_metadata"
+  ],
+  "notes": "This module holds engine-level metadata. Full population of the canonical engine happens in structured phases."
+}

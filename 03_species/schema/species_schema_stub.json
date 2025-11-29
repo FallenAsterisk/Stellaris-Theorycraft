@@ -1,0 +1,32 @@
+{
+  "description": "Schema stub for canonical species/archetype and population rules objects.",
+  "species_archetype_object": {
+    "id": "string (e.g. archetype.organic)",
+    "name": "string",
+    "primary_trait": "string (organic | lithoid | thermophile | machine | etc.)",
+    "base_upkeep": "object (resource \u2192 amount)",
+    "base_growth": "float",
+    "base_assembly": "float",
+    "habitability_baseline": "object (climate_group \u2192 percent)",
+    "tags": [
+      "array of strings"
+    ]
+  },
+  "species_rights_object": {
+    "id": "string (e.g. rights.full_citizenship)",
+    "name": "string",
+    "category": "citizenship | slavery | assimilation | colonization | migration | etc.",
+    "effects": "object (political_power, jobs_allowed, purge_type, etc.)",
+    "requirements": [
+      "array of ethics, civics, authority, tech, etc."
+    ]
+  },
+  "pop_rule_object": {
+    "id": "string (e.g. rule.pop_growth_hive)",
+    "type": "growth | assembly | habitability | upkeep",
+    "formula": "string (describing how it is computed)",
+    "affected_by": [
+      "array of ids (traits, buildings, techs, civics, etc.)"
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "description": "Schema stub for canonical trait objects in the Stellaris engine.",
+  "trait_object": {
+    "id": "string (e.g. trait.industrious)",
+    "name": "string",
+    "type": "biological | machine | cyborg | overtuned | ascension | unique | pre_sapient",
+    "cost": "integer (trait point cost, can be negative)",
+    "picks_used": "integer (how many pick slots it consumes)",
+    "modifiers": "object (job output, growth, upkeep, habitability, ethics, etc.)",
+    "conflicts_with": [
+      "array of trait ids"
+    ],
+    "requires": [
+      "array of tech ids, authorities, civics, archetypes, etc."
+    ],
+    "tags": [
+      "array of strings for categorization, e.g. economic, military, growth"
+    ]
+  }
+}

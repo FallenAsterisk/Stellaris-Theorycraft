@@ -1,0 +1,580 @@
+Weapon components
+
+Version
+
+Please help with verifying or updating older sections of this article. At least some were last verified for  3.14.
+
+This article is for the PC version of Stellaris only.
+Ships
+
+
+
+
+Weapon components
+
+ 
+ 
+Weapon components are devices that can be attached to military ships and are used to attack, damage and destroy other ships, specifically any  that have been designated as valid targets.
+Contents
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Overview
+A weapon has the following stats:
+Cost: How many resources the weapon requires in order to be built and operated.
+Power usage: How much power the weapon will consume when installed.
+Type: What category of weapons this particular weapon belongs to.
+Damage: How much damage the weapon will deal per hit if it hits its target at 100% efficiency.
+Cooldown: After attacking, every weapon has a mandatory time delay it has to go through before it can attack again.
+Accuracy: The base chance of the weapon hitting a target, assuming the target has 0% evasion. Certain weapons are easier to aim than others.
+Tracking: How much of the target's evasion the weapon will ignore when firing at its target. If this value is higher than the target's evasion value, the weapon will enjoy base accuracy.
+Range: The maximum and minimum distance the weapon can be used at. A target must be within this firing range in order for a weapon to be able to engage it.
+Average damage: How much damage the weapon will deal per in-game day, assuming the target has no evasion.
+Damage modifiers: How effective the weapon is against a given type of defense.
+Most weapons come in multiple sizes. As a rule of thumb, larger sizes usually have lower  tracking, but greater  weapons range, damage per hit and damage per day, while smaller sizes conversely have higher  tracking but lesser  weapons range and damage output. This means that larger weapons are generally more effective against larger, slower ships, and smaller weapons are more effective against smaller, evasive ships.
+Strategic Resource Edicts: Strategic Resources enable Strategic Resource Edicts, which include military edicts that can boost weapon or defense systems. Strategic Resources can thus increase the effective damage of key weapons in the early game for a decisive edge in key battles. Lithoid Empires can begin the game with access to any one strategic resource on the Market via their Silicate traits, while normal organics can only have access to Exotic Gas via the Inorganic Breath trait as part of the Toxoids DLC. Weapon and defense types to resource include:
+Rare Crystals: Energy Weapons, Sensor Range
+Volatile Motes: Kinetic Weapons, Explosive Weapons, Armor
+Exotic Gases: Shields, Sublight Speed
+Archaeotech Weapons: As of Patch 3.7, the Ancient Relics DLC also introduces Archaeotech Weapons, which are unlocked by the Archaeotech Society Research tree. Archaeotech weapons are generally slightly stronger than Tier 3 equivalent weapons, but with special mechanical rules or modifiers that make them better or worse in different situations. All Archaeotech weapons receive +33% weapon damage with the Archaeo-Engineering Ascension perk, and +15% weapon damage with the Rubricator relic, which makes them close to Tier 5 weapons in power. Archaeotech weapons can thus be powerful, but limited due to expense of Minor Artifact cost. Note that Menacing ships unlocked by Becoming the Crisis do not pay component special resource costs due to their mineral cost dynamic.
+Energy weapons
+Based on  Physics technology, energy weapons use energy-based attacks and are generally effective against armor and hull but ineffective against shields. Energy weapons can be divided into four categories: anti-armor, anti-hull, anti-shield and penetrating.
+Energy weapons generally have slightly better accuracy, lower damage and shorter range compared to kinetic weapons. Advanced energy weapons require  Rare Crystals and  Exotic Gases to build and operate. Because energy weapons are both anti-hull and anti-armor, and will target non-shielded ships if able, it can be advantageous to have a bias of more energy weapons than anti-shield weapons over your fleet of ships.
+Anti-armor
+Standard energy weapons are effective against armor, moderately effective against hull and ineffective against shields. Lasers, plasma launchers and lances belong to this category.
+Laser
+Lasers are the basic energy weapon. They fire focused beams of super-concentrated light at targets, causing damage through the generation of intense heat. They are effective against armor and hull but are ineffective against shields. Compared to other weapons, they trade strength for versatility, sporting an average range with no minimum, no extreme strengths or crippling weaknesses, and average damage output.
+Can fit into  Small,  Medium and  Large slots
+90% accuracy
+50% damage against  shield
+150% damage against  armor
+125% damage against  hull
+Ancient Cavitation Collapser
+This is an archaeotech weapon. Damage will be increased by 33% with the Archaeo-Engineers ascension perk, and 15% with the Rubricator relic.
+While sharing identical Cooldown, Range, and Tracking stats with Lasers, it has an additional 25% damage effectiveness against armor, and lacks the 25% damage against hull. However, due to ignoring 50% armor, it can begin applying damage directly to hull earlier, which slows down a vessel's fire rate. Due to higher tier armor components providing more armor points than the vessel has hull, this can allow Cavitation Collapsers to destroy later-game ships before their armor fails. This is exceptionally expensive in minor artifacts, but is more affordable with Menacing ships.
+Can fit into  Small,  Medium and  Large slots
+90% accuracy
+50% damage against  shield
+150% damage against  armor
+Ignore 50%  armor
+100% damage against  hull
+Plasma launchers
+Plasma launchers launch balls of highly energized and destructive plasma. They are extremely effective against armor and very effective against hull, but highly ineffective against shields. Compared to standard lasers, they trade versatility for strength, with more extreme damage modifiers and slightly higher power draw.
+Can fit into  Small,  Medium and  Large slots
+80% accuracy
+25% damage against  shield
+200% damage against  armor
+150% damage against  hull
+Lances
+Lances are heavy energy weapons that fire large, focused beams of highly energized particles and cause massive damage. Essentially a hybrid between lasers and plasma launchers, they are extremely effective against armor and very effective against hull but are ineffective against shields. Lances are unique as unlike most long-range weapons, they do not have a minimum range.
+Can fit into  Extra-Large slots
+9.95 day cooldown
+85% accuracy
+50% damage against  shield
+200% damage against  armor
+150% damage against  hull
+Anti-hull
+Energy weapons that are specialized in dealing damage to a ship's hull. As ships take hull damage, their fire rate slows, and they may withdraw if below 50% hull. Cutting lasers, launchers and Matter Disintegrators belong to this category.
+Cutting Laser
+Salvaged from ancient mining drones, these weapons use strong-focus lenses in combination with an oscillating firing frequency to create lasers strong enough to allow them to mine asteroids, or mine ships, destroying them.
+They are highly effective against hull and armor but are ineffective against shields. They compare favorably to other energy weapons unlocked with T2 technology, but are mostly outclassed by the Tier 3 energy weapons. As an alternative to Plasma Throwers guaranteed by debris, they provide an early-game advantage by allowing you to invest early Physics research into ship components other than the Laser line while still having an energy weapon option.
+In the early game, the Cutting Laser can combo particularly well with the Energy Siphon on early corvettes or destroyers. Both space fauna weapons are guaranteed research options slightly more powerful than their Tier 2 counterparts, meaning they can allow early tech research to prioritize other ship systems or economic techs while being available for research later for a military buildup if needed. As energy weapons, both weapons can also benefit from the +25% Energy Weapon damage Focusing Crystal strategic weapon edict that uses Rare Crystals, which Lithoids can start the game with via the Scintillating Skin trait.
+Can fit into  Small and  Medium slots
+50% damage against  shield
+150% damage against  armor
+150% damage against  hull
+Particle launchers
+These weapons fire projectile-like energy packets carrying an explosive payload of tightly concentrated protons or neutrons, capable of causing immense damage to the hull of enemy ships. Unlike most G slot weapons, these are not missiles, and so the projectiles have no travel time and cannot be shot down by point defense.
+They are extremely effective against hull and very effective against armor but are ineffective against shields. Compared to other energy weapons, launchers trade damage and versatility for a powerful alpha-strike, doing immense damage per shot from a long range, but having relatively low sustained damage output against anything smaller than a battleship, and a significant minimum range.
+Can fit into  Torpedo Slot
+21.25 day cooldown
+75% accuracy
+50% damage against  shield
+150% damage against  armor
+175% damage against  hull
+Additional multiplicative damage based on 100% of the target's ship size
+Total Damage=(Ship Size+1)×Base Damage
+Zro Launcher
+Zro Launcher are shroud weapons. Their damage does not increase as much against larger ships as usual for torpedos, but they partially ignore shield and armor to hit the hull directly. The organic variant  is identical in stats.
+Can fit into  Torpedo Slot
+21.25 day cooldown
+75% accuracy
+50% damage against  shield
+150% damage against  armor
+50% penetration against  shield and  armor
+175% damage against  hull
+Additional multiplicative damage based on 50% of the target's ship size
+Total Damage=(Ship Size⋅0.5+1)×Base Damage
+Matter Disintegrator
+Salvaged from , Matter Disintegrators work by applying 5th-dimensional energy manipulation principles on lower dimensional planes to create highly powerful energy shots. Similar to Plasma Launchers, Matter Disintegrators have relatively short range, are very effective against hull and armor, but are very ineffective against shields. They also deal slightly more damage to larger ships.
+Can fit into  Small,  Medium and  Large slots
+4.25 day cooldown
+90% accuracy
+25% damage against  shield
+150% damage against  armor
+150% damage against  hull
+Additional multiplicative damage based on 10% of the target's ship size
+Total Damage=(1+0.1×Ship Size)×Base Damage
+Penetrating
+Exotic energy weapons that ignore shields and armor completely, dealing damage directly to the hull. Their potential damage per shot is very high but is also highly unpredictable. Due to any non-penetrating weapons having to defeat all shields and armor before contributing to hull damage, it is recommended to have a fleet of pure penetrating weapons or none at all. Disruptors, Cloud Lightning and Arc Emitters belong to this category.
+These weapons fire bolts of unstable and chaotic high-energy particles that damage and destroy the molecular bonds holding the target's constituent atoms together. The unstable and chaotic nature of the fired energy bolts allows them to slip right through both shields and armor to wreak havoc directly on the ship's hull and crew, but it also causes their damage output to be highly unpredictable.
+Disruptor
+Disruptors fire energy bolts that damage and destroy the molecular bonds holding the target's constituent atoms together. They completely ignore shields and armor and deal base damage directly to the hull. Unlike most weapons, they get less efficient when used in larger slots.
+Can fit into  Small and  Medium slots
+100% accuracy
+100% penetration against  shield and  armor
+100% damage against  hull
+Psionic Disruptor
+Psionic Disruptors are shroud weapons and work in a very similar way as default disruptors. They additionally inject a modifier into enemy ships that reduces their rate of fire. A ship can only be affected by one injected modifier at once.
+Can fit into  Small and  Medium slots
+−20% enemy fire rate
+100% accuracy
+100% penetration against  shield and  armor
+100% damage against  hull
+Cloud Lightning
+Salvaged from Void Clouds, this weapon is essentially a scaled-up Disruptor that use a special gas composition together with a specialized conduit to emit powerful lightning bursts. They ignore both shields and armor and deal base damage directly to the hull. However, even compared to basic Disruptors, Cloud Lightning does much less damage for an equivalent number of slots, and the only upside is a small increase in range.
+Can fit into  Large slots
+7.15 day cooldown
+100% accuracy
+100% penetration against  shield and  armor
+100% damage against  hull
+Psionic Lightning
+This is a shroud weapon. On hit the Psionic Lightning has the ability to terrify military ships from  5-10 days, based on target ship size. The variant for organic ships  is identical in stats.
+Can fit into  Large slots
+4.5 day cooldown
+100% accuracy
+100% penetration against  shield and  armor
+100% damage against  hull
+
+Arc Emitter
+A scaled-up version of the Cloud Lightning, itself a scaled-up version of the Disruptor, these weapons launch lightning arcs of chaotic and unstable energy at targets, ignoring armor and shields. They ignore both shields and armor and deal base damage directly to the hull. Unlike Cloud Lightning, Arc Emitters are much more efficient compared to an equivalent number of disruptor slots and are tied for the longest-range weapons in the game, making them significantly more viable.
+Can fit into  Extra-Large slots
+10.1 day cooldown
+100% accuracy
+100% penetration against  shield and  armor
+100% damage against  hull
+Anti-shield
+Energy weapons that specialize in dealing damage to shields at the expense of their damage output against armor and hull. Related technologies can only be obtained from events or salvages.
+Energy Siphon
+Based on  Society technology, this weapon drains energy from enemy ships by adapting the Tiyanki method of siphoning energy from gaseous matter.
+They are extremely effective against shields but extremely ineffective against armor. Due to their low damage they are almost strictly outclassed by small coilguns against hull, but their marginally higher range and higher shield-damage modifier means that even a single per vessel in a fleet can quickly expose smaller Corvettes or Destroyers to more dedicated anti-armor and anti-hull weapons. As a guaranteed Society research option following First Contact, they can provide an early-game military advantage by allowing the Engineering tree to research military technologies other than coilguns while leveraging Society research for the early-game anti-shield role.
+In the early game, the Energy Siphon can combo particularly well with the Mining Laser on early Corvettes or Destroyers. Both space fauna weapons are guaranteed research options slightly more powerful than their Tier 2 counterparts, meaning they can allow early tech research to prioritize other ship systems or economic techs while being available for research later for a military buildup if needed. As energy weapons, both weapons can also benefit from the +25% Energy Weapon damage Focusing Crystal strategic weapon edict that uses Rare Crystals, which Lithoids can start the game with via the Scintillating Skin trait.
+Can fit into  Small slots
+4.25 day cooldown
+75% accuracy
+200% damage against  shield
+25% damage against  armor
+100% damage against  hull
+Null Void Beam
+Can be learned from the null void (a possible outcome of the ), this weapon possesses the unique ability to destroy energy by harnessing the entropic nature of the null void.
+It has some of the longest ranges for its weapon size, all but ensuring they are the first weapons engaged on a target or allowing smaller variants to complement larger primary weapons. It is absurdly effective against shields but highly ineffective against both armor and hull. A few Null Void Beams in a fleet can allow a higher percentage of weapon slots to be dedicated to anti-armor and anti-hull weapons that are typically stopped by shields.
+Can fit into  Small,  Medium and  Large slots
+90% accuracy
+500% damage against  shield
+25% damage against  armor
+25% damage against  hull
+Kinetic weapons
+Based on  Engineering technology, kinetic weapons use various means of propulsion (such as electromagnets, electromagnetic coils, and electromagnetic rails) to accelerate and fire solid projectiles. They're good against shields but poor against armor.
+Kinetic weapons generally have slightly lower accuracy, higher damage and longer range compared to energy weapons, making them a good complement to energy weapons. Advanced kinetic weapons require  Volatile Motes to build.
+Mass drivers
+Mass drivers are the basic kinetic weapons. These projectile launchers use various systems of electromagnets to accelerate and fire solid armor-piercing projectiles towards targets at high speeds. They are very effective against shields but very ineffective against armor. Compared to other weapons, mass drivers are a jack of all trades – they have average range, no extreme strengths or weaknesses to difference defense types, and low damage.
+Can fit into  Small,  Medium and  Large slots
+75% accuracy
+150% damage against  shield
+50% damage against  armor
+100% damage against  hull
+Ancient Macro Batteries
+This is an archaeotech weapon. Damage will be increased by 33% with the Archaeo-Engineers ascension perk, and 15% with the Rubricator relic.
+This weapon is 33% less accurate than the mass driver kinetic weapon line (50% accuracy is two-thirds of 75% accuracy), but has 50% longer range than mass driver kinetic weapons. L-slot Macro Batteries also have 25% longer range compared to kinetic artillery and no minimum range.
+While the lack of minimum range may seem like L-slot Macro Batteries are suitable for short-range ambushes, their abysmal accuracy severely cuts into their damage output and burst damage potential, especially against smaller targets with high evasion like corvettes and destroyers where their low tracking also comes into play. Dedicated short-range weapons like autocannons, disruptors, and torpedoes are far better for these types of ambushes.
+They are instead far more useful for their very long range: L-slot Macro Batteries in particular match the range of X-slot weapons, are only outranged by the Perdition Beam weapon that is exclusive to Titans and Ion Cannons, and do not have the same narrow firing arcs that X- and T-slot weapons have on battleships and titans. With enough ship weapons range bonus modifiers, L-slot Macro Batteries can outrange every single weapon in the game, and given enough sublight speed, ships using them can outkite every single ship in the game.
+Can fit into  Small,  Medium and  Large slots
+50% accuracy
+150% damage against  shield
+50% damage against  armor
+100% damage against  hull
+Autocannon
+Autocannons are smaller, rapid-fire versions of the Mass Drivers that fire very small solid projectiles at a very rapid rate. Their main advantage is their extremely high damage output, but they are limited by high power usage, low range, and low damage against armor. They are very effective against shields, fairly effective against hull and severely ineffective against armor. Their extremely short range but high DPS makes them well suited for ambush tactics such as loitering near the entry points of systems.
+Due to how the game calculates naval power, Autocannons increase fleet power disproportionately to their general effectiveness in combat. This can be used to artificially increase an empire's military strength rating for political power in the Galactic Community or to persuade other empires to willingly become vassals.
+Nanite Autocannons are available to  Cosmogenesis Crisis Level V empires, through the  Flood of Supremacy tradition, and also accessible as salvage from defeating the .
+Can fit into  Small,  Medium and  Large slots
+85% accuracy
+150% damage against  shield
+25% damage against  armor
+125% damage against  hull
+Kinetic Launcher
+Kinetic Launchers are a bigger, slower-firing version of the mass driver that is capable of launching very big and very powerful solid projectiles over extreme distances. Their main advantage is their sheer destructive power coupled with an impressive range, but their design limits them to large slots. They are extremely effective against shields, somewhat effective against hull and very ineffective against armor.
+Kinetic launchers almost strictly outperform tech equivalent large mass drivers, as they have both higher range and damage. The only noteworthy weakness is the slightly higher minimum range, and loss of 5% tracking.
+Can fit into  Large slots
+7.15 day cooldown
+75% accuracy
+200% damage against  shield
+50% damage against  armor
+100% damage against  hull
+Mega Cannon
+Essentially scaled-up Kinetic Launchers, Mega Cannons are enormous mass accelerators that can only be placed in a spinal mount and fire huge, monstrously powerful disc-shaped projectiles over extreme distances. They are very effective against shields and severely ineffective against armor.
+While they have a smaller shield damage multiplier than kinetic artillery, their higher base damage means that they strictly outperform a slot equivalent number of kinetic artillery in all situations, even against shields.
+Can fit into  Extra-Large slots
+11.4 day cooldown
+75% accuracy
+150% damage against  shield
+75% damage against  armor
+100% damage against  hull
+Ancient Saturator Artillery
+This is an archaeotech weapon. Damage will be increased by 33% with the Archaeo-Engineers ascension perk, and 15% with the Rubricator relic.
+The Saturator Artillery has the same firing profile in firing rate, range, accuracy, and tracking as the Giga Cannon with a tradeoff of more shield and hull damage but less armor damage. This makes it better at knocking down the shields or finishing the hull of enemy capital ships, but increases the dependence on other anti-armor weapons against heavily armored foes. This makes it worse against the Prethoryn Scourge end-game crisis, and better against the Extradimensional Invaders crisis.
+A note about this weapon is that the unlocking tech can unlock X-slot weapons for battleships before you even research battleships, when most X-slot weapons require Battleships to already be researched before they can be rolled for research, allowing for earlier X-slot damage.
+Can fit into  Extra-Large slots
+11.4 day cooldown
+75% accuracy
+250% damage against  shield
+25% damage against  armor
+125% damage against  hull
+Explosive weapons
+Based on  Engineering technology, explosive weapons fire guided projectiles that carry an explosive payload.
+Explosive weapons can be divided into 3 categories: missiles, swarmer missiles and torpedoes. Missiles have very long range compared to other weapons of similar size and ignore shields. They have 100% accuracy and decent Tracking, but their projectiles can be shot down by point defense weapons, so their actual average damage depends on the enemy's point-defense capabilities. Swarmer missiles have stats comparable to double the amount of missiles, but fire twice as fast and are a lot more resilient against point defense weapons, which also allows them to soak up point defense hits that otherwise would have hit more vulnerable missiles and torpedoes. Torpedoes have very short range, very long reload times, and ignore shields. They deal bonus damage against large targets, potentially so much so that they can instantly kill them in a single attack, but are very vulnerable to point defense because of their slow speed and long cooldown times.
+Unlike all other weapons, explosive weapons do not instantly deal damage to their targets when they are fired and instead have to travel to them first.
+Missiles fit into  Small slots, swarmer missiles fit into  Medium slots, and torpedoes and Scourge Missiles can be installed in  Torpedo slots.
+Most advanced explosive weapons require  Volatile Motes to build.
+Missiles
+Space-to-space missiles equipped with various warheads. Although based on old pre-space technology, these fire-and-forget weapons can be surprisingly effective at range. Compared to other missiles, they deal low damage over time and have moderate survivability against point defense. Relative to their size, they offer marginally better per-shot damage than swarmer missiles when used in pairs, offering some niche utility in certain cases.
+Can fit into  Small slots
+8.5 day cooldown
+100% accuracy
+18 speed
+100 retargeting range
+100% penetration against  shield
+100% damage against  armor
+100% damage against  hull
+Ancient Nano-Missile Cloud Launcher
+This is an archaeotech weapon. Damage will be increased by 33% with the Archaeo-Engineers ascension perk, and 15% with the Rubricator relic.
+While this weapon does direct hull damage, it is most effective as a means to swarm point defense and enable other missiles to get through. A few nano-missiles from a long-range vessel will significantly increase the effectiveness of other dedicated missile ships against enemies with significant point defense, such as Fallen Empires.
+Can fit into  Small slots
+0–100  Range
+0.85 day cooldown
+100% accuracy
+18 speed
+100 retargeting range
+Ignore 100%  shield and  armor
+125% damage against  hull
+Swarmer missiles
+These smaller missiles are launched in large volleys and have been specifically designed to saturate and overwhelm enemy point-defense systems through sheer numbers. In previous versions, swarmer missiles did less damage than normal missiles, but this is no longer the case – swarmer missiles are now almost strictly better than normal missiles, with longer range, higher individual damage, shorter cooldown, better power efficiency, higher tracking, and extremely high survivability against point-defense. The chief advantage of normal missiles over swarmer missiles is their ability to fit into (usually more numerous) Small weapon slots.
+Can fit into  Medium slots
+4.25 day cooldown
+100% accuracy
+18 speed
+100 retargeting range
+100% penetration against  shield
+100% damage against  armor
+100% damage against  hull
+Torpedoes
+Torpedoes are essentially very large, slow-moving missiles, equipped with more powerful warheads. Torpedoes have extremely low range, low fire rate and travel slowly, but deal huge amounts of damage, especially to large ships. Compared to other missiles, torpedoes have significantly worse range and point defense survivability, but deal significantly more damage, especially against large ships.
+Can fit into  Torpedo slots
+20.75 day cooldown
+100% accuracy
+100 retargeting range
+100% penetration against  shield
+150% damage against  armor
+100% damage against  hull
+Additional multiplicative damage based on 100% of the target's ship size.
+Total Damage=(Ship Size+1)×Base Damage
+Scourge Missiles
+Salvaged from Prethoryn Scourge and based on  Society technology, scourge missiles are a hybrid of missile and torpedo.
+5.7 day cooldown
+100% accuracy
+18 speed
+120 retargeting range
+100% penetration against  shield
+80% damage against  armor
+100% damage against  hull
+Additional multiplicative damage based on 50% of the target's ship size
+Total Damage=(1+0.5×Ship Size)×Base Damage
+Strike craft
+Strike craft hangars do not attack the enemy directly, but instead launch small spaceships to attack. Like explosive weapons, strike craft ignore shields but can be shot down by P slot weapons, being especially vulnerable to flak. Strike craft can also target other strike craft, though unlike P slot weapons they cannot target missiles. All strike craft go in a special  hangar slot. Outside of combat, strike craft regenerate at the rate displayed in game to the hanger capacity, but in combat, they regenerate at 20% of the rate in game continually and can exceed their hangar capacity if not destroyed quickly enough.
+The DPS takes into account the number of strike craft per hangar. However, this number is at best a rough estimation of how much damage they can do, as strike craft are often shot down before they can reach their targets. In addition to this, strike craft continually spawn as mentioned above, leading to potentially much higher DPS during long battles against a fleet without point defense.
+Fire rate, weapon damage, and strike craft damage modifiers only affect military power of the strike craft themselves.
+Regular strike craft
+Based on  Engineering technology, these manned strike craft are launched from a hangar or carrier mothership and rely on their speed, agility and small size to survive long enough to attack their targets. Strike craft have relatively high DPS for their slot size, can attack a long distance from their mothership, aren't weak to any defense type, and have effectively perfect tracking, making them extremely threatening against small ships that rely on evasion. However, they have poor survivability against flak, the only exception being Skravird Strike Craft thanks to their armor.
+8 units per hangar
+2.3 day cooldown
+100% accuracy
+10 attack range
+100% penetration against  shield
+150% damage against  armor
+100% damage against  hull
+Amoeba
+Based on  Society technology, an empire can breed Space Amoebae and use its flagella as strike craft. They are the only strike craft not to have 100% accuracy, instead having 70%. They are very effective against armor. Compared to regular strike craft, they're broadly stronger than T2, but have less tracking, and since they have low evasion and no shields, they are vulnerable to point defense in addition to flak.
+8 units per hangar
+5.0 day cooldown
+70% accuracy
+10 attack range
+100% penetration against  shield
+150% damage against  armor
+100% damage against  hull
+Swarm Strikers
+Based on  Society technology, these cloned and miniaturized Prethoryn specimen can be controlled and used as strike craft. They ignore 66% of the target's armor points, allowing them to deal damage directly to the hull, albeit with a 33% damage reduction.
+As swarm strikers have armor instead of shields, they are exceptionally effective at fighting conventional strike craft, and are not vulnerable to flak. Point defense works well, but has less inherent tracking, and struggles to hit the high evasion swarm strikers without additional modifiers.
+10 units per hangar
+2.0 day cooldown
+100% accuracy
+10 attack range
+100% penetration against  shield
+66% penetration against  armor
+100% damage against  hull
+Ancient Driller Drones
+This is an archaeotech weapon. Damage will be increased by 33% with the Archaeo-Engineers ascension perk, and 15% with the Rubricator relic.
+Unlike most fighters, Ancient Driller Drones do not penetrate Shields, but do penetrate armor. This makes them particularly effective in Pulsar systems where shields are stripped, against certain Leviathans that lack shields, against recently-cloaked fleets, and against the Prethroryn Scourge crisis. However, it makes them far less effective against ordinary strike craft in other situations.
+8 units per hangar
+2.30 day cooldown
+100% accuracy
+10 attack range
+50% damage against  shield
+100% penetration against  armor
+125% damage against  hull
+Psionic Bombers
+This is a shroud weapon. Unlike other strike crafts and similar to torpedos, Psionic Bombers deal increased damage to larger ships, but have trouble with hitting smaller targets, like corvettes or other strike crafts due to low tracking. These strike crafts are exclusive to mechanical ships. For biological ships, see their counterpart below.
+8 units per hangar
+2.30 day cooldown
+100% accuracy
+10 attack range
+100% penetration against  shield
+150% damage against  armor
+100% damage against  hull
+Additional multiplicative damage based on 50% of the target's ship size.
+Total Damage=(Ship Size⋅0.5+1)×Base Damage
+Psionic Sappers
+Psionic Sappers are used on biological ships instead of Psionic Bombers and unlocked by the same  research. Similar to them, these strike craft deal more damage based on ship size. They deal less damage per strike craft, but deploy more crafts, compared to it mechanical counterpart. Once all strike craft are deployed, the damage is identical. However, they differ to other strike crafts in that they use armor instead of shield. Rather than flak, energy based point defense is effective against Psionic Sappers.
+16 units per hangar
+2.3 day cooldown
+100% accuracy
+10 attack range
+100% penetration against  shield
+150% damage against  armor
+100% damage against  hull
+Additional multiplicative damage based on 50% of the target's ship size.
+Total Damage=(Ship Size⋅0.5+1)×Base Damage
+Point-defense weapons
+Point-defense weapons are small turrets that are capable of targeting and destroying incoming missiles and strike craft, preventing them from dealing damage to the ship. They can be hard to use against full-size warships, however, as they have very low range compared to other weapons. They come in two types: flak guns and point-defense, both of which are capable of attacking enemy ships, missiles and strike craft.
+Flak guns have high tracking and are extremely effective against shields and ineffective against armor, making them extremely effective at destroying strike craft, which rely on evasion and shields to survive. They are also effective against the shields of regular ships at short range, especially in the earlygame when autocannons are not yet available. Point-defense weapons are the opposite – they have low tracking, deal high damage to armor, and little damage to shields. This makes them best for destroying missiles and especially torpedoes, which use armor instead of shields and have low evasion. They can, however, still be overwhelmed by swarmer missiles and especially ancient nano-missile cloud launchers, making them far less effective when these weapons are being fielded by the enemy side.
+All point-defense weapons use  Point-Defense slot.
+Flak guns
+Based on  Engineering technologies, these gun batteries fire small-size explosive fragmentation rounds that create shrapnel at close range detonation, allowing them to easily destroy enemy strike craft.
+Nanite Flak Batteries are only accessible to  Cosmogenesis Crisis Level V empires, through the  Flood of Supremacy tradition, and also as salvage from defeating the . Unlike Nanite Autocannons they do not need nanites to build.
+0.5 day cooldown
+75% accuracy
+200% damage against  shield
+Ignore 25%  shield
+25% damage against  armor
+100% damage against  hull
+Point defense
+Based on  Physics technologies, these hull-mounted turrets fire energy shots that detonate target payloads prematurely, allowing them to destroy incoming missiles.
+Note: The Ancient Defensive Web Slinger is an archaeotech weapon based on  Society technologies, and is accessible only with  Ancient Relics DLC enabled.
+0.5 day cooldown
+75% accuracy
+25% damage against  shield
+200% damage against  armor
+Ignore 25%  armor
+100% damage against  hull
+Titanic weapons
+These weapons are used by titans and ion cannons. They are energy weapons, being good at destroying targets with low evasion.
+Perdition Beam
+This is the basic titanic weapon and can destroy a normal enemy ship of any size in a single hit from extreme range.
+25.5 day cooldown
+85% accuracy
+75% damage against  shield
+150% damage against  armor
+125% damage against  hull
+Ancient Ruination Glare
+This is an archaeotech weapon. Damage will be increased by 33% with the Archaeo-Engineers ascension perk, and 15% with the Rubricator relic.
+Its faster fire rate, greater armor damage, and potential Archaeo-Engineer bonus make it stronger than the Perdition beam. Its shorter range will move the vessel into artillery range, increasing the risk of being targeted by enemy artillery.
+14.5 day cooldown
+85% accuracy
+50% damage against  shield
+175% damage against  armor
+125% damage against  hull
+World Devastator weapons
+See  and .
+Although technically mounted on a weapon slot and used by a spaceship, these weapons are not used in ship-to-ship combat. Instead, they affect celestial bodies.
+Unobtainable Weapons
+There are an assortment of armaments that regular empires cannot acquire through research or reverse engineering. They mostly come from space fauna or are special crisis components.
+Voidworm Weapons
+Spikespores
+These missile-like weapons are used by Voidworms. Like the missiles regular empires can acquire, they fully penetrate shields but have no notable advantage over the armor or hull layers of their targets. They can be shot down with point defense.
+4.25 day cooldown
+100% accuracy
+100 retargeting range
+100% penetration against  shield
+100% damage against  armor
+100% damage against  hull
+Voidworm Fangs
+The voidworms use their fangs to bite down on any ship that gets too close to them. While not penetrating shields or armor, it deals twice the damage to both, making the most effective types of defense to either stack a lot of armor health on ship designs for their higher health compared to shields at the same tech level, or simply keeping distance from the worms. With perfect accuracy and high tracking, corvettes and frigates are extremely vulnerable in the early game due to their ship computers compelling them to close in on hostile ships. However, voidworms can only bite down on ships that are in front of them: the weapon has a firing arc of 15 degrees.
+27.7 day cooldown
+100% accuracy
+200% damage against  shield
+200% damage against  armor
+100% damage against  hull
+Cutholoid Weapons
+Meteoroid Slinger
+Throwing meteoroids are the Cutholoids weapons of choice. Like kinetic weapons, they are very effective against shields but ineffective against armor. They have a firing arc of 25 degrees.
+2.3 day cooldown
+75% accuracy
+200% damage against  shield
+50% damage against  armor
+100% damage against  hull
+Tiyanki Weapons
+Energy Siphon
+These work very similarly to the energy siphon weapon the player can acquire. Indeed, the siphon that the Tiyanki hatchlings use has the same stats as the one that regular empires adapt for their own use.
+4.25 day cooldown
+75% accuracy
+50% tracking
+200% damage against  shield
+25% damage against  armor
+100% damage against  hull
+Crystalline Entities
+Shard thrower
+The crystalline entities use shard throwers to defend themselves. They have no particular advantage against shields or armor but deal increased damage against the ship's hull. There are actually four variations for each shard thrower size, being red, green, blue and yellow. Stat wise they are identical.
+75% accuracy
+100% damage against  shield
+100% damage against  armor
+150% damage against  hull
+Space Amoeba
+Space Amoeba Weapon
+Space Amoeba spit energy blasts at their enemies.
+75% accuracy
+100% damage against  shield
+125% damage against  armor
+133% damage against  hull
+Prethoryn Scourge
+Acid Blast
+Besides their missiles and strike craft, the Scourge spit acid towards any hostile space craft. Perhaps counterintuitively, they deal increased damage against shields and hold no significant damage against armor or the hull.
+75% accuracy
+4.25 day cooldown
+150% damage against  shield
+100% damage against  armor
+100% damage against  hull
+Extradimensional Invaders
+Arc Defense Fields
+An electric type of point defense employed by the extradimensional invaders. They penetrate half of shield and armor, but deal no bonus damage against any layer. With perfect accuracy but no tracking, strike craft can survive just a little bit longer against it.
+2.15 day cooldown
+100% accuracy
+50% penetration against  shield and  armor
+100% damage against  shield
+100% damage against  armor
+100% damage against  hull
+Gray Tempest and Dessanu Consonance
+Nanite Fighters
+The Gray Tempest utilises the gate builders strike craft, which attack slowly, but are exceptionally hard to intercept. Unlike player strike craft, Nanite Figthers are unable to act as point defense and will only target enemy ships. They are among the slowest, but by far the most durable strike craft in the game. A ship equipped with these strike craft can be obtained from the  situation.
+10 units per hangar
+4 day cooldown
+100% accuracy
+20 attack range
+100% penetration against  shield
+66% penetration against  armor
+100% damage against  shield
+100% damage against  armor
+100% damage against  hull
+Energy Sphere
+Nanite ships use these torpedos next to the nanite figthers on every ship. Unlike other torpedos, this weapons damage is unrelated to enemy ship size and serves the role of energy artillary, but can be intercepted by point defense.
+1.45 day cooldown
+100% accuracy
+75% damage against  shield
+200% damage agaisnt  armor
+100% damage against  hull
+Energy Arc
+This titanic weapon is utilized by the biggest nanite ships. The variant used by the ships have a limited firing angle, the variant used by the Nanite Factory in the heart of the  has no firing angle limit. Energy Arcs are similar to arc emitters, but slower and dramatically more powerful.
+16 day cooldown
+100% accuracy
+100% penetration against  shield and  armor
+100% damage against  hull
+Contingency
+Seeker Drones
+This is the Contingency's version of strike craft, being only employed at their AI cores in hub systems. Unlike any other type of strike craft in the game, they have thick layers of both armor and shields, giving regular point defense truly a run for their money. Seeker Drones are unable to target other strike crafts and will only attack ships. Their enemy fleets can only really hope to outlive the swarms of seeker drones.
+10 units per hangar
+2.3 day cooldown
+100% accuracy
+20 attack range
+100% penetration against  shield
+66% penetration against  armor
+100% damage against  shield
+100% damage against  armor
+100% damage against  hull
+The Synthetic Queen
+Cetana's Strike Craft
+Cetana has her own type of strike craft that are in the stats identical to Skravird Strike Craft.
+8 units per hangar
+2.3 day cooldown
+100% accuracy
+10 attack range
+100% penetration against  shield
+150% damage against  armor
+100% damage against  hull

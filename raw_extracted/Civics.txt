@@ -1,0 +1,39 @@
+Civics
+
+Version
+
+This article has been verified for the current PC  (4.2) of the game.
+Civics
+
+Standard civics
+ 
+ 
+ 
+Standard civics represent the foundational principles and societal structures that define an empire and are primarily limited by the authority and  an empire possesses. Each empire starts with up to two civics, and this limit is increased to three civics by researching the  Galactic Administration technology. Civics can be changed every 20 years by reforming the government spending  10 unity per empire size.
+If at any point a civic's requirements are no longer met due to a change in empire ethics or authority, it becomes inactive and provides no bonus until it is replaced or its requirements are met again. Buildings from an inactive civic remain functional but new ones cannot be constructed. Council positions from an inactive civic remain functional but if the slot is unlocked later they cannot be selected. All civic buildings are removed at the beginning of the next month if their civic is removed. Leader traits granted by civics are not lost if the civic is removed. Reforming the government while a civic is inactive requires removing it unless the civic is a permanent one.
+Knowing another empire's civics requires  Medium Intel on Government. Genocidal civics are always revealed.
+If the  Galactic Paragons DLC is enabled, each civic also unlocks a council position.
+If the  Shadows of the Shroud DLC is enabled, most civics also give +60 Attunement with a certain Shroud patron.
+Empires that finish the  Fear of the Dark origin story either way will gain an additional civic slot.
+Contents
+
+
+
+
+
+
+
+
+Standard civics
+Permanent civics
+The following civics can only be selected at empire creation and cannot be removed. As a result, they also prevent reforming the government with  Corporate authority.
+Sovereign civics
+Sovereign civics can only be obtained as a result of special circumstances. Each one grants an additional civic slot, meaning that they don't replace any other civic. Sovereign civics are not inherited by sectors released as vassals or systems created by status quos and they are lost if the empire loses a war against an empire using the Ideology casus belli. If the  Galactic Paragons DLC is installed each civic will unlock a council position.
+Unselectable civics
+The following civics are not available when creating an empire and are only present on certain unique empires. However, they are playable by changing empires via loading in multiplayer or after a game-over or Cosmogenesis victory.
+Pre-FTL civics
+The following civics are present only on pre-FTL civilizations and have no effects. They are replaced with regular civics if the civilization discovers FTL.
+Fallen empire civics
+The following civics are present only on individualist fallen empires.
+Enclave civics
+The following civics are used by enclaves and cannot be used by empires without modding or save editing.

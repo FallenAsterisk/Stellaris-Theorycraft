@@ -1,0 +1,80 @@
+Edicts
+
+Version
+
+This article has been verified for the current PC  (4.2) of the game.
+
+Empire edicts window
+Edicts are -wide decisions that are enacted by spending resources or paying a monthly upkeep. Most edicts are unavailable at the beginning of the game and must be unlocked through research or events. Edicts are automatically canceled if the empire runs out of the required resource.
+Contents
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Edict cost and upkeep
+Edicts cost various resources depending on empire size to activate and as upkeep. Each point of empire size increases the cost of all edicts by 1%.
+
+Edict fund is a fixed pool dedicated to the upkeep of edicts that cost  Unity. Any upkeep cost beyond the fund cap will be paid for from the empire's resource storage.
+Unity edicts
+Unity edicts have a  unity upkeep and make use of Edict Fund.
+Ethic edicts
+The following edicts are only available to empires with certain ethics. Land of Opportunity also requires communications with at least one other empire.
+Civic edicts
+The following edicts are only available to empires with certain civics.
+Ambitions
+Ambition Edicts become available with the  Ascension Theory technology and are the most powerful available edicts. All of them have a base cost and upkeep of  75 Unity.
+Anomaly edicts
+Anomaly edicts can only be made available by the completion of certain anomaly event chains with specific choices.
+Network edicts
+Network edicts are only available once the  Hyper Relays technology has been researched and give various bonuses in systems with a Hyper Relay at the cost of adding strategic resource upkeep to every Hyper Relay. All network edicts have a base upkeep of 15  Unity.
+Primal stance edicts
+Empires with the  Primal Calling origin will unlock one edict based on the stance they selected after finishing a first contact with space fauna. All of them have a base cost and upkeep of 15  Unity.
+Cybernetic authority edicts
+The following edicts are only available to empires with a certain cybernetic authority. All of them have a base cost and upkeep of  25 Unity.
+Conclave of Fusion edicts
+Conclave of Fusion edicts can only be unlocked by empires with the  Cybernetic Creed origin at the end of the The Conclave of Fusion situation depending on which faction was supported. All of them have a base cost and upkeep of  25 Unity and once activated they cannot be deactivated for 15 years.
+Minor patron edicts
+Minor patron edicts can only be unlocked by empires that completed the special project to contact a minor patron within the Shroud and retain at least 300 Attunement with at least one of the adjacent two major patrons. The edicts have a small chance to be unlocked each time the empire delves into the Shroud. All minor patron edicts cost 1  Zro to activate.
+Damn the Consequences
+Damn the Consequences is an edict available to empires with the  Overtuned origin. It doubles pop upkeep and the bonuses from the origin traits. Unlike other edicts Damn the Consequences ignores Edict Fund and has an upkeep equal to 80% of the empire's  Unity income. Once activated, the edict cannot be canceled for 5 years.
+Strategic resources edicts
+Strategic resources edicts cost an amount of advanced or strategic resources. They are not visible unless the empire has sufficient resources. Upkeep is scaled based on empire size.
+Dark matter edicts
+Dark matter edicts require  Dark Matter and are only available to empires that have the  Dark Consortium or  Shadow Corporation civic.
+Nanite edicts
+Nanite edicts are only available to empires that have the  Nanite Augmentations tradition. Once activated, they cannot be deactivated for 15 years.
+Behemoth augmentation edicts
+Behemoth augmentation edicts are only available to empires that finish the Behemoth Mutations special project after unlocking any of the machine ascension traditions and improve Behemoths. Once activated, they cannot be deactivated for 15 years.
+Campaigns
+Campaign edicts cost basic resources and are unlocked by the  Planetary Unification technology.
+Sacrifices
+Sacrifices are edicts available only to empires with the  Death Cult or  Corporate Death Cult civic who have at least 100 worked  Mortal Initiate jobs or a subject with at least 100 worked  Overlord Mortal Initiate jobs. All sacrifices will kill all pops holding the jobs, with the edict granting benefits scaling with what percentage of the population that had  Mortal Initiate jobs (max 15%). In addition to its specific effects, each sacrifice grants +5%  Pop Growth Speed and +3  Unity from  Death Priests. Only one Sacrifice edict can be active at any time. Unlike other edicts, sacrifices do not have an upkeep cost but only an upfront cost, and their bonus lasts for 5 years. The small empire multiplier is 0.64 with less than 5000  Pops, 0.8 with less than 10000  Pops, and 1 otherwise. The random multiplier is the following:
+16.6% chance for 15
+66.6% chance for 20
+16.6% chance for 25
+The final multiplier is small empire multiplier times the random multiplier times the ratio of  Mortal Initiates to  Pops and then round to closest 0.1. The maximum possible multiplier is 3.75 with small empire multiplier at 1, random multiplier at 25, and ratio of  Mortal Initiates at 15% or more and final multiplier is 3.8 after round to closest 0.1.
+Sacrifice: Bounty will also add +1  Monthly Organic Pop Growth to  Reassigner jobs if the empire has the  Permanent Employment civic.
+Astral edicts
+Astral edicts cost  Astral Threads.
+End of the Cycle edicts
+End of the Cycle edicts are unlocked by empires who reach stage 3 in the situation with the same name. Each edict increases the Intensity gain of the empire's  Psionic Aura by +25%.
+Annihilation of Matter has a base cost of 200  Minerals and 100  Alloys
+Annihilation of Energy has a base cost of 200  Energy and 30  Exotic Gases
+Dimensional Collapse has a base cost of 5  Zro and 25  Astral Threads and will only appear if the  Astral Planes DLC is also installed

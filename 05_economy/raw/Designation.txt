@@ -1,0 +1,75 @@
+Designation
+
+Version
+
+Please help with verifying or updating older sections of this article. At least some were last verified for  4.1.
+
+This article is for the PC version of Stellaris only.
+Planetary management
+
+
+ 
+ 
+ 
+ 
+Designation represents the production focus on a world and provides a bonus favoring a certain production focus. By default, it is automatically determined by the most common type of  or  constructed but it can be chosen manually at any point.
+If automation is turned on, the world builds buildings favoring the designation's bonus unless the planet has low amenities or high crime or deviancy, in which case it first focuses on tackling these issues. Each planetary ascension tier also increases the effects of the planet designation by +25% and reduces size from the colony by −5%, which includes pops, districts and the colony itself. Ascension tiers are not lost if the designation is changed.
+Most designations benefit from the  Adaptability tradition finisher, and some benefit from certain Galactic Community .
+Contents
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Capital designations
+The following designations are only available on empire capitals. All capital designations have the following effects in addition to the ones in the table below:
+
+Unity designations
+Unity designations are available to all worlds except  Habitats and increase the output of jobs that produce  Unity.
+Urban designations
+Urban designations are available for planets and increase the efficiency of urban districts.
+Planet designations
+The following designations are available for planets except Ecumenopolis.
+Specialized planet designations
+These designations are used on specialized planets created with a . Specialized planet designations typically change the types of districts that can be constructed on the planet and create unique jobs, most of which provide empire-wide bonuses.
+Hive World designations
+The following designations are only available for  Hive Worlds.
+Machine World designations
+The following designations are only available for  Machine Worlds and  Nanite Worlds.
+Ecumenopolis designations
+The following designations are only available for an  Ecumenopolis.
+Ring World designations
+The following designations are only available for  Ring Worlds. Additionally all of them give a +10% bonus to all sources of pop growth and assembly.
+Habitat designations
+The following designations are only available for Habitats.
+Synaptic Lathe
+The Synaptic Lathe has only one designation.
+Unavailable designations
+The following designations are unavailable for player empires.
+Planetary ascension
+All worlds can be ascended using  unity, which increases the effects of the world's designation by +25% and reduces  empire size from that planet (from the colony, districts, and pops) by −5% each. If a planet is conquered its ascension level is reset.
+The maximum planetary ascension tier depends on the number of unlocked  ascension perk slots, with the first tier being unlocked by the third ascension perk slot. Each additional ascension perk unlocked allows an additional planetary ascension tier. Once all eight ascension perk slots have been unlocked, an additional four planetary ascension tiers are unlocked for a maximum of 10, a possible total +250% designation effect increase and −50% reduction in empire size from that planet.
+For example, a  Generator World with 2 ascension tiers would give a +37.5% bonus to  Technician output; i.e. the original +25% bonus, multiplied by a +50% increase.
+The effect of planetary ascension can be enhanced by the following bonuses:
+Secondary planet's designation modifiers (such as bonuses to resource gathering designations from  The Greater Good line of resolutions) are also increased. The 
+ +1 Priest
+ job per 25 pops modifier (from the  Heavenly Accord perk as a member of a level 4  Holy Covenant federation) gets upgraded to a  +1 Priest job per 7 pops modifier with a level 10 planetary ascension. The enhancement of the effect of planetary ascension also applies multiplicatively to the base −5% reduction in empire size from the planet. For example, if you have a +50% Planetary ascension effect, each ascension reduces the empire size by −7.5%.
+Planetary designation effects are affected by the following formula:
+modifier after planetary ascension=modifier before planetary ascension∗(100+tier⋅25⋅100+X+Y+Z100)/100
+where X, Y, Z are the optional bonus source for the enhanced planetary ascension effect from the table above (values: 25 | 20 | 25). A few examples of typical effects values are listed in the table:
+† with all three bonus sources to enhance the planetary ascension effect
+Ascension cost
+The cost of increasing a planet's ascension tier depends on the empire's size and total number of planetary ascension tiers already present in the empire, whether on the same planet or other planets. For example, an empire with  200 size and 3 total ascension tiers (whether from three planets at tier 1, one at tier 3, or one at tier 2 and one at tier 1) would need to spend  5600 unity to increase the ascension tier of a planet. The precise formula is shown below:
+ascension unity cost=(empire size⋅10)⋅(1+0.6⋅total ascension tiers)=(200⋅10)⋅(1+0.6⋅3)=5600
+From there, a formula for the total cost of performing n ascensions can be derived:
+total unity cost=(empire size⋅10)⋅(n+0.6⋅n(n−1)/2)=(200⋅10)⋅(4+0.6⋅4⋅3/2)=15200

@@ -1,0 +1,72 @@
+Society research
+
+Version
+
+This article has been verified for the current PC  (4.2) of the game.
+Technology
+
+
+ 
+ Society research
+ 
+ Society is one of the three research areas. It consists of the following fields:
+ Biology: food production, genetic modification, leader lifespan and enhancement, biological ship components, army types.
+ Military Theory: fleet command limit, naval capacity, army buildings and stats, claim cost.
+ New Worlds: habitability, terraforming, blocker removal, starbase capacity, upgraded capital buildings.
+ Statecraft: unity and edicts, leaders, envoys, diplomacy, upgraded capital buildings, various buildings for unity, trade and amenities.
+ Psionics, exotic technologies unlocked in mid to late game, associated with psionic ascension.
+ Archaeostudies: archaeology, minor artifacts, archaeotechnologies, requires  Ancient Relics DLC
+Contents
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Table usage
+Color indicators: Starter, Acquisition, Rare, Dangerous, Repeatable.
+Notes:
+The table shows the default names/icons of techs. Flavor entry is displayed if accompanied by a change to effects/requirements.
+If a tech was available as a research option as part of the last choice, then its (total) weight is halved in the coming choice.
+The table denotes the base cost of a tech. Actual in-game tech cost scales with  and  (number of colonized planets and population).
+To research techs of higher tiers, it is necessary to first acquire six or more techs of the preceding tier.
+Sorting the table by tiers places all Starter tech at the top and Repeatable end-game tech at the bottom.
+Most icons also double as links. For more information about an unlocked effect (buildings, components, etc.), click on the accompanying icon.
+Biology
+The  Biology tech tree focuses on food production, genetic modification, leader lifespan and enhancement, biological ship components, and unlocking additional army types.
+Biological ship technologies
+Biological ship technologies are only available to empires that use a biological shipset and will unlock or improve biological ships or Weaver components.
+Biology event technologies
+The following technologies cannot be discovered by research draws and are added as permanent research options by events.
+Military Theory
+The  Military Theory tech tree focuses on armies and the size of fleets.
+Military Theory event technologies
+The following technologies cannot be discovered by research draws and are added as permanent research options by events.
+New Worlds
+The  New Worlds tech tree focuses on improving planets and starbase capacity.
+New Worlds event technologies
+The following technologies cannot be discovered by research draws and are added as permanent research options by events.
+Statecraft
+The  Statecraft tech tree focuses on various empire bonuses.
+Statecraft event technologies
+The following technologies cannot be discovered by research draws and are added as permanent research options by events.
+Psionics
+ Psionics is a small tech tree that grants a number of unique bonuses. Empires with the  Mindwardens origin do not have access to the tech tree and  Gestalt Consciousness empires require the  Shadows of the Shroud DLC.
+Psionics event technologies
+The following technologies cannot be discovered by research draws and are added as permanent research options by events.
+Archaeostudies
+The  Archaeostudies tech tree focuses on  Minor Artifacts and unlocks a number of unique buildings and ship components.
+Archaeostudies technologies
+The following technologies can be drawn after  Archaeostudies technology is researched or added as permanent research options by archaeology site events.
+Precursor technologies
+Precursor technologies cannot be discovered by research draws and are added as permanent research options by Secrets of the Precursor special project.

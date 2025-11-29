@@ -1,0 +1,303 @@
+{
+  "description": "Physics \u2192 Computing techs (branch file).",
+  "area": "physics",
+  "subfield": "computing",
+  "techs": [
+    {
+      "id": "tech.scientific_method",
+      "name": "Scientific Method",
+      "area": "physics",
+      "subfield": "computing",
+      "tier": 0,
+      "base_cost": 1000,
+      "prerequisites": [],
+      "unlocks_components": [],
+      "unlocks_ships": [],
+      "unlocks_buildings": [
+        "building.research_lab_1"
+      ],
+      "unlocks_districts": [],
+      "unlocks_jobs": [
+        "job.researcher"
+      ],
+      "unlocks_traits": [],
+      "unlocks_policies": [],
+      "unlocks_edicts": [],
+      "unlocks_megastructures": [],
+      "modifies_rules": [],
+      "tags": [
+        "research",
+        "early"
+      ]
+    },
+    {
+      "id": "tech.administrative_ai",
+      "name": "Administrative AI",
+      "area": "physics",
+      "subfield": "computing",
+      "tier": 1,
+      "base_cost": 2000,
+      "prerequisites": [
+        "tech.scientific_method"
+      ],
+      "unlocks_components": [],
+      "unlocks_ships": [],
+      "unlocks_buildings": [],
+      "unlocks_districts": [],
+      "unlocks_jobs": [],
+      "unlocks_traits": [],
+      "unlocks_policies": [],
+      "unlocks_edicts": [],
+      "unlocks_megastructures": [],
+      "modifies_rules": [
+        "rule.research_speed_bonus"
+      ],
+      "tags": [
+        "research"
+      ]
+    },
+    {
+      "id": "tech.specialized_combat_computers",
+      "name": "Specialized Combat Computers",
+      "area": "physics",
+      "subfield": "computing",
+      "tier": 1,
+      "base_cost": 2500,
+      "prerequisites": [
+        "tech.scientific_method"
+      ],
+      "unlocks_components": [
+        "component.basic_combat_computer"
+      ],
+      "unlocks_ships": [],
+      "unlocks_buildings": [],
+      "unlocks_districts": [],
+      "unlocks_jobs": [],
+      "unlocks_traits": [],
+      "unlocks_policies": [],
+      "unlocks_edicts": [],
+      "unlocks_megastructures": [],
+      "modifies_rules": [],
+      "tags": [
+        "military",
+        "ship_ai"
+      ]
+    },
+    {
+      "id": "tech.auxiliary_fire_control",
+      "name": "Auxiliary Fire-Control",
+      "area": "physics",
+      "subfield": "computing",
+      "tier": 1,
+      "base_cost": 3000,
+      "prerequisites": [
+        "tech.specialized_combat_computers"
+      ],
+      "unlocks_components": [
+        "component.aux_fire_control"
+      ],
+      "unlocks_ships": [],
+      "unlocks_buildings": [],
+      "unlocks_districts": [],
+      "unlocks_jobs": [],
+      "unlocks_traits": [],
+      "unlocks_policies": [],
+      "unlocks_edicts": [],
+      "unlocks_megastructures": [],
+      "modifies_rules": [],
+      "tags": [
+        "military",
+        "accuracy"
+      ]
+    },
+    {
+      "id": "tech.self_evolving_logic",
+      "name": "Self-Evolving Logic",
+      "area": "physics",
+      "subfield": "computing",
+      "tier": 2,
+      "base_cost": 5000,
+      "prerequisites": [
+        "tech.administrative_ai"
+      ],
+      "unlocks_components": [],
+      "unlocks_ships": [],
+      "unlocks_buildings": [],
+      "unlocks_districts": [],
+      "unlocks_jobs": [],
+      "unlocks_traits": [],
+      "unlocks_policies": [],
+      "unlocks_edicts": [],
+      "unlocks_megastructures": [],
+      "modifies_rules": [
+        "rule.research_alt_bonus"
+      ],
+      "tags": [
+        "research"
+      ]
+    },
+    {
+      "id": "tech.active_countermeasures",
+      "name": "Active Countermeasures",
+      "area": "physics",
+      "subfield": "computing",
+      "tier": 2,
+      "base_cost": 4500,
+      "prerequisites": [
+        "tech.specialized_combat_computers"
+      ],
+      "unlocks_components": [
+        "component.active_countermeasures_suite"
+      ],
+      "unlocks_ships": [],
+      "unlocks_buildings": [],
+      "unlocks_districts": [],
+      "unlocks_jobs": [],
+      "unlocks_traits": [],
+      "unlocks_policies": [],
+      "unlocks_edicts": [],
+      "unlocks_megastructures": [],
+      "modifies_rules": [],
+      "tags": [
+        "military",
+        "point_defense"
+      ]
+    },
+    {
+      "id": "tech.interlinked_support_systems",
+      "name": "Interlinked Support Systems",
+      "area": "physics",
+      "subfield": "computing",
+      "tier": 2,
+      "base_cost": 6000,
+      "prerequisites": [
+        "tech.active_countermeasures"
+      ],
+      "unlocks_components": [
+        "component.barrier_point_defense"
+      ],
+      "unlocks_ships": [],
+      "unlocks_buildings": [],
+      "unlocks_districts": [],
+      "unlocks_jobs": [],
+      "unlocks_traits": [],
+      "unlocks_policies": [],
+      "unlocks_edicts": [],
+      "unlocks_megastructures": [],
+      "modifies_rules": [],
+      "tags": [
+        "point_defense"
+      ]
+    },
+    {
+      "id": "tech.extended_combat_algorithms",
+      "name": "Extended Combat Algorithms",
+      "area": "physics",
+      "subfield": "computing",
+      "tier": 3,
+      "base_cost": 8000,
+      "prerequisites": [
+        "tech.specialized_combat_computers",
+        "tech.self_evolving_logic"
+      ],
+      "unlocks_components": [
+        "component.advanced_combat_computer"
+      ],
+      "unlocks_ships": [],
+      "unlocks_buildings": [],
+      "unlocks_districts": [],
+      "unlocks_jobs": [],
+      "unlocks_traits": [],
+      "unlocks_policies": [],
+      "unlocks_edicts": [],
+      "unlocks_megastructures": [],
+      "modifies_rules": [],
+      "tags": [
+        "military",
+        "ship_ai"
+      ]
+    },
+    {
+      "id": "tech.multi_dimensional_studies",
+      "name": "Multi-Dimensional Studies",
+      "area": "physics",
+      "subfield": "computing",
+      "tier": 3,
+      "base_cost": 8000,
+      "prerequisites": [
+        "tech.scientific_method"
+      ],
+      "unlocks_components": [],
+      "unlocks_ships": [],
+      "unlocks_buildings": [
+        "building.advanced_research_complex"
+      ],
+      "unlocks_districts": [],
+      "unlocks_jobs": [],
+      "unlocks_traits": [],
+      "unlocks_policies": [],
+      "unlocks_edicts": [],
+      "unlocks_megastructures": [],
+      "modifies_rules": [],
+      "tags": [
+        "research"
+      ]
+    },
+    {
+      "id": "tech.positronic_ai",
+      "name": "Positronic AI",
+      "area": "physics",
+      "subfield": "computing",
+      "tier": 4,
+      "base_cost": 16000,
+      "prerequisites": [
+        "tech.self_evolving_logic"
+      ],
+      "unlocks_components": [
+        "component.positronic_brain"
+      ],
+      "unlocks_ships": [],
+      "unlocks_buildings": [],
+      "unlocks_districts": [],
+      "unlocks_jobs": [],
+      "unlocks_traits": [],
+      "unlocks_policies": [],
+      "unlocks_edicts": [],
+      "unlocks_megastructures": [],
+      "modifies_rules": [
+        "rule.research_speed_bonus"
+      ],
+      "tags": [
+        "research",
+        "ai"
+      ]
+    },
+    {
+      "id": "tech.synchronized_defenses",
+      "name": "Synchronized Defenses",
+      "area": "physics",
+      "subfield": "computing",
+      "tier": 4,
+      "base_cost": 20000,
+      "prerequisites": [
+        "tech.self_evolving_logic"
+      ],
+      "unlocks_components": [
+        "component.defense_grid_supercomputer"
+      ],
+      "unlocks_ships": [],
+      "unlocks_buildings": [],
+      "unlocks_districts": [],
+      "unlocks_jobs": [],
+      "unlocks_traits": [],
+      "unlocks_policies": [],
+      "unlocks_edicts": [],
+      "unlocks_megastructures": [],
+      "modifies_rules": [],
+      "tags": [
+        "military",
+        "defense"
+      ]
+    }
+  ]
+}

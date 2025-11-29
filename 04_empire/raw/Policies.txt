@@ -1,0 +1,155 @@
+Policies
+
+Version
+
+This article has been verified for the current PC  (4.2) of the game.
+
+Policies window
+Policies outline the stance of an empire on other empires, treatment of pops, and acceptable behavior. Once altered, a specific policy cannot be changed until 10 years have passed. Some resolutions in the  Galactic Community can make certain policies a breach of galactic law. In this case the policy will show a warning sign next to it.
+Changing policies is advised as a way to mitigate faction unhappiness in large empires that have a lot of pops of different , besides the possibility of opening up new possible avenues of power.
+Contents
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Base game policies
+Diplomatic Stance
+Diplomatic Stance determines the behavior an empire takes towards other empires on the galactic stage. It cannot be changed during a war.
+Pre-FTL diplomatic stances
+The following diplomatic stances are used by pre-FTL civilizations and cannot be used by space age empires. They depend on awareness and ethics.
+First Contact Protocol
+First Contact Protocol dictates an empire's stance on unknown aliens as well as whether an empire can order fleets to attack another empire before establishing communications. Encountering alien life for the first time will bring the option to set the initial policy, which cannot be changed for at least 10 years.
+War Philosophy
+War Philosophy limits the systems an empire is allowed to make claims for. The limit is removed during defensive wars for the defender and does not apply for systems owned by Fallen Empires. War philosophy cannot be changed while at war.
+Subjugation War Terms
+Subjugation War Terms determines the initial terms of agreement for subjects created by the  Subjugation and Imposed Inclusion casus belli as well as their starting  Loyalty. This policy is not available to subjects, though a player who becomes subjugated will regain what they had previously if they become independent. (If they are controlled by AI when they become independent, they get a ×10 weight towards picking the policy previously picked by the player.)
+War Doctrine
+War Doctrines become available to empires that either finished the  Supremacy tradition tree or reached 600 Attunement with  Eater of Worlds. This policy determines the overall strategic military doctrine for fleets.
+Orbital Bombardment
+Orbital Bombardment limits the maximum available stance of planetary bombing when orbiting enemy worlds. AI empires will always use the most powerful policy unless banned by the  Galactic Community.
+Orbital Surrender Acceptance
+Orbital Surrender Acceptance determines whether surrenders caused by orbital bombardment are accepted. AI empires will always accept surrenders. This policy is not available to Genocidal empires as planets will never surrender to them. Bombarding a world for the first time will bring the option to set the initial policy, which cannot be changed for at least 10 years.
+Pre-FTL Interference
+Pre-FTL Interference determines in what ways empires can interact with pre-FTL civilizations as well as what observation types Observation Posts can conduct. This policy becomes available once a pre-FTL civilization has been found. AI empires will set it according to their AI personality.
+Pre-FTL Enlightenment
+Pre-FTL Enlightenment determines whether or not an empire can enlighten pre-FTL civilizations. This policy becomes available once a pre-FTL civilization has been found.
+Resettlement
+This policy determines if forced organic pop resettlement is enabled. The policy is not available to  Gestalt Consciousness who always have it enabled.
+Land Appropriation
+Land Appropriation determines whether conquered planets with at least 10 pops without Full Citizenship and no free  Housing will have 3-5 pops replaced with Full Citizenship pops. The replaced pops will become  and for 5 years the world will gain +100%  Automatic Resettlement Destination Chance and will not grow species without Full Citizenship species rights.
+Leader Enhancement
+Leader Enhancement determines whether technology can be used to improve leaders' abilities. This policy becomes available once  Selected Lineages is researched and the effects also apply to already hired leaders. With  Federations, if the  Unchained Knowledge resolution 4 is passed, members of the Galactic Community must use the most powerful leader enhancement policy they have technology for, or be in breach of galactic law.
+Initial Border Status
+Initial Border Status determines whether borders start open or closed to other empires.
+Research Restrictions
+Research Restrictions policy determines whether the empire can discover Dangerous research options and affects the change to discover Rare research options. The Refactored Restrictions option requires the empire to be a member of the  Galactic Community and the  Unchained Knowledge resolution to be at level 4 or 5.
+Economic Policy
+Economic Policy determines whether civilian or military resource production should receive more focus. The policy is not available to  Gestalt Consciousness empires, which have a  instead.
+Trade Policy
+Trade Policy determines what resource will part of  Trade be converted into. The policy is renamed to Logistics Policy for  Gestalt Consciousness empires. AI always uses Holy Covenant, Mutual Aid or Trade League if it can.
+Production Policy
+Production Policy determines what drone stratum a  Gestalt Consciousness empire focuses on. AI will always use Balanced Production.
+Artificial Intelligence
+Artificial Intelligence policy determines how much freedom an empire gives to artificial intelligence. This policy becomes available once the  Positronic AI or  Artificial Administration technology is obtained, or after contact with certain empires. This policy is not available to  Gestalt Consciousness empires. AI empires decide this policy based on .
+Robotic Workers
+Robotic Workers policy determines whether robots are allowed in an empire. This policy is not available to  Hive Mind empires, which disassemble all robot pops, or to  Machine Intelligence empires, which always integrate them as drones.
+Pre-Sapients
+The Pre-Sapients policy determines whether an empire tolerates pre-sapients living on their worlds or not. It is unlocked when a world within the empire's borders has a pre-sapient pop on it, or the empire's science ship discovers pre-sapients by surveying or via an anomaly. This policy does not affect pops with the  Nascent Stage trait.
+Debris
+Debris policy determines what will the empire do when investigating battle debris and is unlocked after another species has been met.
+Refugees
+Refugees policy determines the stance on accepting refugees that are fleeing from purges, displacement and persecution in other empires. This policy is unlocked after another species has been met. It is not available to  Gestalt Consciousness empires unless they have the  Rogue Servitor civic.
+Population Controls
+Population Controls policy determines the stance on the Population Controls Species Right. The policy is not available to  Gestalt Consciousness empires.
+Slavery
+Slavery policy determines whether an empire can give an alien species the Slave Citizenship.  Gestalt Consciousness empires cannot access this policy, but may give the Slave Citizenship without it (except  Rogue Servitors, who must subject them to Mandatory Pampering instead, and genocidal types, who purge them).
+Purge
+Purge policy determines an empire's position on the forced removal of species that are no longer wanted. This policy option only dictates which degree of  is allowed; further details on which pops are to be purged and in what way can be managed with the  system. Pops that cannot integrate with the empire (e.g.  Hive-Minded pops outside a  Hive Mind) may be purged regardless of this policy setting.
+Eternal Vigilance
+Eternal Vigilance policy is unlocked by taking the ascension perk with the same name and can automate the construction of defense platforms throughout the empire. One defense platform will be built every 6 months around each valid starbase, orbital ring and deep space citadel that uses less than 50% of its defense platform cap. The design is picked at random from all current defense platform designs.
+Engineering Research Focus
+Engineering Research Focus policy is unlocked by taking the  Technological Ascendancy ascension perk and allows an empire to focus on a certain  Engineering tech tree.
+Physics Research Focus
+Physics Research Focus policy is unlocked by taking the  Technological Ascendancy ascension perk and allows an empire to focus on a certain  Physics tech tree.
+Society Research Focus
+Society Research Focus policy is unlocked by taking the  Technological Ascendancy ascension perk and allows an empire to focus on a certain  Society tech tree.
+Grand Archive DLC policies
+Space Fauna Growth
+Space Fauna Growth policy is only available to empires that researched the  Artificial Breeding technology and decides how much space fauna is allowed to grow.
+Metabolic Regulation
+Metabolic Regulation policy is only available to empires that adopted the  Metabolic Regulation tradition and allows them to affect the growth of cloned space fauna.
+Exhibition Focus
+Exhibition Focus policy is only available to empires that adopted the  Exhibition Specialization tradition and allows them to increase the output of specimens from the selected category at the cost of reducing the output of specimens from the other two categories.
+Toxoids DLC policies
+Knightly Duties
+Knightly Duties policy is only available to empires with the  Knights of the Toxic God origin and grants various bonuses to the empire. The Herald Knights option is only available following certain choices during stage 5 of the Quest for the Toxic God situation. The policy will be removed if the Order is disbanded.
+Industrialism
+Industrialism becomes available to empires with the 
+ Relentless Industrialists
+ civic at the conclusion of the  situation. It modifies the effects of  Coordinated Fulfillment Center and  Universal Productivity Alignment Facility buildings.
+The Machine Age DLC policies
+Cyberization Standards
+Cyberization Standards is unlocked during stage 3 of the Cyberization situation and determines what cybernetic trait will  Spiritualist pops and leaders get from cyberization. An event will bring the option to set the initial policy, which cannot be changed for at least 10 years.
+Synthetic Identities
+Synthetic Identities is unlocked by completing the Synthesization situation and gives some modifiers to  Mechanical pops on planets with robot assembly buildings. Initially only Identity Copies is available but alternative options can be researched.
+Virtual Focus
+Virtual Focus is unlocked by having either the  Capacity Synchronization tradition or a synthetic virtual authority and decides whether the empire focuses on research, unity or leaders.
+Computation Core Focus
+Computation Core Focus is only available to empires with  Corporate Recollection or  Corporate Sapience authority and gives additional modifiers per 100 Civilians.
+Biogenesis DLC policies
+Disconnected Drones
+Disconnected Drones policy is available to empires that are not a  Gestalt Consciousness and complete first contact with an empire with  Hive Mind authority. It determines what citizenships are available for species with the  Hive-Minded trait.
+Genome Tailoring
+Genome Tailoring is only available to empires with  Homogenous Submission authority and increases the experience gain of a leader class while reducing the penalty of the Clone Leader trait for the selected class.
+Replicant Insurance
+Replicant Insurance is only available to empires with  Replicatory Association authority and reduces the penalties of the Clone Leader trait for a cost.
+Egg Development
+Egg Development is only available to empires that have reached the final  Behemoth Fury crisis level and chose Behemoth Eggs that hatch into ships and determine what ships will hatch from Behemoth Eggs.
+Psionic Choir
+Psionic Choir policy is available to empires that have a corporeal psionic authority. It provides an empire-wide bonus and increases Attunement with a certain Shroud patron by +1 each month.

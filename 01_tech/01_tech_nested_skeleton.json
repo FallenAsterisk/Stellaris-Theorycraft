@@ -1,0 +1,96 @@
+{
+  "description": "01_tech nested skeleton for Physics, Society, Engineering. Fill tech arrays per subfield.",
+  "schema": {
+    "tech_object": {
+      "id": "string",
+      "name": "string",
+      "area": "physics | society | engineering",
+      "subfield": "string",
+      "tier": "integer (0-5)",
+      "base_cost": "number",
+      "prerequisites": [
+        "tech id"
+      ],
+      "unlocks_components": [
+        "component id"
+      ],
+      "unlocks_ships": [
+        "ship_hull id"
+      ],
+      "unlocks_buildings": [
+        "building id"
+      ],
+      "unlocks_districts": [
+        "district id"
+      ],
+      "unlocks_jobs": [
+        "job id"
+      ],
+      "unlocks_traits": [
+        "trait id"
+      ],
+      "unlocks_policies": [
+        "policy id"
+      ],
+      "unlocks_edicts": [
+        "edict id"
+      ],
+      "unlocks_megastructures": [
+        "megastructure id"
+      ],
+      "modifies_rules": [
+        "rule id"
+      ],
+      "tags": [
+        "string"
+      ]
+    }
+  },
+  "data": {
+    "physics": {
+      "computing": {
+        "techs": []
+      },
+      "field_manipulation": {
+        "techs": []
+      },
+      "particles": {
+        "techs": []
+      }
+    },
+    "society": {
+      "biology": {
+        "techs": []
+      },
+      "military_theory": {
+        "techs": []
+      },
+      "new_worlds": {
+        "techs": []
+      },
+      "statecraft": {
+        "techs": []
+      },
+      "psionics": {
+        "techs": []
+      },
+      "archaeostudies": {
+        "techs": []
+      }
+    },
+    "engineering": {
+      "industry": {
+        "techs": []
+      },
+      "materials": {
+        "techs": []
+      },
+      "propulsion": {
+        "techs": []
+      },
+      "voidcraft": {
+        "techs": []
+      }
+    }
+  }
+}

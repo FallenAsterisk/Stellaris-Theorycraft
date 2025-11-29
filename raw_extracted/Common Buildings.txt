@@ -1,0 +1,91 @@
+Buildings
+
+Version
+
+Please help with verifying or updating older sections of this article. At least some were last verified for  4.1.
+
+This article is for the PC version of Stellaris only.
+Planetary management
+
+
+ 
+ 
+ Buildings
+ 
+Buildings
+
+
+Common buildings
+
+
+Buildings are the third level of world development, requiring both districts and specializations to be constructed. Buildings may be ruined by . Buildings that are ruined can be repaired for half of their cost and construction time.
+Contents
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Building sets
+Each building belongs to one or more building sets. A building can only be built in a  that permits one of its building sets and does not exclude any of them, which depends on its . Changing the specialization of a district may change what buildings are supported and the new specialization's tooltip will display which existing buildings will be retained and which ones will be removed.
+The five general building slots available on all planets, as well as the Urban Expansion specialization, can accept most building sets. The main exceptions are extraction buildings, which can only be built in relevant extraction districts.
+Most specializations can accept an automation building, which produces extra workforce. There are several types with different building sets, each of which has a planet limit of 1. They affect all jobs of types created by the district and its buildings, even if created by other districts or their buildings.
+The Civilian Industry specialization can accept buildings relevant to production of consumer goods, as well as rare resource refineries. Similarly the Heavy Industry specialization can accept buildings relevant to production of alloys. Mixed Industry can accept both.
+Research specializations can accept research buildings relevant to their specialization (all of them if it is a generic Research Enclave). Archives can accept both research and unity buildings, whereas Administrative Hubs can only accept unity buildings.
+Resource districts can accept relevant resource buildings, including output boosters such as the Energy Grid. Notably, Bio-Reactors are considered agriculture buildings, since they alter Farmer jobs to produce energy. Some specializations can accept others, for example Mineral Research Support (mining district specialization) can also accept an Applied Mechanics Institute.
+ Agrarian Idyll empires can build Agrarian Villages specializations which can accept any "urban" buildings, including energy and mineral extraction.
+Capital buildings
+Main article: 
+The capital always occupies the first building slot and provides some of the basic  housing,  amenities,  defense armies, jobs that reduce  crime, as well as other jobs which vary depending on empire authority and civics. Upgrading the capital is one of the ways of unlocking additional building slots. Capital buildings cannot be demolished, downgraded, disabled, or ruined by orbital bombardment or collateral damage, and are automatically converted to the appropriate type if the planet is traded, ceded, or conquered by another empire with a different authority or if the planet designation is changed.
+Unique buildings
+Main article: 
+Unique buildings are buildings that can only be built a limited number of times per planet or empire, and typically provide effects beyond the creation of jobs. Many of them require the capital to have reached a certain level.
+Housing buildings
+Housing buildings come in two levels and increase  Housing and  Amenities. They are converted if the world is conquered by an empire that uses a different building line.
+Law enforcement buildings
+Law enforcement buildings usually come in two levels and provide jobs which generate  defense armies and  Unity while reducing  Crime/Deviancy. They are converted if the world is conquered by an empire that uses a different building line.
+Unity buildings
+The following buildings provide jobs that produce  Unity. They are converted if the world is conquered by an empire that uses a different building.  Rogue Servitor buildings will instead convert to  Housing buildings.
+Research buildings
+Research buildings come in three levels and provide jobs for all fields of research. They can only be constructed in specializations that allow research buildings.
+Foundry buildings
+Foundry buildings come in three levels and provide jobs that produce  Alloys.
+Factory buildings
+Factory buildings come in three levels and provide jobs that produce  Consumer Goods.
+Military buildings
+Military buildings provide  Soldier jobs which produce  defense armies and  naval capacity.
+Extraction buildings
+Extraction buildings provide jobs that produce basic resources.
+Other buildings
+Wilderness buildings
+Wilderness buildings can only be constructed by empires with the  Wilderness origin.
+Experimentation buildings
+Experimentation buildings can only be constructed by empires with the  Experimental Sentencing,  Judicial R&D or  Corrective Consciousness civic. They can only be constructed in specializations that allow research buildings and are destroyed if an empire without any of the civics conquers the world.
+Automation buildings
+Automation buildings automate workforce for the districts and buildings within the same district, freeing pops for other important jobs. The amount of automation buildings are limited to one per district, with a maximum of four per planet: one in the central district, and one per specialized district (energy, mining, agriculture). Both central district specialization slots count as part of the central district.
+Output is affected by most modifiers, like some edicts and support districts, and upkeep increases with the amount of districts they generate workforce for.
+Fallen empire buildings
+Fallen empire buildings are efficient buildings that are cheap to upgrade and do not increase in upkeep at higher tiers. They are not converted if the world is conquered by an empire lacking the technology to build them and can also be repaired if ruined.
+There are four ways an empire can get access to fallen empire building technologies:
+ If Apocalypse is enabled, empires with the  Enigmatic Engineering ascension perk can draw the technologies as research options.
+ If Ancient Relics is enabled, using the Reverse-Engineer Arcane Technology artifact action has a 20% chance (40% with the  Archaeo-Engineers ascension perk) to grant the ability to build a random fallen empire building once.
+ If The Machine Age is enabled, empires with the  Cosmogenesis ascension perk who have reached the required crisis level can draw the technologies as research options.
+ If BioGenesis is enabled, one of the tasks assigned by the Shattered Fragment fallen empires can have a random fallen empire technology as a reward.
+Empires with the  Wilderness origin must additionally pay  400 Biomass to build or upgrade all fallen empire buildings.
+Unique fallen empire buildings
+The following fallen empire buildings cannot be constructed and can only be found on special fallen empire worlds.
+Pre-FTL buildings
+Pre-FTL buildings can be found on planets owned by pre-FTL civilizations. They have negligible output and no upkeep and are removed or converted if the civilization is conquered or discovers FTL.

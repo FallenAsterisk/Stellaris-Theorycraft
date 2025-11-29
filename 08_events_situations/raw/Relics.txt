@@ -1,0 +1,41 @@
+Relics
+
+Version
+
+This article has been verified for the current PC  (4.2) of the game.
+
+Two relics
+Relics are very powerful artifacts and trophies that an empire can collect through various means. Every Relic has a passive effect, as well as a powerful Triumph effect that requires resources. All Relics have a Triumph cooldown, during which no other relic can be activated. Most relics have a cooldown of 10 years, but some have a shorter one.
+AI empires can also obtain and use relics. If an empire invades and captures the capital of another empire while using a casus belli other than Claim the Galatron, there is a 10% chance to steal one of the owned Relics. The chance is increased to 15% if the empire has the  Barbaric Despoilers civic and 50% when using the Despoliation casus belli. Having  medium level government  on another empire allows one to know how many relics it currently owns.
+Relics give large amounts of score, which can tip the balance in games with victory enabled. The Relics Collected score for empires in the victory tab can be used to deduce which empire has relics.
+Contents
+
+
+
+
+
+
+
+
+
+
+
+Crisis relics
+Crisis relics are tied to  and can be gained by certain actions connected with them.
+Archaeological relics
+Archaeological relics can only be obtained by fully excavating certain .
+Guardian relics
+Guardian relics can only be obtained by defeating a certain .
+Precursor relics
+Precursor relics can only be obtained by exploring a  homeworld.
+Astral relics
+Astral relics can only by obtained by fully exploring certain .
+Curator relics
+Curator relics can only be obtained by purchasing them from the Curator Order after unlocking all exhibit slots for a specimen category. The Curators will offer the choice between two randomly selected relics out of their respective category.
+Upgradeable relics
+Upgradeable relics are gradually improved as their story chain is completed. Until they are fully upgraded their triumph effect cannot be activated. Both relics can optionally be surrendered when entering the final system of their stories to avoid a difficult fight.
+The Key
+The Key is obtained by the first empire that enters the Dugar unique system and upgraded through the story of the .
+Celestial Chart
+Empires with the  Treasure Hunters origin begin the game with a Mysterious Orbital Capsule relic, which they can gradually upgrade to the Celestial Chart.
+Other relics

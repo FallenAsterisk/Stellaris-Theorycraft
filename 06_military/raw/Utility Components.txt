@@ -1,0 +1,59 @@
+Utility components
+
+Version
+
+This article has been verified for the current PC  (4.2) of the game.
+Ships
+
+
+
+
+
+Utility components
+ 
+ 
+Utility components are devices that can be installed on  to enhance their defensive capabilities and thus increase their survivability in combat against enemies. They are unlocked by researching or obtaining the technology with the same name.
+Contents
+
+
+
+
+
+
+
+
+
+
+
+Defenses
+ Small,  Medium, and  large utility components increase the durability of a ship by providing extra hit points. These come in three forms: shields, armor, and hull.
+Shields
+Shields form the first layer of hit points of a ship. They are effective against energy weapons but vulnerable to kinetic weapons and penetrated by guided weapons and strike craft. Shields regenerate but also consume power.
+Mechanical ships use the following shield components. They provide more hit points and less regeneration than biological components.
+
+Biological ships use the following shield components. They provide less hit points and more regeneration than mechanical components.
+Armor
+Armor forms the second layer of hit points of a ship. They are effective against kinetic weapons but vulnerable to energy weapons. Compared to shields, armor does not regenerate but has around 33% more hit points when tiers are equal.
+Empires that have the  Galvanic Synthesis,  Galvanic Symbiosis,  Galvanic Retrofitting or  Biometallic Cartel civic unlock regenerative versions of their standard armor components. They cost  Living Metal instead of  Alloys, equal to twice their original cost, but their upkeep is still paid in  Alloys. These components have the same stats but also provide +2% Energy Weapons Fire Rate and provides regeneration the following way:
+If the ship is mechanical it regenerates 1% of its Hull and Armor daily
+If the ship is biological its existing Armor regeneration is doubled
+Plating
+Plating components increase a ship's hull points. They can be acquired either by completing the  event chain, by reverse-engineering destroyed Crystalline Entities, or through searching an abandoned ship left by .
+Auxiliary
+Auxiliary components go in  Auxiliary slots and have a variety of effects.
+Reactor boosters
+Reactor booster components improve the output of the ship's reactor. As a result the bonus the provide is larger the more advanced the ship's reactor is.
+Regeneration
+Regeneration components allow ships to repair the  Hull and  Armor automatically. The healing effect is increased by 5 times out of combat.
+Due to what is likely a bug the repair effects are only 1/100 of the rate displayed in game and the following table.
+Marks
+Marks are components unlocked by forming a Covenant with a Shroud major patron. If only  Utopia is enabled they also need maximum Attunement with the patron. All of them cost 20  Alloys and 2  Zro and need 20  Power. They cannot be reverse-engineered from ship debris.
+Cloaking devices
+Cloaking devices are components that allow ships to  Activate Cloaking. Each ship can only have one cloaking device. The cost does not apply to nanite ships or menacing ships from the  player crisis.
+Boarding cables
+Boarding Cables are a component only available to empires with the  Treasure Hunters origin that defeat the second Black Needle fleet. They cost 15  Alloys and need 15  Power. Each component has a 5% chance to capture an enemy ship and a 0.5% chance to capture the enemy  Commander if the enemy fleet had any. If a  Commander is captured its owner will be offered the option to pay  Energy that scales with the empire's total  Trade Value to receive them back. If the owner refuses the captor empires has the following options:
+All empires can imprison the leader to gain 100  Intel on its empire
+Empires that are not  Pacifist or  Xenophile can execute the leader to gain 250-1000000  Unity
+Empires that are not  Militarist or  Xenophobe can keep the leader on the capital to gain 40-100  Influence
+The legendary paragon Captain Ness also applies the same effect to the entire fleet.
+Titans and colossal ships cannot be captured. Nanite and offspring ships can only be captured if the empire is already capable of building them.

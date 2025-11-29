@@ -1,0 +1,61 @@
+Anomaly
+
+Version
+
+This article has been verified for the current PC  (4.2) of the game.
+List of discoveries
+
+
+Anomalies
+
+ 
+An Anomaly is a mysterious discovery found by Science Ships during system surveys. Each anomaly outcome can only take place once, and once each outcome of an anomaly has taken place, the anomaly can no longer be found again by the same empire. Discovered anomalies are displayed on the galaxy map when a science ship is selected or the Detailed Map Mode is turned on.
+If an anomaly adds a deposit while the celestial object has a deposit that requires a different kind of station, the original deposit is removed. If an anomaly would give the scientist an expertise trait they already have, the scientist will gain 200 experience instead.
+Many anomalies will also give a specimen when investigated.
+Contents
+
+
+
+
+
+
+
+
+
+
+
+
+
+Base game anomalies
+Unique anomalies
+The following anomalies can only be discovered once per game, by the first empire finding them. They have only one outcome
+Human anomalies
+If the Sol system is present in the galaxy two special anomalies can appear once per game. If a human empire investigates them it will gain 40-100  Influence.
+Debris Field is a level 3 anomaly that can appear on a random asteroid. Investigating it will discover the Pioneer 11 probe. If the empire is not human, it will bring the following options:
+Decipher the data disk and gain 500  Engineering Research while the science ship leader gains 200 Experience. The location of the Sol system is added to the situation log. Entering the system will grant 80-175  Influence.
+Sell the data disk and gain 500  Engineering Research.
+Use the data disk as furniture and gain 40-100  Influence if  Xenophobe.
+A Lush Planet is a level 4 anomaly that can appear on a random Continental or Tropical planet. Investigating it will discover the Voyager golden record.
+If the empire is human, the planet will gain the  Cunning Flora modifier and if the  Grand Archive DLC is installed, the empire will gain either the  Golden Phonograph Record or  Symbiotica specimen.
+If the empire is not human, it will gain 350  Engineering and if the  Grand Archive DLC is installed, it will also gain the  Aluminium Plaque specimen.
+If year is at least 2440, there is a 50% chance the anomaly will instead give a very large amount of  Society Research.
+Distant Stars anomalies
+Distant Stars anomalies have only one possible outcome.
+Unique anomalies
+The following anomalies can only be discovered once per game, by the first empire finding them.
+Shadows of the Shroud anomalies
+Shadows of the Shroud anomalies have only one possible outcome.
+Infernals anomalies
+Infernals anomalies have only one possible outcome.
+Cosmic Storm anomalies
+The following anomalies can only be created when a cosmic storm disappears from the system. All of them have only one possible outcome.
+Astral Harvesting anomalies
+The following anomalies can only appear once per game after the  Astral Harvesting technology has been researched and only if the system does not contain an astral scar or astral rift.
+Bright Object Detected is a level 2 anomaly that can appear on a random asteroid. Investigating it will bring the option to pay 1000  Energy to spawn the Entertainment Nexus astral rift. Alternative empires that are not  Gestalt Consciousness can gain 500  Energy and +10  Trade Value deposit and empires that are  Gestalt Consciousness can gain 140-160  Astral Threads and 250  Minerals and  Alloys.
+Black Hole Instability is a level 5 anomaly that can appear on a random black hole. Investigating it will bring the option to gain 40-60  Astral Threads and a random astral rift or +3  Astral Threads deposit and replace it with an astral rift and 140-160  Astral Threads in 3-7 years.
+Weapon Trails
+The level 4 anomaly Weapon Trails can be discovered on any celestial object. Investigating the anomaly will bring an optional special project that will reveal a new system 2-4 hyperlanes away from the anomaly. The system does not have any deposits but contains a  Relic World with the Kleptomaniac Rats archaeological site. The anomaly can only appear once per game.
+Spiky Readings
+The level 2 anomaly Spiky Readings can be discovered on any habitable planet with pre-sapients and will add the  Psionic trait to the pre-sapient species when discovered. Investigating the anomaly and choosing to continue to investigate will bring a special project that costs 1000  Society Research, or 500 if the empire is  Spiritualist, and unlocks a second special project. Finishing the second special project will ring the option to pay various amounts of  Energy. Agreeing will unlock The Beholder legendary paragon. The anomaly can only appear once per game.
+Crimson Coverage
+Crimson Coverage is a level 3 anomaly that can spawn for biological empires on planets from the same class as the homeworld. Investigating it will give a special project that takes 180 days to complete. Completing the special projects brings a choice between a small amount of  Society Research or the  Crimson Crawlers planet modifier.

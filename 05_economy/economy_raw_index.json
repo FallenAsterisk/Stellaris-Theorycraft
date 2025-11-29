@@ -1,0 +1,15 @@
+{
+  "description": "Raw economy-related source text (buildings, districts, jobs, resources, planetary features/modifiers, designations, holdings) extracted from your uploads.",
+  "raw_files": [
+    "Common Buildings.txt",
+    "Designation.txt",
+    "Districts.txt",
+    "Holdings.txt",
+    "Jobs.txt",
+    "Planet Modifiers.txt",
+    "Planetary Features.txt",
+    "Planetary Management.txt",
+    "Resources.txt",
+    "Unique Buildings.txt"
+  ]
+}

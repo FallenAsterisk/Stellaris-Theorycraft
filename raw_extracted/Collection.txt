@@ -1,0 +1,56 @@
+Collection
+
+Version
+
+This article has been verified for the current PC  (4.2) of the game.
+
+A collection
+The collection contains every specimen obtained by an . Specimens can be obtained from events or . Specimens can be displayed if the empire has the  Galactic Archivism technology and a  megastructure, which provides various benefits but also has an  Energy upkeep which is increased by  Empire Size. Hovering over a specimen will also display the date it was collected. Specimens can be sold for  Energy and the storage can be set to automatically sell specimens of a certain rarity.
+Each empire can store up to 9 specimens ready for exhibition from each category and can store an additional 18 specimens of any category. If this storage is full, any newly collected specimens will be sold. Specimens can be stolen if the  of the system containing the Grand Archive megastructure is occupied, which will also destroy the megastructure. One specimen from each category will be stolen, or two if the attacking empire has the  Barbaric Despoilers civic.
+Shortly after the first specimen is obtained, the empire will have the option to pay 1000  Energy to unlock the  Galactic Archivism technology as a research option with 50% progress.
+Specimens can be traded with other empires, with trade acceptance depending on the rarity of the specimen. If a specimen is obtained via trade, obtaining it normally will not give another copy.
+Contents
+
+
+
+
+
+
+
+
+
+
+
+
+
+Rarity
+Specimens come in 4 rarities, which affects the strength of their effects, their upkeep and their sell value.
+List of specimens
+Specimens are sorted into three categories:  Aesthetic Wonders,  Galactic History, and  Xeno Geology. Each category has 9 exhibit slots and the  Energy cost to unlock them scales with how many exhibition slots from that category were already unlocked.
+Genocidal empires will gain  Unity after unlocking 3, 5 and 9 exhibit slots from each category.
+Event specimens
+The following specimens can be obtained from event chains.
+Situation specimens
+The following specimens can be obtained as a result of situations.
+Anomaly specimens
+The following specimens can be obtained from anomalies.
+Archaeological specimens
+The following Aesthetic Wonders specimens can be obtained from archaeological sites.
+Precursor specimens
+The following specimens can be obtained from precursor special projects.
+Origin specimens
+The following specimens can be obtained as part of the story of certain origins.
+Primal Calling specimens
+The following specimens can be obtained with the  Primal Calling origin
+Treasure Hunters specimens
+The following specimens can be obtained with the  Treasure Hunters origin
+Artifact specimens
+The following specimens can be obtained by specializing towards archivism. A random specimen from each category can be gained by starting with the 
+ Galactic Curators
+ civic or from  Archivism traditions:
+A random  Aesthetic Wonders specimen can be gained from the  Flawless Display tradition
+A random  Galactic History specimen can be gained from the  Exhibition Specialization tradition
+A random  Xeno Geology specimen can be gained from the  Frontier Archaeology tradition.
+If  Ancient Relics DLC is enabled, they can also be obtained via the  Artifact Analysis action.
+Astral specimens
+The following specimens can be obtained from astral rifts.

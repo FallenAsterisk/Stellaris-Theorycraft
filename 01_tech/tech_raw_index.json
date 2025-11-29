@@ -1,0 +1,9 @@
+{
+  "description": "Raw technology-related source text extracted from your uploads. This is the basis for building structured 01_tech data offline.",
+  "raw_files": [
+    "Engineering Research.txt",
+    "Physics Reseach.txt",
+    "Society Research.txt",
+    "Technology.txt"
+  ]
+}

@@ -1,0 +1,143 @@
+Unique buildings
+
+Version
+
+Please help with verifying or updating older sections of this article. At least some were last verified for  3.14.
+
+This article is for the PC version of Stellaris only.
+Buildings
+
+
+
+Unique buildings
+
+Unique buildings can only be built a limited number of times. These limits fall within two main categories:
+Planet-limited buildings, which typically have a limit of 1 per planet.
+Empire-limited buildings, which typically have a limit of 1 per empire.
+Many of these buildings require the capital to have reached a certain level. Unless otherwise stated, all buildings on this page can be constructed only once per planet.
+Contents
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Common planet unique buildings
+These buildings, or some variation of them, are available to most empires regardless of their civics, origin, or ascension path.
+Extraction buildings
+These buildings provide effects centered around basic resource generation, such as increasing the output of basic resource jobs and increasing max resource districts.
+Resource district buildings
+These buildings increase the max district cap of their respective basic resource type.
+
+Basic resource output buildings
+These buildings increase the output of jobs producing basic resources.
+
+Other extraction buildings
+These buildings further modify basic resource jobs.
+Industry buildings
+These buildings increase the output and efficiency of industrial jobs.
+Research buildings
+These buildings increase the output and efficiency of research jobs.
+Specialized research buildings
+These buildings increase the output and efficiency of researchers in a specific field (i.e  Physicists,  Biologists,  Engineers).
+
+General research buildings
+These buildings increase the output and efficiency of researchers in all fields.
+Unity buildings
+These buildings enhance unity producing jobs and/or produce unity themselves.
+Bureaucrat buildings
+Bureaucrat buildings increase the output and efficiency of  Bureaucrat jobs, with different possible versions available based on empire ethics/civics.
+Monuments
+Monument buildings increase  unity output from jobs, produce it themselves based on the number of taken  ascension perks, and provide bonuses to  Civilians. All monuments convert to the appropriate type if the colony is transferred or conquered by another empire.
+
+
+All monument buildings give the following bonuses per 100  Civilians, depending on the empire's governing ethics:
+
+Trade buildings
+These buildings increase the output and efficiency of trade jobs, and provide trade-related bonuses.
+Pop growth buildings
+Pop growth buildings increase pop growth speed, either directly or through jobs. Additionally, some pop growth buildings increase the amount of pops with auto-modding traits adjusted each month.
+Military buildings
+These buildings provide naval capacity and various other military bonuses.
+Other buildings
+Planet unique buildings that do not fall under other categories.
+Ascension buildings
+The following buildings are unlocked as part of certain ascensions.
+Covenant buildings
+Empires that pursued  Psionic ascension, breached the Shroud, and then formed and confirmed a  with a Shroud entity gain access to an empire unique Sanctum building that grants unique empire-wide bonuses.
+DLC content buildings
+The following buildings are connected to DLC features, such as minor artifacts, astral rifts, specimens, and cosmic storms.
+Archaeotech buildings
+These buildings are unlocked by researching the relevant  Archaeostudies technology. Their effects are boosted by the  Archaeo-Engineers ascension perk. Precursor techs and buildings require a relevant  Secrets of the Precursor minor artifact action.
+Astral Siphon buildings
+These buildings are unlocked by using the  Astral Siphon astral action. Each tier increases  astral threads capacity and the output/upkeep of  Physicists.
+Holo-Museum buildings
+Holo-Museum buildings are unlocked by a Curator offer after collecting 5 exhibits from their respective specimen category. All of them are empire unique, and increase the specimen output of their respective category by +15%.
+Paragon buildings
+The following buildings are associated with specific .
+Storm related buildings
+The following buildings are related to cosmic storms. Each of them gives  +5% Unity from jobs for  Storm Chasers empires.
+Civic buildings
+The following buildings are unlocked by certain civics.
+Gaia Seeder buildings
+Gaia Seeders can only be constructed by empires with an 
+ Idyllic Bloom
+ civic, and can only be built on terraformable 
+natural planets
+.
+Building and upgrading Gaia Seeders takes  480 days for each phase. Phase 1 requires a  Tier II capital or above. Upgrading it to Phase 2 or above depends on  and available terraforming technology:
+With no terraforming technology, the planet class must match the primary species' . Upkeep on such worlds is not increased.
+With  Terrestrial Sculpting technology, the planet needs to match the climate type of the primary species' planet class preference. Upkeep on such worlds is increased by +25%.
+With  Ecological Adaptation technology, the planet can be of any class except  Tomb World. Upkeep on such worlds is increased by +50%.
+With  Climate Restoration technology, the planet can be a  Tomb World as well. Upkeep on such worlds is increased by +75%. (even with  Tomb World Preference)
+Empires whose primary species has a special habitability trait (such as  Gaia World Preference) do not recognize any regular planet as matching their climate preference. If the habitability trait is the  Mutagenic Habitability trait, they can build Gaia Seeders on any natural planet class, including  Tomb Worlds, but are still subject to all applicable upkeep modifiers.
+The Final Phase building remains on Gaia Worlds, and boosts  Bloomed and  Budding traits. On Gaia World without a Gaia Seeder building, the Final Phase building can be built without the need to go through earlier phases.
+Relentless Industrialist buildings
+Empires with the 
+ Relentless Industrialists
+ civic can construct buildings that increase productivity of industrial jobs at the cost of environmental degradation, eventually turning any terraformable 
+natural planet
+ into a  Tomb World.
+Origin buildings
+The following buildings are unlocked by certain origins.
+Knightly Order buildings
+Empires with the  Knights of the Toxic God origin start with the Order's Keep on their starting habitat. If they have killed the Toxic Entity and obtained the  Maw of the Toxic Entity relic, they can consecrate other habitats, which creates an Order's Castle building on the habitat. Neither building can be demolished or disabled, and both allow for the construction of  Order's Demesne Districts
+Broken Shackles buildings
+The following buildings can only be found on the homeworlds of empires with the  Broken Shackles origin, no more can be constructed. If another empire conquers the homeworld they are removed, except for the capital. All buildings have an upkeep of  −1 Energy.
+Cybernetic Creed buildings
+The following buildings are only available to empires with the  Cybernetic Creed origin. The first level buildings convert to a  Temple on conquest by another empire. The capital starts with one of each of the first tier creed buildings. The empire can build more buildings of a specific creed if they embrace said creed (or Sanctum of Augmentation if unified the creeds) in . Once a creed is embraced or the faiths unified, the other creed buildings are dismantled.
+First tier of each building requires a  Tier II capital, second tier requires a  Tier III capital. They cannot be built on  Resort Worlds or  Thrall-Worlds. Once built, they cannot be manually destroyed.
+Primal Calling buildings
+The following buildings are only available to empires with the  Primal Calling origin. The available building depends on the empire's . If an empire with a different stance conquers the world, the buildings are converted. If an empire without the origin conquers the world, the buildings are removed.
+
+Synaptic Lathe buildings
+Unique buildings that can only be built on the  Synaptic Lathe. Each building has a planet limit of two buildings apiece, and the Synaptic Lathe has a maximum of six building slots.
+

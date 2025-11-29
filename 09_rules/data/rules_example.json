@@ -1,0 +1,10 @@
+{
+  "description": "Example rule subset.",
+  "rules": [
+    {
+      "id": "rule.pop_growth_base",
+      "type": "population",
+      "formula": "base_growth + modifiers"
+    }
+  ]
+}

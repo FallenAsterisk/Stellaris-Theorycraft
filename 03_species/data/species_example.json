@@ -1,0 +1,15 @@
+{
+  "description": "Example subset of species/archetype data.",
+  "species_archetypes": [
+    {
+      "id": "archetype.organic",
+      "name": "Organic",
+      "base_growth": 1.0,
+      "habitability_baseline": {
+        "wet": 0.8,
+        "dry": 0.6,
+        "cold": 0.6
+      }
+    }
+  ]
+}

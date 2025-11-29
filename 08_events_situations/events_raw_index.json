@@ -1,0 +1,11 @@
+{
+  "description": "Raw events & situations text extracted from uploads.",
+  "raw_files": [
+    "Anomaly.txt",
+    "Astral Rift.txt",
+    "Collection.txt",
+    "Discovery.txt",
+    "Relics.txt",
+    "Situations.txt"
+  ]
+}

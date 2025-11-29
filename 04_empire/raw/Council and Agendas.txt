@@ -1,0 +1,71 @@
+Council
+
+Version
+
+This article has been verified for the current PC  (4.2) of the game.
+
+Empire council
+The council represents the leadership of the , made up of the  empire ruler and up to 5 other councilors. A  can be appointed to each council position to provide empire-wide bonuses that scale with the leader's skill level. The council is also where agendas are launched, producing additional empire-wide effects.
+Contents
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Council positions
+Most council position require the leader to be a specific . Each position can be renamed by clicking on its name.
+Ruler
+ Every empire has a single leader acting as the empire ruler. The ruler provides  +5 edict fund per skill level, as well as a unique effect that depends on empire authority. Ruler is the only council position that a leader cannot be freely assigned to or unassigned from.
+In most governments, the ruler is changed through . The default ruler title and the leader class favored in elections are determined by the . In  Imperial governments, the ruler is succeeded by the  Imperial Heir instead, and in  Gestalt Consciousness governments, the ruler is immortal and permanent.
+The empire's other effects and the election type are determined by the empire .
+Some advanced authorities replace the original authority's ruler skill effect. Advanced authorities not listed here keep the original authority's effect.
+Minister positions
+Each non-gestalt empire starts with three (or in some cases two) initial council positions alongside the empire ruler. Each of them requires a leader to be a specific leader class. If these positions are not filled or absent from the council, their absence applies an empire-wide penalty.
+Empires with the  Inward Perfection or  Fanatic Purifiers civic do not have the  Minister of State position, and cannot unlock it at any point.
+Nodes
+ Gestalt Consciousness empires use four permanent nodes instead of council positions. The nodes level up together with the ruler and can have their own traits. If the  Galactic Paragons DLC is active, they will also obtain a council-focused veteran class once they reach  skill level 4, although the class itself will not have any effects.
+Additional council positions
+Individualist empires can unlock two additional council positions with the  Expand The Council agenda, which can be launched once at any time, and a second time after  Galactic Administration has been researched. Empires with the  Inward Perfection or  Fanatic Purifiers civic will start the game with their civic position unlocked in place of the  Minister of State.
+Council positions can be reselected by reforming the government or by launching the  Reorganize Council agenda. This will also reset the position slots held by starting council positions, which will apply the penalty unless the position is selected again.
+Civic positions
+Each  enables a unique position to be added to the council. To use these positions, the empire must either expand the council or form a new one.
+Enclave positions
+Enclave positions are only available if the empire recruited an . Only the enclave paragons can fill those positions, except the  Master Salvager position, which can also be filled by  .
+Special council positions
+The following council positions can be unlocked by events and will remain unlocked for the rest of the game.
+Agendas
+An Agenda represents the current strategic focus of the Council, shaping the empire's priorities and long-term goals. Each agenda has a weaker continuous effect and a far more powerful launch effect which takes time to prepare and once ready lasts for 10 years, or 12.5 if the empire has the  Immutable Directives tradition. Agendas can be changed at any point, but if they are not ready for launch all progress will be lost. After an agenda is launched, the same agenda cannot be selected again for 30 years.
+Agendas cost 7000 progress points to launch, and the cost is increased by 0.1% for each point of  empire size above 100. Each councilor provides 10 + level points of progress each month. Agendas can be launched by paying  unity equal to the amount of progress left.
+The council also has a  council legitimacy rating based on the total  approval within the empire. Each point below 50% decreases monthly agenda progress by −1% and each point above 50% increases progress by +0.5%.
+Ethic agendas
+The following agendas are only available to empires with the required ethics. As such, they are not available to  Gestalt Consciousness empires.
+ For empires with  Under One Rule origin, during  The Unifying Promise situation and after  Unifying Promise agenda is launched, ethic agendas have additional launch effects, but launched them for the first time also causes Overburdened Council modifier with −35%  Council agenda speed and allowing negative situations take place, until  The Unifying Promise situation is over.
+Tradition tree agendas
+Tradition tree agendas are unlocked by their respective tradition tree.
+Gestalt agendas
+The following agendas are only available to  Gestalt Consciousness empires
+Revision agendas
+Revision agendas are unlocked by the  Synchronicity tradition tree. Unlike most other tradition tree agendas, they do not require the  Galactic Paragons DLC.
+Each of these agendas increases  leader experience gain of their respective node, by +20% during preparation, then by +100% after launch.
+Node reset agendas
+The following agendas reset one of the council nodes. Once launched, the node's level is reset and all of its traits are removed. It also gains  +50% leader experience gain.
+Node reset agendas require a dedicated node reset technology. Additional technologies can be researched to increase the starting level of reset nodes.
+Ascension path agendas
+The following agendas are associated with a specific ascension path.
+Ascension tradition agendas
+The following agendas are unlocked by their respective ascension tradition tree. Unlike most other tradition tree agendas, they do not require the  Galactic Paragons DLC.
+Ascension technology agendas
+The following agendas are unlocked by the  with the same name. A few of them are also unlocked by origins. Ascension agendas unlock technologies relevant to the ascension path in order as permanent research options with 25% progress. They cost half as much to launch as regular agendas. Once all relevant technologies have been researched, the agenda disappears. If the last technology is researched while the agenda is preparing launching, it grants a large amount of research from the same field instead.

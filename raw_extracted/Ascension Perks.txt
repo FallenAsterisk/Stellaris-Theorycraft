@@ -1,0 +1,45 @@
+Ascension perks
+
+Version
+
+This article has been verified for the current PC  (4.2) of the game.
+Society Management
+
+
+Ascension perks
+
+Ascension perks grant powerful, empire-wide benefits that can shape the course of a civilization's development, opening paths to greater strength, resilience, or transcendence. They are unlocked by finishing an entire tradition tree or acquiring the  Ascension Theory technology. An empire can have up to 8 ascension perks.
+Contents
+
+
+
+
+List of ascension perks
+Some perks require a number of other ascension perks to be taken first. Tier 0 ascension perks can be taken from the start. Tier 1 perks require 1 previous ascension perk to be taken, tier 2 perks require 2 previous ascension perks, and tier 3 perks require 3 previous ascension perks. The higher the AI weight, the more likely an AI empire will select that ascension perk.
+Ascension perks will grant +30 Attunement with certain Shroud patrons.
+Ascension paths
+Ascension paths are special ascension perks that unlock , as well as an  with the same name that unlocks technologies required to advance through the tradition tree. Each empire can only take one of these perks, and only if they have already selected two ascension perks and have an empty tradition slot available.
+Certain origins lock the empire into a specific ascension path. Empires with those origins cannot pick any of these perks, but can adopt the relevant ascension tradition tree without it.
+Empires with a 
+ Natural Design
+ civic cannot pursue ascension and therefore cannot pick any of these perks.
+Cybernetic ascension:
+Empires with the  Augmentation Bazaars civic can only pick  The Flesh is Weak.
+Empires with the  Hard Reset origin can initially only pick  The Flesh is Weak. If the founder species gains the  De-Cyberized trait it can no longer pick  The Flesh is Weak but unlocks the other ascension paths. A Cyberized Hard Reset empire can take the Cybernetics tradition tree without  The Flesh is Weak.
+Biological ascension:
+Empires with the  Clone Army origin cannot pick the  Biomorphosis ascension perk until they complete the Genetic Crossroads event chain. If they complete the event chain, they can pick the  Biomorphosis ascension perk as their first ascension perk.
+Empires with the  Overtuned origin can pick  Biomorphosis as their second ascension perk.
+Psionic ascension:
+Empires with a 
+ Chosen
+ civic can only pick  Mind Over Matter or  Interdimensional Processing.
+Empires with the  Mindwardens origin cannot pick  Mind Over Matter.
+Empires with the  Shroud-Forged origin cannot pick  Interdimensional Processing but can unlock the  Psionics tradition tree by choosing to support the Shroud during the Forged by the Shroud situation.
+Empires with the machine species require 3 previous ascension perks to take  Interdimensional Processing unless they have taken the 
+ Chosen
+ civic
+Synthetic ascension: Empires with a 
+ Galvanic Synthesis
+ civic cannot pick  Synthetic Evolution.
+Crisis perks
+Crisis perks are special ascension perks that unlock a  progression. Each empire can only take one of these perks, and only if they have already selected 3 ascension perks. They cannot be taken if the empire is a  Subject,  Galactic Custodian,  Galactic Emperor, or has the  Defender of the Galaxy ascension perk or  Endbringers origin. They also cannot be taken by the  Minamar Specialized Industries. The  Shroud-Forged origin may either be locked out of the Galactic Nemesis perk or be able to unlock it without first possessing any ascension perks, depending on how the Forged by the Shroud situation is resolved. Crisis perks are not inherited by sectors released as vassals but the technologies unlocked by them are.

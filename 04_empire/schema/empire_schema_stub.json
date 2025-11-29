@@ -1,0 +1,63 @@
+{
+  "description": "Schema stub for canonical empire-level objects (ethics, authorities, civics, policies, edicts, factions).",
+  "ethic_object": {
+    "id": "string (e.g. ethic.fanatic_materialist)",
+    "name": "string",
+    "category": "axis name (e.g. materialist, xenophile, etc.)",
+    "fanatic": "boolean",
+    "modifiers": "object (research_speed, robot_upkeep, trade, etc.)",
+    "excludes": [
+      "array of incompatible ethics ids"
+    ],
+    "tags": [
+      "array of strings"
+    ]
+  },
+  "authority_object": {
+    "id": "string (e.g. authority.democratic)",
+    "name": "string",
+    "modifiers": "object (term_length, ruler_effects, etc.)",
+    "requirements": [
+      "array of ethics or civics required"
+    ],
+    "tags": [
+      "array of strings"
+    ]
+  },
+  "civic_object": {
+    "id": "string (e.g. civic.devouring_swarm)",
+    "name": "string",
+    "modifiers": "object (empire-wide effects, job changes, etc.)",
+    "requirements": [
+      "array of ethics, authorities, origins, etc."
+    ],
+    "forbidden_with": [
+      "array of civic ids"
+    ],
+    "tags": [
+      "array of strings"
+    ]
+  },
+  "policy_object": {
+    "id": "string",
+    "name": "string",
+    "category": "string (policy group)",
+    "options": "array of option objects with modifiers and requirements"
+  },
+  "edict_object": {
+    "id": "string",
+    "name": "string",
+    "cost": "object (unity, influence, etc.)",
+    "modifiers": "object",
+    "requirements": [
+      "array of ids (tech, ethics, civics, etc.)"
+    ]
+  },
+  "faction_object": {
+    "id": "string",
+    "name": "string",
+    "ethic": "string (associated ethic id)",
+    "demands": "array of conditions",
+    "effects": "object (unity generation, approval impact)"
+  }
+}

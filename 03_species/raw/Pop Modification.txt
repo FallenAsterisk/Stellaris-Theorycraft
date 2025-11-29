@@ -1,0 +1,52 @@
+Species traits
+
+Version
+
+This article has been verified for the current PC  (4.2) of the game.
+Species traits
+
+Pop modification
+
+
+Species traits represent a  innate functions, abilities, and personality. Though traits are initially decided at a species level, individual pops of the same species can end up with different traits with genetic modification, producing new subspecies. Some traits affect how strongly a pop is  attracted to certain factions. Hovering over a species' portrait will list the combined effects of all species traits.
+Most traits come in mutually exclusive groups that affect the same aspect of the species, such as  Nomadic and  Sedentary. These groups include traits with opposite effects, as well as stronger variants of a trait. The  situation can gives species traits that are mutually-exclusive however.
+Contents
+
+
+
+
+
+
+
+Primary species trait
+Every species has a primary species trait which depends on its phenotype. The trait decides what other traits are available, how the pops multiply and what resource will pops of that species consume.
+Pop modification
+
+The template modification menu
+A species' traits are selected at the start of a new game but those can be changed or improved as new technologies are researched. Both biological and robotic pops can be modified and each has its own set of traits for  or . In addition, a small number of events can modify the population of a colony.
+Species cannot be modified if there is an ongoing . Empires with the 
+ Natural Design
+ civic also cannot modify biological species.
+Number of traits
+The number of traits that a species can have is limited by two values: trait points and trait picks. Additional trait points and trait picks can be obtained throughout the game from various sources.
+Trait Points are spent on positive traits and added by negative traits. Traits that have both positive and negative effects usually do not cost points, nor do certain special traits. The starting number of trait points is 2 for biological species, 1 for  Machine species, and 0 for  Mechanical species.
+Trait Picks is the total number of traits that a species may have. The starting number of Trait Picks is 5 for biological and  Machine species and 4 for  Mechanical species. Traits which do not cost Trait Points also do not cost Trait Picks.
+Species templates
+Population modification is done via templates, which creates a subspecies. Templates can be applied to pops per subspecies (including original species), per planet, or per subspecies on a planet. Modified pops are considered part of the same species as the original even if the name and portraits have been changed. They will inherit the same  as the original species but those can be then changed to something different for each subspecies.
+Templates with zero current pops can be freely modified or deleted. However, templates with at least one pop cannot be changed directly and the template modification window presents only the option to create a new one.
+After a template has been applied, a special project to modify the selected pops appears in the situation log. The project is canceled in 30 days if not started. Depending on the type of modification, how severe the modification (total amount of trait point differences), and how many pops were picked, this special project can be very expensive in science. The system is currently designed towards favoring bulk modification of many traits over specific via a high base cost.
+The cost to modify a species can be reduced by −50% by the following traditions:  Synthetics tradition tree finisher,  Advanced Tools,  Modular Cybernetics or  Allelic Expression. Additionally, the  Plentiful Fossils archaeology site can add a permanent −25% modification cost.
+A non-default subspecies can also be set in its species rights to passively integrate into the default subspecies over time.
+Auto-modding
+
+An auto-modded pop
+Certain traits grant the auto-modding effect, which will cause the trait to copy the bonuses of others traits that will help a pop in a given situation. The bonuses start at 0% and gradually increase towards 100% each month at a rate that depends on how many pops have to be auto-modded simultaneously. The speed is increased by pop assembly buildings. The effects of auto-modding are not shown in the Species menu but can be seen if a population group is selected and hovering over the auto-modding trait will display all copied effects and their current efficiency. If a game is started with an auto-modding trait, all pops will start fully optimized.
+There are six auto-modding traits that will copy the effects of traits that are beneficial to a pop's job. Each trait has its own set of traits it can simulate.
+
+The  Mutagenic Habitability trait auto-mods pops to match the habitability of their current planet.
+Uplifting
+For , the option to create templates is replaced with the option to uplift and bring them to sapience. It requires the  Epigenetic Triggers technology and costs  3000 Society research. Upon completion, the empire instantly integrates the uplifted species and gains  50 Influence. In addition, the uplifted species gains  +10% Happiness when living within the borders of the empire that uplifted it. The initial ethics of the uplifted species are determined by a series of initial events. Afterwards, the species is fully susceptible to ethics divergence.
+Empires with the 
+ Genesis Guides
+ civic receive a large  Unity reward each time they uplift a species. The bonus starts at 1000 and increases by another 1000 for every species uplifted. Uplifting will also replace the  Genesis Preserve planetary feature with  Genesis Monument.
+Species with the  Nascent Stage trait will grow new pops as pre-sapient for the first five years of life. Those pops cannot be manually uplifted or integrated.

@@ -1,0 +1,133 @@
+Empire
+
+Version
+
+This article has been verified for the current PC  (4.2) of the game.
+
+A galaxy populated by multiple empires
+An empire is a galactic power controlling at least one system and typically seeking to expand its influence across the stars. The , , and  shape their policies and behavior. Interactions between empires occur through , , or .
+It should be noted that the name of the player empire and its government structure can always be changed in the government window.
+Contents
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Capital
+The capital is the ruling seat of an empire as well as the final destination for all its . An empire's capital can be moved once every 10 years for a cost of 250  influence if the empire is at peace. An empire's capital planet and system are marked by gold star corners on the system and galaxy maps. The capital has its own set of unique designations.
+Empire size
+ Empire size represents the increasing difficulties of managing a large empire. Each point of  empire size above 100 increases tradition and technology cost by +0.2%. This penalty is affected by certain authorities and a single technology, as noted in the table on the right. Empire size also affects several other mechanics, typically increasing the cost to perform certain actions. Specifically, each point of empire size has the following effects:
+ +10 unity cost to reform the empire's government
+ +10 plus +6 per planetary ascension tier unity cost to increase  tier
+ +1% edict cost
+ +0.25 infiltration daily for other empires building a spy network
+ +0.5 naval capacity use required to maintain power projection
++0.1% Progress points needed to launch an 
+ Empire size is increased by each of the following owned by the empire:
+Each of these categories is affected by its own set of modifiers:
+The sum total of empire size is also affected by the following modifiers:
+Each scope is a different category of size modifier, and all groups are additive within themselves, but multiplicative between each other. As an example, pops with the  Docile trait on a planet governed by a level 1 governor in a  Fanatic Pacifist empire with  Beacon of Liberty with 2 levels of planetary ascension on all colonies with no planetary ascension bonuses will each contribute the following to the empire size:
+Total=Base×(1−Pop scope modifiers)×(1−Empire scope modifiers)×(1−Colony scope modifier)=1×(1−[0.10+0.02])×(1−[0.30+0.15])×(1−[0.1])0.4356=1×0.88×0.55×0.9
+
+Sector systems
+Sectors are administrative regions within an empire. Every empire starts with a core sector, with the homeworld as the sector (and empire) capital. All sectors extend up to four hyperlanes away from the sector capital. All contiguous systems within that range are included in the sector; sectors cannot extend across systems that belong to a different sector, a different empire, or are unowned. Sectors also cannot extend through  or gateways. Each sector can have a leader assigned to it, applying their level effects and traits to all colonies in the sector. Any colony which is not in a sector can be selected as the sector capital of a new sector, with the planet becoming marked by blue star corners on the system and galaxy maps. The new sector immediately adds all contiguous systems up to four hyperlanes away to itself.
+It is also possible to change a sector capital to a new colony at any time at no cost. This immediately updates the sector's contained systems as if creating a new sector. Changing the core sector's capital requires moving the empire capital with the usual cost to do so.
+Sectors of empires that are not  Gestalt Consciousness or  Fanatic Purifiers can be turned into a subject empire. The new empire will have the same ethics, authority, civics and technologies but not sovereign civics.
+All sectors, including the core sector, can be given a Sector Focus. Choosing a Sector Focus will make the sector develop itself automatically towards a given direction as long as it has resources, reducing micromanagement.
+Empire focus
+
+The empire focus window
+Empire focuses are three progression trees that grant bonus research options once enough progress has been made. Each empire can set one of its focuses as the empire focus to increase the chance of receiving tasks for that focus. Changing the empire focus costs 50  Unity and can only be done once every year.
+Progress towards empire focuses is made by completing tasks. Each empire has 5 simultaneous tasks and each task can only appear once. One task can be replaced each year at the cost of 100  Unity. Each time a new task is added, there is a 33% chance to be a Core task, a 44% chance to match the empire focus, and a 22% chance to match one of the other two focuses. Tasks come in 5 difficulties. To unlock a difficulty, half of the tasks from the previous difficulty must be completed.
+Difficulty 1 tasks give 10 progress to their focus
+Difficulty 2 tasks give 25 progress to their focus
+Difficulty 3 tasks give 50 progress to their focus
+Difficulty 4 tasks give 100 progress to their focus
+Difficulty 5 tasks give 200 progress to their focus
+Core tasks
+All core tasks have a difficulty of 1 and grant 10 progress towards all empire focuses.
+Activate an edict
+Adopt a tradition
+Build a building
+Build a certain type of district
+Build a mining station
+Build a starbase building
+Build a starbase module
+Complete 3 agendas
+Enact a planetary decision
+Found a colony
+Have 1000 of a basic or advanced resource the empire uses
+Set colony designation (other than the capital)
+Establish a branch office ( Corporate authority only)
+Exploration tasks
+Conquest tasks
+Development tasks
+Tasks that require diplomacy will not appear for empires that are Genocidal or have the  Inward Perfection civic.
+Relative power
+Relative Power is a measure of how much empires are ahead of one another in terms of resource production, fleet power or researched technologies. A Relative Power of Superior/Inferior means that an empire has 50% more (1.5x) resource production, fleet power or researched technologies and a Relative Power of Overwhelming/Pathetic means that an empire has 150% more (2.5x) resource production, fleet power or researched technologies.
+Relative Power is split into three categories: Fleet Power, Economic Power and Technology Level.
+Fleet Power: The combined fleet power of every owned fleet.
++1 per 1 Fleet Power
+Economic Power: A weighted sum of all monthly income, including income from trade agreements. Monthly spending is not part of this score. The various resources are weighted the same as their base market price (base energy price for 1 unit):
++1 per  Minerals or  Food
++2 per  Consumer Goods
++4 per  Alloys
++10 per  common strategic resources
++20 per  rare strategic resources
+Technology Level: 60 + the combined base Tech Cost of all researched technologies, divided by 100. Repeatables only count 0.33x as much as regular technologies.
++60 Base Technology Level
++0.01 per 1 base Tech Cost of all researched technologies, including repeatable technologies
+The formula to calculate the overall power of an empire is: Overall Power=Fleet Power∗2+Economic Power∗3+Technology Level∗1
+Victory score
+Victory score tallies an empire's total accomplishment. The empire that has the highest score when the Victory Year arrives is declared winner. The Victory Year is configurable and can be disabled altogether. An empire will always declare victory, if it's the only one that can do so. All players may continue the game session normally even after an empire declares victory and the victory is, in practical terms, of little concern.
+The Victory Window shows a total score for each empire and its ranking, as well as a breakdown by category. The categories are as follows:
+Economic Strength: +1 per 1 Economic Power based on Relative Power OR +5000 if the Empire has no economy.
+Technology Level: 60 +0.25 per 1 Technology Level over 60 based on Relative Power
+Number of Systems: +10 per system
+Number of Colonies: +50 per colony
+Number of Pops: +2 per pop, regardless of type
+Subject Empires: +50% of a subject empire's score is given to the overlord
+Federation: +10% of each other federation member's score is shared by all federation members
+Crisis Ships Killed: +10 per crisis ship destroyed
+Relics Collected: Each Relic grants a large amount of score. The score of each Relic is shown on the  page.
+Unique empires
+The following empires can appear during the game as a result of certain events. The species' climate preference will always match its homeworld. While not available as a start option for players, unique empires are playable by switching to them either via temporarily loading a save in multiplayer, receiving a game over, or achieving Cosmogenesis victory. Unique empires generated after the start of the game will have all technologies researched by the player.
+Imperial Fiefdom empires
+The  Imperial Fiefdom origin will generate a unique overlord and between 1 and 4 unique vassals depending on galaxy size. 40-65 years after the game start, the overlord will break into three separate empires at war with each other and the vassals will become independent. If they have Inferior or Pathetic relative power towards the origin empire they will offer to become a subject. Accepting will grant a small reward.
+Minamar Specialized Industries
+
+Minamar Specialized Industries enlightening a pre-FTL civilization
+Minamar Specialized Industries (or MSI for short) is an empire created by the  Broken Shackles and  Payback origins. For the most part, it works like any regular empire with an advanced start, the only thing setting them apart being the  Your Ladder To The Sky  and their Benevolent Corporation . It has  Fanatic Materialist and  Authoritarian ethics and uses  Corporate authority and  Indentured Assets and  Public Relations Specialists civics regardless of whether  MegaCorp is installed or not. Their founder species has  Tomb World preference,  Charismatic,  Intelligent,  Decadent and  Wasteful traits. Their homeworld is a  Relic World named Minamar, in the Paraga system. MSI's founder species is called Olinbar and uses a unique species portrait not available to the player empires.
+Empires with the  Broken Shackles and  Payback origins have a permanent −1000  Opinion penalty towards and from Minamar Specialized Industries and cannot choose the  Proactive first contact dialogue option with them. The homeworld of Minamar Specialized Industries will contain enslaved pops from both empires' species.
+Broken Shackles interactions
+Empires with the  Broken Shackles origin have the following interactions with Minamar Specialized Industries:
+Encountering Minamar Specialized Industries gives −10  Stability until First Contact is completed.
+Completing First Contact with Minamar Specialized Industries gives +10%  Unity for 10 years.
+If forced into a Federation with Minamar Specialized Industries, the empire will receive −10%  Happiness and −25%  Governing Ethics Attraction for 10 years.
+If at war against Minamar Specialized Industries, the empire will receive +10%  Unity, −10%  Ship Upkeep, −50%  Army Upkeep, −50%  Army Cost and +100%  Army Build Speed
+If the war ends in surrender, the empire will receive −10%  Happiness for 10 years
+If the war ends in status quo, the empire will receive −5%  Happiness for 10 years
+If the war ends in enforcing demands, the empire will receive +10%  Happiness, +15%  Unity, +20%  Governing Ethics Attraction, +10%  Monthly Consumer Goods, +5%  Monthly Resources and +10%  Specialist Pop Resource Output for 10 years
+Payback interactions
+Empires with the  Payback origin have the following interactions with Minamar Specialized Industries:
+If the empire has a shortage situation after establishing communications with Minamar Specialized Industries, it will gain the option between receiving a significant amount of the deficit resource or a small amount of  Unity. This can only happen once every 5 years.
+The first time the empire technologically enlightens a pre-FTL civilization after establishing communications with Minamar Specialized Industries, the empire will gain a choice between the Certified Educator empire modifier or a large amount of  Unity.
+The first time the empire kills a guardian after establishing communications with Minamar Specialized Industries, it will gain a choice between a large amount of  Energy or a small amount of  Unity.
+As long as the empire isn't at war with Minamar Specialized Industries, they will ask the empire to pay 5000  Energy, 10000  Energy or 600  Pops every 15 years (paying the full amount at once is impossible, if using console commands to have unlimited resources, the collectors will recognize and refuse to accept them). The empire will have 2 ways to approach them. Winning with either approach will end all interactions with Minamar Specialized Industries. If  Grand Archive is installed the warning about debt collectors will also include the  Reparation Invoice specimen.
+After paying 2 times, the empire will get a choice between the Payback  or focusing on diplomacy.
+If focusing on diplomacy, then 10 days after the empire joins the  Galactic Community, an event named A War Without Weapons will fire, giving an objective choice between passing the Equal Standing Act or Non-Interference Act  Pre-FTL Stance resolution, as well as all minor sanction resolutions. Passing the required  Pre-FTL Stance resolution will grant a large amount of  Unity. Passing all required resolutions will grant even more  Unity and the Rightful Due empire modifier while Minamar Specialized Industries will gain a Planetary Revolt situation and the Angered Populace empire modifier.
+Alternatively, winning a war against MSI with the  (as any empire) that causes MSI to outlaw slavery and aggressive Pre-FTL interference (by shifting them to egalitarian and xenophile), .
+If the empire chose the Payback casus belli, then defeating Minamar Specialized Industries in war (whether with the Payback casus belli or not) will grant the choice between the Free From Strife empire modifier or unlocking the Punishment casus belli and Stop Atrocities wargoal.
+Refusing to pay will cause a debt collector fleet to attack the capital system. The fleets can be defeated relatively easily but defeating them 3 times will result in Minamar Specialized Industries declaring war with the Animosity casus belli (this will occur even if communications haven't been established with MSI). If already a subject of Minamar Specialized Industries, they will impose harsher terms of agreement.
+If Minamar Specialized Industries is destroyed by an endgame crisis, the empire will gain the Underdog permanent modifier.

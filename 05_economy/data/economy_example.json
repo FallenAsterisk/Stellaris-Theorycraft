@@ -1,0 +1,15 @@
+{
+  "description": "Example subset of economy objects.",
+  "buildings": [
+    {
+      "id": "building.research_lab_1",
+      "name": "Research Labs",
+      "jobs_created": [
+        {
+          "job_id": "job.researcher",
+          "count": 2
+        }
+      ]
+    }
+  ]
+}

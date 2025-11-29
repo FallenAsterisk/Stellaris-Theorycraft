@@ -1,0 +1,47 @@
+{
+  "description": "Schema stub for canonical megastructure objects.",
+  "megastructure_object": {
+    "id": "string (e.g. mega.dyson_sphere)",
+    "name": "string",
+    "tier": "integer or stage count",
+    "cost": "object (alloys, influence, special resources, etc.)",
+    "upkeep": "object",
+    "effects": "object (resource production, modifiers, empire effects)",
+    "prerequisites": "array of tech ids",
+    "planet_restrictions": "array (if any)",
+    "tags": [
+      "array"
+    ]
+  },
+  "habitat_object": {
+    "id": "string",
+    "name": "string",
+    "districts_allowed": "array of district ids",
+    "prerequisites": "array of tech ids",
+    "effects": "object",
+    "tags": [
+      "array"
+    ]
+  },
+  "orbital_ring_object": {
+    "id": "string",
+    "name": "string",
+    "tier": "1|2|3",
+    "modules": "array of module ids",
+    "prerequisites": "array of tech ids",
+    "effects": "object",
+    "tags": [
+      "array"
+    ]
+  },
+  "crisis_megastructure_object": {
+    "id": "string",
+    "name": "string",
+    "stages": "integer",
+    "effects": "object",
+    "requirements": "array of tech ids or crisis-level triggers",
+    "tags": [
+      "array"
+    ]
+  }
+}

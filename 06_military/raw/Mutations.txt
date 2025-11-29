@@ -1,0 +1,46 @@
+Mutations
+
+Version
+
+Please help with verifying or updating older sections of this article. At least some were last verified for  4.1.
+
+This article is for the PC version of Stellaris only.
+Ships
+
+
+
+
+
+
+ Mutations
+ 
+Mutations are components that can be added to space fauna. Each space fauna can have 3 mutations if the  Controlled Mutations technology has been researched and 6 mutations if the  Advanced Controlled Mutations technology has been researched. Mutations grow in strength with the growth stage of the space creature. Mutations also have a basic resources cost that depends on the cloned space fauna.
+Contents
+
+
+
+
+
+
+
+
+
+
+Defensive mutations
+Defensive mutations increase the durability of a creature by providing extra hit points. These come in three forms: shields, armor, and hull.
+Shields
+Shields form the first layer of hit points of a creature. They are effective against energy weapons but vulnerable to kinetic weapons.
+Carapace
+Armor forms the second layer of hit points of a creature. They are effective against kinetic weapons but vulnerable to energy weapons.
+Innards
+Hull is the last layer of a creature's hit points; the creature is killed if the hull points reach 0. All creatures have some inherent hull points; this can be increased with these Innards components.
+These can be acquired either by completing the  event chain, by reverse-engineering destroyed Crystalline Entities, or through searching an abandoned ship left by Caravaneers.
+Special mutations
+Unique mutations
+Unique mutations are unlocked by the  Advanced Controlled Mutations technology and can only be applied once per creature.
+Species mutations
+Species mutations are obtained via a special project after cloning certain space fauna species and can only be added to that species.
+Blessings
+Blessings are mutations unlocked by gaining maximum favor with a . All of them cost 2  Zro.
+Camouflages
+Camouflages are mutations that allow space fauna to  Activate Cloaking but disables shields while the creature is cloaked.

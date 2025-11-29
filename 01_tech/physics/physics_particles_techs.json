@@ -1,0 +1,268 @@
+{
+  "description": "Physics \u2192 Particles techs (branch file, partial subset for structure).",
+  "area": "physics",
+  "subfield": "particles",
+  "techs": [
+    {
+      "id": "tech.fission_power",
+      "name": "Fission Power",
+      "area": "physics",
+      "subfield": "particles",
+      "tier": 0,
+      "base_cost": 1000,
+      "prerequisites": [],
+      "unlocks_components": [
+        "component.reactor_fission"
+      ],
+      "unlocks_ships": [],
+      "unlocks_buildings": [],
+      "unlocks_districts": [],
+      "unlocks_jobs": [],
+      "unlocks_traits": [],
+      "unlocks_policies": [],
+      "unlocks_edicts": [],
+      "unlocks_megastructures": [],
+      "modifies_rules": [],
+      "tags": [
+        "reactor"
+      ]
+    },
+    {
+      "id": "tech.fusion_power",
+      "name": "Fusion Power",
+      "area": "physics",
+      "subfield": "particles",
+      "tier": 1,
+      "base_cost": 2500,
+      "prerequisites": [
+        "tech.fission_power"
+      ],
+      "unlocks_components": [
+        "component.reactor_fusion"
+      ],
+      "unlocks_ships": [],
+      "unlocks_buildings": [],
+      "unlocks_districts": [],
+      "unlocks_jobs": [],
+      "unlocks_traits": [],
+      "unlocks_policies": [],
+      "unlocks_edicts": [],
+      "unlocks_megastructures": [],
+      "modifies_rules": [],
+      "tags": [
+        "reactor"
+      ]
+    },
+    {
+      "id": "tech.cold_fusion_power",
+      "name": "Cold Fusion Power",
+      "area": "physics",
+      "subfield": "particles",
+      "tier": 2,
+      "base_cost": 5000,
+      "prerequisites": [
+        "tech.fusion_power"
+      ],
+      "unlocks_components": [
+        "component.reactor_cold_fusion"
+      ],
+      "unlocks_ships": [],
+      "unlocks_buildings": [],
+      "unlocks_districts": [],
+      "unlocks_jobs": [],
+      "unlocks_traits": [],
+      "unlocks_policies": [],
+      "unlocks_edicts": [],
+      "unlocks_megastructures": [],
+      "modifies_rules": [],
+      "tags": [
+        "reactor"
+      ]
+    },
+    {
+      "id": "tech.antimatter_power",
+      "name": "Antimatter Power",
+      "area": "physics",
+      "subfield": "particles",
+      "tier": 3,
+      "base_cost": 10000,
+      "prerequisites": [
+        "tech.cold_fusion_power"
+      ],
+      "unlocks_components": [
+        "component.reactor_antimatter"
+      ],
+      "unlocks_ships": [],
+      "unlocks_buildings": [],
+      "unlocks_districts": [],
+      "unlocks_jobs": [],
+      "unlocks_traits": [],
+      "unlocks_policies": [],
+      "unlocks_edicts": [],
+      "unlocks_megastructures": [],
+      "modifies_rules": [],
+      "tags": [
+        "reactor"
+      ]
+    },
+    {
+      "id": "tech.zero_point_power",
+      "name": "Zero Point Power",
+      "area": "physics",
+      "subfield": "particles",
+      "tier": 4,
+      "base_cost": 20000,
+      "prerequisites": [
+        "tech.antimatter_power"
+      ],
+      "unlocks_components": [
+        "component.reactor_zero_point"
+      ],
+      "unlocks_ships": [],
+      "unlocks_buildings": [],
+      "unlocks_districts": [],
+      "unlocks_jobs": [],
+      "unlocks_traits": [],
+      "unlocks_policies": [],
+      "unlocks_edicts": [],
+      "unlocks_megastructures": [],
+      "modifies_rules": [],
+      "tags": [
+        "reactor"
+      ]
+    },
+    {
+      "id": "tech.red_lasers",
+      "name": "Red Lasers",
+      "area": "physics",
+      "subfield": "particles",
+      "tier": 0,
+      "base_cost": 1000,
+      "prerequisites": [],
+      "unlocks_components": [
+        "component.weapon_laser_red"
+      ],
+      "unlocks_ships": [],
+      "unlocks_buildings": [],
+      "unlocks_districts": [],
+      "unlocks_jobs": [],
+      "unlocks_traits": [],
+      "unlocks_policies": [],
+      "unlocks_edicts": [],
+      "unlocks_megastructures": [],
+      "modifies_rules": [],
+      "tags": [
+        "weapon",
+        "laser"
+      ]
+    },
+    {
+      "id": "tech.blue_lasers",
+      "name": "Blue Lasers",
+      "area": "physics",
+      "subfield": "particles",
+      "tier": 1,
+      "base_cost": 2000,
+      "prerequisites": [
+        "tech.red_lasers"
+      ],
+      "unlocks_components": [
+        "component.weapon_laser_blue"
+      ],
+      "unlocks_ships": [],
+      "unlocks_buildings": [],
+      "unlocks_districts": [],
+      "unlocks_jobs": [],
+      "unlocks_traits": [],
+      "unlocks_policies": [],
+      "unlocks_edicts": [],
+      "unlocks_megastructures": [],
+      "modifies_rules": [],
+      "tags": [
+        "weapon",
+        "laser"
+      ]
+    },
+    {
+      "id": "tech.uv_lasers",
+      "name": "UV Lasers",
+      "area": "physics",
+      "subfield": "particles",
+      "tier": 2,
+      "base_cost": 4000,
+      "prerequisites": [
+        "tech.blue_lasers"
+      ],
+      "unlocks_components": [
+        "component.weapon_laser_uv"
+      ],
+      "unlocks_ships": [],
+      "unlocks_buildings": [],
+      "unlocks_districts": [],
+      "unlocks_jobs": [],
+      "unlocks_traits": [],
+      "unlocks_policies": [],
+      "unlocks_edicts": [],
+      "unlocks_megastructures": [],
+      "modifies_rules": [],
+      "tags": [
+        "weapon",
+        "laser"
+      ]
+    },
+    {
+      "id": "tech.xray_lasers",
+      "name": "X-Ray Lasers",
+      "area": "physics",
+      "subfield": "particles",
+      "tier": 3,
+      "base_cost": 8000,
+      "prerequisites": [
+        "tech.uv_lasers"
+      ],
+      "unlocks_components": [
+        "component.weapon_laser_xray"
+      ],
+      "unlocks_ships": [],
+      "unlocks_buildings": [],
+      "unlocks_districts": [],
+      "unlocks_jobs": [],
+      "unlocks_traits": [],
+      "unlocks_policies": [],
+      "unlocks_edicts": [],
+      "unlocks_megastructures": [],
+      "modifies_rules": [],
+      "tags": [
+        "weapon",
+        "laser"
+      ]
+    },
+    {
+      "id": "tech.gamma_lasers",
+      "name": "Gamma Lasers",
+      "area": "physics",
+      "subfield": "particles",
+      "tier": 4,
+      "base_cost": 16000,
+      "prerequisites": [
+        "tech.xray_lasers"
+      ],
+      "unlocks_components": [
+        "component.weapon_laser_gamma"
+      ],
+      "unlocks_ships": [],
+      "unlocks_buildings": [],
+      "unlocks_districts": [],
+      "unlocks_jobs": [],
+      "unlocks_traits": [],
+      "unlocks_policies": [],
+      "unlocks_edicts": [],
+      "unlocks_megastructures": [],
+      "modifies_rules": [],
+      "tags": [
+        "weapon",
+        "laser"
+      ]
+    }
+  ]
+}

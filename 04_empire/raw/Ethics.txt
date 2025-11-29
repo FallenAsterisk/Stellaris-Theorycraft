@@ -1,0 +1,50 @@
+Ethics
+
+Version
+
+Please help with verifying or updating older sections of this article. At least some were last verified for  4.1.
+
+This article is for the PC version of Stellaris only.
+
+Ethics selection interface
+Ethics represent an empire or pop's core ideological beliefs and determine an empire or pop's favored courses of action and responses to situations.  and individual populations don't always align ethically, and this can cause internal strife in large nations. AI empires follow the same ethics rules and their behavior is heavily dependent on the ethics they follow. Naturally, a Militarist Xenophobe alien empire will react very differently to the player than a Pacifist Xenophile. Empires with similar ethics are more likely to have good relations with one another and ally each other, while ones with opposing ethics are more likely to engage in hostilities. AI empires will, however, compromise on their ethics if circumstances are dire enough, for instance, if threatened with imminent conquest or during an ongoing  or .
+Every empire except  must have either three moderate ethics or one fanatic and one moderate ethic, or be  Gestalt Consciousness. Fallen Empires have only one fanatic ethic. Pops have only one moderate ethic each.
+Contents
+
+
+
+
+
+
+
+Empire ethics
+Each empire has 3 ethic points which must all be spent.  Moderate ethics cost 1 point and  Fanatic ethics cost 2 points. Thus an empire must have either one fanatic and one moderate or three moderate ethics.
+ Gestalt Consciousness is the ethic for  without individual agency. It costs 3 ethic points and requires a DLC that unlocks either  Hive Mind ( Utopia or  BioGenesis) or  Machine Intelligence authority ( Synthetic Dawn or  The Machine Age).
+An empire's ethics often determine which options are available for , , and many other actions. As a result, ethics choices have a greater impact on game experience than simply the bonuses and maluses listed on this page.
+Not counting Gestalt Consciousness, there are 16 ethics arranged on 4 axes. Only one ethic from each axis can be selected.
+The Authoritarian — Egalitarian axis looks at whether the empire's political power belongs in the hands of the few or the many.
+The Spiritualist — Materialist axis looks at whether the key to uncover the truths of the universe is mysticism or science.
+The Militarist — Pacifist axis looks at whether the empire's military should be used offensively or strictly defensively.
+The Xenophile — Xenophobe axis looks at whether alien species and cultures should be embraced or distrusted.
+Ethics bonus outputs
+Main article: Jobs#Culture_Worker
+Each ethic brings with it unique bonuses that are applied to either pops, planets, or empires when an empire monument is built, with Fanatic ethics granting twice as much of their corresponding base bonus.
+Pop ethics
+Each pop in an empire will embrace a single, moderate ethic, which determines the Faction a pop will eventually join. At the start of the game the population's ethics will match the empire ethics but as an empire grows its population will become more diverse in its views and wants. Each ethic has an attraction value for each pop in an empire depending on both the empire's situation and their own situation. Hovering over a pop's ethic will display the attraction towards all ethics.
+Over time, the ethics of the empire's population will drift in such a way that it roughly matches the overall attraction value for each ethic. For example, if the spiritualist attraction remains stable at 25-20% for a century then over the course of that century (assuming no other factors are at play) around 25-20% of all pops will gradually become spiritualist. There is some random factor to it so the ethics attraction value and representation percentage is likely never going to match up perfectly, but the system will always trend towards the mean, so the more over-represented an ethic is compared to its attraction, the more likely pops are to drift away from it and vice versa. Raising an ethic's attraction value will thus logically cause pops to be drawn to it over time.
+The following attraction factors are valid for all ethics at all times:
+Note that pops, including enslaved pops, in a  Gestalt Consciousness empire will thus not experience ethics drift, but conquered  Machine pops in a regular empire will, if they are sapient. Nor will Hive-Minded pops in a non-Hive Mind empire drift to other ethics unless they are assimilated (and thus lose the Hive-Minded trait).
+Each ethic has its own multitude of factors that will increase or lower its attraction. The percentage factors listed below are additive with each other, but multiplicative with other factors. A robotic species is any with a robot archetype (i.e. portrait).
+
+
+
+Governing ethics attraction
+Governing ethics attraction is a modifier that attracts pops towards the primary ethics of an empire rather than unrelated ethics. As the factions corresponding to the governing ethics tend to have more faction approval, having pops match those ethics to join those factions is desirable, as low faction approval results in a  happiness penalty for pops of that faction's ethic. The main factor that determines governing ethics attraction is the  happiness of pops – each percentage point of happiness above or below 50 adds the same amount of governing ethics attraction. In addition, an empire's governing ethics attraction can be affected by the following:
+
+Changing ethics
+Empire ethics can be changed once every 10 years by embracing a  . Embracing a faction causes an ethic shift towards the faction's ethic – adding it or elevating it into fanatic. Whenever an empire shifts its ethics, all other empires in communication receive a notification. Other ethics are demoted or removed to maintain the total ethic points at 3. When AI empires change their ethics, they may also change their empire name to reflect this.
+An effective tactic to ensure a particular ethic has the lowest attraction, and thus will be removed, is to suppress it and promote other factions while the game is paused, shift ethics and then undo the suppression and promotions before unpausing.
+Notes
+Managing pop ethics is actually quite important for ensuring stability within large and diverse empires, particularly when it comes to recently conquered or integrated planets.  Pops will follow a certain ethic, which determines what  faction they will join, which in turn affects their  happiness, which then influences their  which is finally used to determine the planet's  stability.
+Low stability can cause all manner of problems, from penalties to resource production and job output to  crime,  Unrest and outright rebellion, and to prevent this and stabilize the planet, one must deal with the underlying problems that cause it, which (as detailed above) most often originates from pop ethics.
+Pops with a high value of individual  political power are especially important, since their individual ethics and happiness are the most influential in the above metric. This also means that  in different ways will also alter how much of an impact they have on planetary stability.

@@ -1,0 +1,106 @@
+Planetary management
+
+Version
+
+This article has been verified for the current PC  (4.2) of the game.
+Planetary management
+
+Planetary management
+ 
+ 
+ 
+ 
+
+A planet with partial development
+Planets are, without a doubt, a vital part of a stellar empire because they provide the overwhelming majority of resources and the population required for an empire to grow and prosper. If a planet is managed properly, it could provide the needs of its populace and the demands of its empire, and if an empire has a large collection of prosperous, productive planets within its borders, it can quite easily be seen as a successful empire.
+Planetary development can be divided into three levels, each one requiring an additional investment of time and resources.
+
+
+
+The more developed a planet is, the greater the number and diversity of  available.
+Each planet can only build one district, specialization or building, perform a decision, or clear a blocker at a time. Planets owned by empires with the  Wilderness origin can perform 6 of these actions at a time.
+Contents
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Housing
+Housing represents the living space available for pops to live comfortably. Housing is primarily provided by districts, with  city districts giving more housing than their resource-focused alternatives. Each pop requires 1 unit of housing by default but the housing demands of individual pops can change due to a variety of factors. If the number of pops exceeds the amount of housing it will cause  stability to drop by 40⋅missing housingtotal housing required and a flat +50 planet emigration push.
+As a rule of thumb, each resource district exactly pays for itself in terms of housing, while the pops that work building jobs need city districts (or housing buildings) for their housing, though the capital building provides some buffer before cities are needed. This applies equally to  Ecumenopolises. The  Agrarian Idyll civic gives extra housing to resource districts, allowing the empire to house its pops working building jobs mostly via resource districts. The Trans-Stellar Corporations  adds jobs to habitat trade districts, but does not match them with additional housing, making some residential districts necessary.
+Amenities
+Amenities represent the infrastructure and jobs dedicated to fulfilling the needs of the population on a given colony. Individualist empires obtain amenities from a variety of jobs while  Gestalt Consciousness empires obtain them primarily from  Maintenance Drone jobs. High amenities grant increased  happiness to citizen pops in regular empires and increased  stability in  Gestalt Consciousness empires, while insufficient amenities will lower pops' happiness (or stability, for Gestalts) on the colony.
+Pops have a base amenity requirement of  1 Amenities,  slaves require 0.75, and non-citizen Robots require 0.5. The shown  amenities value is the available amenities value, or the surplus. After base amenities upkeep is determined, it can be modified by species, planet, or empire modifiers. 5 Amenities are always lost on every colony due to inefficiencies. The formula for available amenities (or extra amenities) is the following:
+Available Amenities=Amenities Provided−(5+Pop Amenities Usage)=
+=(Amenities Provided by Buildings+(Amenities Provided by Jobs⋅∑modifiers with Job scope))⋅∑modifiers with Planet/Empire scope−
+−(5+Pop base Amenities Upkeep⋅∑upkeep modifiers)
+One impactful upkeep modifier is the effect of subprime  on the specific pop.
+Most values representing amenities are rounded to the closest integer value (the tie-breaking rule is unknown), except for amenities from pop jobs - it is rounded down.
+The formula for available amenities or amenities deficit effect on a planet's  happiness ( stability for Gestalt empires) is not strictly linear, with less effect for extra amenities than missing amenities.
+The formula for extra amenities (available amenities > 0 case) contributing to  happiness is:
+happiness bonus=min(20%,20⋅⌊available amenities⌋⌊pop amenities usage⌋)
+In other words, it scales from +0% with 0 available amenities, to +20% with twice as many available amenities as necessary.
+The formula for a amenities deficit (available amenities < 0 case) affecting  happiness is:
+happiness penalty=max(−50%,200/3⋅⌊available amenities⌋⌊pop amenities usage⌋)
+In other words, it scales from +0% with 0 available amenities, to −50% when the planet has less than 25% of amenities needed.
+Note: for readability reasons in the formulas above for the happiness effect as a function of amenities the rounding operations are noted as rounding down when in reality rounding to the nearest integer is used. The  stability bonus or penalty received by  Gestalt Consciousness empires from amenities in a colony by value is the same %-value a non-Gestalt empire gets in  happiness (the formulas above can be used).
+Amenities can be affected on an empire-wide basis by the following:
+
+Stability
+
+Low Stability on a humanoid planet
+Stability is a measure of the overall stability of a world, either socio-political or in terms of drone functionality, and is influenced by a large number of factors such as  happiness,  housing,  amenities, and  crime or deviancy. It ranges from 0 to 100 and has a base level of 50.
+Each point of stability above 50 adds +0.6%  Resources from Jobs, +1% Automatic Resettlement Destination Chance and −0.5% Automatic Resettlement Chance.
+Each point of stability below 50 adds −1%  Resources from Jobs, −1% Automatic Resettlement Destination Chance and +0.5% Automatic Resettlement Chance.
+At very low stability pops that are affected by  Happiness may cause unrest events.
+Planets with less than 25  Stability for a year or more can trigger a  situation.
+A colony with any enslaved species and low stability can gain one of the following modifiers once every 2 years. All modifiers can be removed instantly by discontinuing slavery.
+Stability can be affected by the following:
+Crime and Deviancy
+ Crime (or Deviancy for  Gestalt Consciousness empires) measures the overall level of non-compliance in the population of a world. Crime and Deviancy are produced by all sapient pops except those undergoing  assimilation, ranging from 0 at  100% happiness to +2 at  0% happiness. While unemployment does not increase Crime or Deviancy directly, it can add modifiers that cause them if measures aren't taken. Crime and Deviancy are reduced by certain jobs and leaders. Non-sentient  Mechanical pops in an organic empire and mechanical pops integrated into a  Machine Intelligence empire do not produce crime or deviancy, despite counting as 50% happiness for the purpose of approval rating.
+Every year, one of the following modifiers can be added as long as the requirements are met. Another modifier cannot be added for the next 10 years. Alternatively,  15 devastation can be added instead of a modifier. Once a planet has below 10 Crime or Deviancy, all modifiers will be removed after 15 years. The timer is reduced by 50% for each  Enforcer or  Hunter-Seeker Drone job. All modifiers are also removed if a planet changes ownership.
+Persistent modifiers
+These modifiers persist until planet crime/deviance is reduced enough for them to be removed. Empires with the  Experimental Sentencing civic will gain +20% resources from  Experiment Engineer and  Test Subject jobs from them.
+Temporary modifiers
+The following modifiers appear as a result of crime events, and last for 10 years.
+Decisions
+Decisions represent planet-wide undertakings. Most decisions have a cost to be used, either when taking the decision or when agreeing to the deal that made the decision available in the first place. Some decisions also take some time to implement, from a few days up to 10 years; these decisions go into the planet's construction queue, and can be paused and resumed by reordering, like other constructions.
+Terraforming decisions
+The following decisions will terraform the planet to a new class. They cannot be used on  Habitats,  Ring Worlds,  Hive Worlds,  Nanite Worlds or  Ecumenopolis.
+Terraforming situation decisions
+The following decisions will start a terraforming situation. They do not have any cost and cannot be used on the empire's capital.
+Modifier removal decisions
+The following decisions each remove a pre-existing planet modifier.
+Planetary feature decisions
+The following decisions each add a planetary feature.
+Planet modifier decisions
+The following decisions each add a permanent or temporary planet modifier.
+Specialized planet decisions
+Specialized planet decisions cost  1000 Unity and take half a year to implement and will give a colony a permanent modifier that will change the colony to a specialized designation. Most of them block the construction of certain buildings, change the types of districts that can be constructed on the planet, and create unique jobs, most of which provide empire-wide bonuses. Abolishing a specialization costs  2500 Unity
+An empire can only have one of each specialized designation modifier with exception for  Thrall-World, which can be used on multiple planets.  Gestalt Consciousness cannot use specialized designations except  Gestation World.
+ Ring Worlds,  Habitats and  Nanite Worlds cannot be specialized. An  Ecumenopolis can only be specialized as a  Penal Colony.
+Enclave decisions
+Enclave decisions can only be bought or received from enclaves.
+Minor artifact decisions
+Minor artifact decisions cost  100 minor artifacts and last for 10 years. They cannot be used on  Nanite Worlds.
+Consecrate World
+The Consecrate World decision requires the  Consecrated Worlds Ascension perk and can be used on up to three uncolonized planets within your borders at the same time at the cost of  500 unity. It can be canceled at any time for the same cost, and if taken again the result is re-rolled. When the decision is taken the planet gains a Consecrated modifier, which gives the planet a visual effect depending on its quality, and the empire gains the Consecrated World Worship modifier with following bonuses, cumulative for each consecrated world:
+Having three worlds with Consecrated (Holy World) gives a slight additional bonus, for a total of  +25%,  +15%,  +25%.
+Consecrating a  Holy World gives a cumulative  +30 opinion with the . Deconsecrating a Holy World removes all opinion bonuses.
+Colonizing a consecrated planet removes the Consecrated modifier. If a system containing a Consecrated planet is conquered the previous owner will lose −10%  Happiness for 5 years.
+ Empires with the  Knights of the Toxic God origin have higher success chances when consecrating a  Toxic World (14.3% Holy, 28.6% Venerated, 50% Respected, 7.1% Profane).
+Planetary deficits
+If a world is consuming more resources of a certain type than it produces it will cause  costs, representing the logistic toll, the import poses on the empire. The  consumed is equal to 1/8 of the base market price. The overall cost of Planetary Deficits shows up in the "Consumed" section of the trade overview after subtracting the trade that the planet with the deficit itself produces.

@@ -1,0 +1,245 @@
+{
+  "description": "Physics \u2192 Field Manipulation techs (branch file, partial subset for structure).",
+  "area": "physics",
+  "subfield": "field_manipulation",
+  "techs": [
+    {
+      "id": "tech.deflectors",
+      "name": "Deflectors",
+      "area": "physics",
+      "subfield": "field_manipulation",
+      "tier": 0,
+      "base_cost": 1000,
+      "prerequisites": [],
+      "unlocks_components": [
+        "component.shield_deflectors"
+      ],
+      "unlocks_ships": [],
+      "unlocks_buildings": [],
+      "unlocks_districts": [],
+      "unlocks_jobs": [],
+      "unlocks_traits": [],
+      "unlocks_policies": [],
+      "unlocks_edicts": [],
+      "unlocks_megastructures": [],
+      "modifies_rules": [],
+      "tags": [
+        "defense",
+        "shields"
+      ]
+    },
+    {
+      "id": "tech.improved_deflectors",
+      "name": "Improved Deflectors",
+      "area": "physics",
+      "subfield": "field_manipulation",
+      "tier": 1,
+      "base_cost": 2000,
+      "prerequisites": [
+        "tech.deflectors"
+      ],
+      "unlocks_components": [
+        "component.shield_improved_deflectors"
+      ],
+      "unlocks_ships": [],
+      "unlocks_buildings": [],
+      "unlocks_districts": [],
+      "unlocks_jobs": [],
+      "unlocks_traits": [],
+      "unlocks_policies": [],
+      "unlocks_edicts": [],
+      "unlocks_megastructures": [],
+      "modifies_rules": [],
+      "tags": [
+        "defense",
+        "shields"
+      ]
+    },
+    {
+      "id": "tech.shields",
+      "name": "Shields",
+      "area": "physics",
+      "subfield": "field_manipulation",
+      "tier": 2,
+      "base_cost": 4000,
+      "prerequisites": [
+        "tech.improved_deflectors"
+      ],
+      "unlocks_components": [
+        "component.shield_basic"
+      ],
+      "unlocks_ships": [],
+      "unlocks_buildings": [],
+      "unlocks_districts": [],
+      "unlocks_jobs": [],
+      "unlocks_traits": [],
+      "unlocks_policies": [],
+      "unlocks_edicts": [],
+      "unlocks_megastructures": [],
+      "modifies_rules": [],
+      "tags": [
+        "defense",
+        "shields"
+      ]
+    },
+    {
+      "id": "tech.advanced_shields",
+      "name": "Advanced Shields",
+      "area": "physics",
+      "subfield": "field_manipulation",
+      "tier": 3,
+      "base_cost": 8000,
+      "prerequisites": [
+        "tech.shields"
+      ],
+      "unlocks_components": [
+        "component.shield_advanced"
+      ],
+      "unlocks_ships": [],
+      "unlocks_buildings": [],
+      "unlocks_districts": [],
+      "unlocks_jobs": [],
+      "unlocks_traits": [],
+      "unlocks_policies": [],
+      "unlocks_edicts": [],
+      "unlocks_megastructures": [],
+      "modifies_rules": [],
+      "tags": [
+        "defense",
+        "shields"
+      ]
+    },
+    {
+      "id": "tech.hyper_shields",
+      "name": "Hyper Shields",
+      "area": "physics",
+      "subfield": "field_manipulation",
+      "tier": 4,
+      "base_cost": 16000,
+      "prerequisites": [
+        "tech.advanced_shields"
+      ],
+      "unlocks_components": [
+        "component.shield_hyper"
+      ],
+      "unlocks_ships": [],
+      "unlocks_buildings": [],
+      "unlocks_districts": [],
+      "unlocks_jobs": [],
+      "unlocks_traits": [],
+      "unlocks_policies": [],
+      "unlocks_edicts": [],
+      "unlocks_megastructures": [],
+      "modifies_rules": [],
+      "tags": [
+        "defense",
+        "shields"
+      ]
+    },
+    {
+      "id": "tech.shield_hardeners",
+      "name": "Shield Capacitors / Hardeners",
+      "area": "physics",
+      "subfield": "field_manipulation",
+      "tier": 2,
+      "base_cost": 4000,
+      "prerequisites": [
+        "tech.shields"
+      ],
+      "unlocks_components": [
+        "component.shield_capacitor",
+        "component.shield_hardener"
+      ],
+      "unlocks_ships": [],
+      "unlocks_buildings": [],
+      "unlocks_districts": [],
+      "unlocks_jobs": [],
+      "unlocks_traits": [],
+      "unlocks_policies": [],
+      "unlocks_edicts": [],
+      "unlocks_megastructures": [],
+      "modifies_rules": [],
+      "tags": [
+        "defense"
+      ]
+    },
+    {
+      "id": "tech.global_energy_management",
+      "name": "Global Energy Management",
+      "area": "physics",
+      "subfield": "field_manipulation",
+      "tier": 1,
+      "base_cost": 2000,
+      "prerequisites": [],
+      "unlocks_components": [],
+      "unlocks_ships": [],
+      "unlocks_buildings": [
+        "building.energy_grid"
+      ],
+      "unlocks_districts": [],
+      "unlocks_jobs": [],
+      "unlocks_traits": [],
+      "unlocks_policies": [],
+      "unlocks_edicts": [],
+      "unlocks_megastructures": [],
+      "modifies_rules": [],
+      "tags": [
+        "economy",
+        "energy"
+      ]
+    },
+    {
+      "id": "tech.planetary_shields",
+      "name": "Planetary Shields",
+      "area": "physics",
+      "subfield": "field_manipulation",
+      "tier": 3,
+      "base_cost": 8000,
+      "prerequisites": [
+        "tech.shields"
+      ],
+      "unlocks_components": [],
+      "unlocks_ships": [],
+      "unlocks_buildings": [
+        "building.planetary_shield_generator"
+      ],
+      "unlocks_districts": [],
+      "unlocks_jobs": [],
+      "unlocks_traits": [],
+      "unlocks_policies": [],
+      "unlocks_edicts": [],
+      "unlocks_megastructures": [],
+      "modifies_rules": [],
+      "tags": [
+        "defense"
+      ]
+    },
+    {
+      "id": "tech.dark_matter_drawing",
+      "name": "Dark Matter Drawing",
+      "area": "physics",
+      "subfield": "field_manipulation",
+      "tier": 3,
+      "base_cost": 12000,
+      "prerequisites": [
+        "tech.tachyon_sensors"
+      ],
+      "unlocks_components": [],
+      "unlocks_ships": [],
+      "unlocks_buildings": [],
+      "unlocks_districts": [],
+      "unlocks_jobs": [],
+      "unlocks_traits": [],
+      "unlocks_policies": [],
+      "unlocks_edicts": [],
+      "unlocks_megastructures": [],
+      "modifies_rules": [
+        "rule.enable_dark_matter_resource"
+      ],
+      "tags": [
+        "special_resource",
+        "dark_matter"
+      ]
+    }
+  ]
+}

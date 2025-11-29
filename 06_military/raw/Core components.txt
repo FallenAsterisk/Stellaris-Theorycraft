@@ -1,0 +1,86 @@
+Core components
+
+Version
+
+Please help with verifying or updating older sections of this article. At least some were last verified for  4.1.
+
+This article is for the PC version of Stellaris only.
+Ships
+
+
+
+Core components
+
+
+ 
+ 
+On the right side of the designer, one can select options for different subsystems of the ship. Most of them are required and it is not possible to design a ship without some version of them, but few of them are optional, having the option to install no subsystem in its slot.
+Space fauna designs can only use the starting core components until the matching bio-integration technology has been researched, at which point they can use all researched core components. Their components do not use power.
+Contents
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Power generation
+The power generation component provides power for the ship's other components, and a new ship design cannot be saved if it has negative power. Excess power slightly increases a ship's evasion, movement speed, and damage.
+Mechanical ships use reactors. They cost  Alloys in construction and upkeep.
+ Biological ships use metabolisms. They cost  Food in construction and upkeep. They cost 3.3 times more than reactors. Their output is increased by 25% if the ship reaches the Mature growth stage and by 50% if the ship reaches the Elder growth stage.
+FTL
+The FTL component is optional, but without one the ship is incapable of moving between systems. They cannot be reverse-engineered from ship debris.
+Mechanical ships use drives. They cost  Alloys in construction and upkeep.
+ Biological ships use bio-fields. They cost  Food in construction and upkeep. They cost 3.3 times more than drives.
+ Space fauna use bio-drives. They cost  Food and  Minerals in construction and upkeep. They cost 3.6 times more than drives.
+Tactical jumps allow the ship to make a direct jump within a limited range, indicated by a yellow dotted circle. Initiate a jump by selecting the fleet, clicking the "Initiate Jump" button and left-clicking the target. After jumping the fleet spends 200 days recharging, during which time it suffers −50% sublight speed and weapons damage.
+Computer system
+This component predominantly improves fire-rate as well as various combat stats depending on behavior type.
+Mechanical ships use combat computers. They cost  Alloys in construction and upkeep.
+ Biological ships use neural implants. They cost  Food in construction and upkeep. They cost 3.3 times more than combat computers.
+ Space fauna use neurochips. They cost  Food and  Minerals in construction and upkeep. They cost 1.1 times less than combat computers.
+When in combat, every military ship will advance to within a certain distance of its target and fire its weapons. The engagement range is determined by the ship's designated role and the effective range of the ship's weapons. Weapon range modifiers will also increase this range. Ships that have similar roles will typically cluster together, stay in formation with each other and attack in groups.
+Swarm: The ship will charge straight at enemies and try to deal as much damage as possible from the range of their shortest range weapon.
+Torpedo: The ship will charge straight at enemies in strafing runs.
+Picket: The ship will advance to medium range and attempt to intercept incoming enemies.
+Line: The ship will hold advance to medium range and hold formation.
+Artillery: The ship will stay at long range, firing its longest range weapons on the target.
+Carrier: The ship will stay at the maximum engagement range of its hangars.
+Platform: The defensive platform will remain stationary and fire at any enemies in range.
+Colossus: The ship will ignore any attackers and carry on with its current task.
+Propulsion
+The propulsion component determines how fast the ship moves within a star system and increase its chance to evade weapons fire.
+Mechanical ships use thrusters. They cost  Alloys in construction and upkeep.
+ Biological ships use stellar motor organs. They cost  Food in construction and upkeep. They cost 3.3 times more than thrusters.
+ Space fauna use bio thrusters. They cost  Food and  Minerals in construction and upkeep. They cost 3.3 times more than thrusters.
+Sensors
+The sensors components determines the ship's detection range on the galaxy map. They also increase tracking of all weapon components.
+Mechanical ships use sensors. They cost  Alloys in construction and upkeep.
+ Biological ships use radiosensors. They cost  Food in construction and upkeep. They cost 3.3 times more than sensors.
+ Space fauna use sensory organs. They cost  Food and  Minerals in construction and upkeep. They cost 3.3 times more than sensors.
+Field emitters
+All field emitter components apply either a buff to allied ships (own, subjects, federation members and war time allies) or a debuff to all enemy ships that are in the system. Multiple instances of the same field emitter effect do not stack.
+Titan field emitters
+Titan field emitter components can only be installed on titan and paradox titan ships and tier 3 deep space citadels.
+Juggernaut field emitters
+Juggernaut field emitter components can only be installed on juggernauts and tier 3 deep space citadels.
+Deep Space Citadel field emitters
+Deep Space Citadel field emitter components can only be installed on deep space citadels.
+Supplementary organs
+Supplementary organs are components available to biological ships once that ship's development technology has been researched.
+Mauler supplementary organs
+Mauler supplementary organs cost 16  Food. Tier 1 components require 5 power while tier 2 components require 10 power.
+Weaver supplementary organs
+Weaver supplementary organs cost 16  Food. Tier 1 components require 5 power while tier 2 components require 10 power.
+Harbinger supplementary organs
+Harbinger supplementary organs cost 16  Food. Tier 1 components require 5 power while tier 2 components require 10 power.
+Stinger supplementary organs
+Stinger supplementary organs cost 16  Food. Tier 1 components require 5 power while tier 2 components require 10 power.

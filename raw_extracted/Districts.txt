@@ -1,0 +1,66 @@
+Districts
+
+Version
+
+This article has been verified for the current PC  (4.2) of the game.
+Planetary management
+
+
+ Districts
+ 
+ 
+ 
+Districts are the first level of world development, and represent large areas of development on a planet dedicated towards a particular purpose. Each world can support up to four district types: a primary district and three secondary districts. Their effects stack with each district. The total number of districts that can be built on a planet is limited by district slots, which are equal to the  planet size unless modified by , , , or . The number of mining, generator, and agriculture districts is further constrained by the deposit features on the planet. Each district increases  empire size by a default amount of 0.5.
+Contents
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Primary districts
+Each planet has a primary district that can have 2 specializations. The primary district type depends on empire and planet class and will be converted if the world is terraformed or conquered by an empire which uses a different primary district. The number of districts that can be built is limited only by the number of free district slots on the world. The last primary district on the planet cannot be demolished or replaced.
+Planet class primary districts
+These districts replace the standard primary districts on certain .
+Specialized primary districts
+These districts replace the standard primary districts on .
+Other primary districts
+These districts replace the standard primary districts in certain circumstances.
+Secondary urban districts
+Certain planet types use secondary urban districts instead of resource districts, each of which can be specialized with a single . Some of them can select secondary district specializations that mimic the functionality of resource districts.
+Resource districts
+Resource districts provide some additional housing and create jobs that generate  energy,  minerals, or  food. Each resource district can support a single , typically unlocked after researching a certain technology.
+Planetary resource districts
+The number of planetary resource districts that can be built is typically limited by , but can be expanded by  or . Under certain conditions, resource districts buildings can be built without a planetary feature limit, limited only by the planet's total district capacity, similar to urban districts. These districts are not available to empires with the  Wilderness origin.
+Habitat resource districts
+The number of habitat resource districts that can be built is limited by orbital deposits in the system.
+The amount of jobs added by habitat districts is multiplied by ×1.5 if the empire has the  Void Dwellers origin or the  Voidborne ascension perk.
+Volcanic resource districts
+ Volcanic Worlds use a different set of planetary resource districts.
+Wilderness resource districts
+Empires with the  Wilderness origin use the following resource districts.
+Synapthic Lathe districts
+Synaptic Lathes have only two district types available. These districts cannot be specialized. Each Synaptic Lathe can build two districts for every capital building level.
+Secondary names and district swaps
+Districts have secondary names that are selected based on a number of factors, primarily selected specializations and researched technologies. The first fulfilled requirement will be the one used.
+Resource districts and secondary urban districts can also swap into a different district name and icon based on their specialization.
+Urban district secondary names
+The following names are used as secondary names for urban districts.
+
+
+Resource district secondary names and icon swaps
+The following names are used as secondary names for resource districts, and secondary urban districts with appropriate specializations. Certain specializations also change district icon.
+
+
+Secondary urban district swaps
+The following districts replace unspecialized secondary urban districts on  Ecumenopolis,  Hive Worlds,  Machine Worlds, and  Ring Worlds with an appropriate based on the selected specialization.

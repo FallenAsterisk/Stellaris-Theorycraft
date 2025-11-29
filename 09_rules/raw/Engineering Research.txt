@@ -1,0 +1,65 @@
+Engineering research
+
+Version
+
+This article has been verified for the current PC  (4.2) of the game.
+Technology
+
+
+ 
+ 
+ Engineering research
+ Engineering is one of the three research areas. It consists of the following fields:
+ Industry: mineral production, robotics, building construction, cosmic storm protection.
+ Materials: armor, industrial buildings, strategic resources.
+ Propulsion: kinetic and explosive weapons, thrusters.
+ Voidcraft: ship types and hulls, starbases, strike craft, megastructures.
+Contents
+
+
+
+
+
+
+
+
+
+
+
+
+
+Table usage
+Color indicators: Starter, Acquisition, Rare, Dangerous, Repeatable.
+Notes:
+The table shows the default names/icons of techs. Flavor entry is displayed if accompanied by a change to effects/requirements.
+If a tech was available as a research option as part of the last choice, then its (total) weight is halved in the coming choice.
+The table denotes the base cost of a tech. Actual in-game tech cost scales with  and  (number of colonized planets and population).
+To research techs of higher tiers, it is necessary to first acquire six or more techs of the preceding tier.
+Sorting the table by tiers places all Starter tech at the top and Repeatable end-game tech at the bottom.
+Most icons also double as links. For more information about an unlocked effect (buildings, components, etc.), click on the accompanying icon.
+Industry
+The  Industry tech tree focuses on mineral production and robotic pops.
+Industry event technologies
+The following technologies cannot be discovered by research draws and are added as permanent research options by events.
+Materials
+The  Materials tech tree focuses on advanced and strategic resources and ship armor.
+Materials event technologies
+The following technologies cannot be discovered by research draws and are added as permanent research options by events.
+Propulsion
+The  Propulsion tech tree focuses on thruster, missile and kinetic ship components.
+Propulsion event technologies
+The following technologies cannot be discovered by research draws and are added as permanent research options by events.
+Voidcraft
+The  Voidcraft tech tree focuses on ships and spaceborne structures.
+Mechanical ship technologies
+Mechanical ship technologies are only available to empires that use a mechanical shipset and will unlock or improve mechanical ships.
+Ship stat technologies
+The following technologies affect ship build cost, build speed, and stats. They cannot be researched by empires with the 
+ Beastmasters
+ civic.
+Beastmasters technologies
+The following technologies affect space fauna cloning cost, cloning speed, and stats. They can only be researched by empires with the 
+ Beastmasters
+ civic.
+Voidcraft event technologies
+The following technologies cannot be discovered by research draws and are added as permanent research options by events.

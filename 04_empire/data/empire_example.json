@@ -1,0 +1,12 @@
+{
+  "description": "Example subset of empire structures.",
+  "ethics": [
+    {
+      "id": "ethic.fanatic_materialist",
+      "name": "Fanatic Materialist",
+      "modifiers": {
+        "research_speed": 0.1
+      }
+    }
+  ]
+}

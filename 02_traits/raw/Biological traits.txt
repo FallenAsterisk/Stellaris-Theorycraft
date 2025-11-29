@@ -1,0 +1,116 @@
+Biological traits
+
+Version
+
+This article has been verified for the current PC  (4.2) of the game.
+Species traits
+
+
+Biological traits
+
+Biological traits are available for species with the  Organic,  Lithoid and  Thermophile primary trait. They can be changed through genetic modification, which requires the  Gene Tailoring technology.
+Contents
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Climate preference traits
+Each species has a climate preference trait that determines their base  Habitability on the various types of planets, usually that corresponding to the type of their homeworld. It also decides the background that will be used when viewing the template in the species menu.
+Climate preference traits can be changed after researching the  Glandular Acclimation technology but a pop can never have more than one climate preference trait. Climate preference cannot be changed if the species has the  Aquatic trait.
+Basic traits
+Basic traits can be selected when first creating a species, and later changed through genetic modification. Traits that affect  Happiness cannot be added to species with the  Hive-Minded trait.
+Basic characteristics
+These traits define basic characteristics of a species. They can be added to the starting founder species under certain conditions, and require special conditions to add or remove.
+Positive traits
+Positive traits can be selected in empire creation or added to templates after the  Gene Tailoring technology has been researched. They can only be removed if the empire has the  Genetic Resequencing or  Genotype Regeneration tradition.
+Lithoid species cannot select the  Adaptive or  Rapid Breeders traits at game start, but can add them through genetic modification if the empire has the  Allelic Expression,  Exemplary Genetics, or  Unnatural Selection tradition.
+Vocational Genomics
+The Vocational Genomics trait cannot be selected at game start, but can be added through genetic modification after researching the  Targeted Gene Expressions technology. It enables , and will automatically adjust to provide bonuses associated with the pop's current job.
+Positive phenotype traits
+Phenotype traits can only be added to certain species classes or certain portraits from other classes that visibly have the trait. These restrictions are removed if the empires finishes the  Genetics tradition tree or adopts the  Unnatural Selection tradition. Empires with the  Evolutionary Predators origin can obtain these traits via the  situation even if they lack the required DLC by gaining the phenotype DNA from events.
+Negative traits
+Negative traits can be selected in empire creation, and later removed from templates after the  Gene Tailoring technology has been researched. They can be added to templates if the empire has one of the following traditions:
+ Genetic Resequencing
+ Genotype Regeneration
+ Unnatural Selection
+Negative phenotype traits
+Phenotype traits can only be added to certain species classes or certain portraits from other classes that visibly have the trait. These restrictions are removed if the empires finishes the  Genetics tradition tree or adopts the  Unnatural Selection tradition.
+Civic traits
+The following traits are added to the founder species when starting the game with a certain civic and can never be removed. None of them costs any trait point.
+Origin traits
+The following traits are added to the founder species when starting the game with a certain civic. If a biological species completes synthetic ascension its origin trait will be replaced with the  of the trait.  Driven Assimilator or  Rogue Servitor secondary species will use these origin traits as well.
+Hard Reset traits
+Empires with the  Hard Reset origin start the game with a positive and a negative trait. They cannot be removed through species modification, but may be downgraded based on choices made during the Embodied Identity situation. None of the traits cost any trait points.
+Roughly a year after the Embodied Identity situation has been concluded, if the founder species does not have the  De-Cyberized trait the empire will be offered the option to gain one of three traits for the founder species:
+Clone Army traits
+Empires with the  Clone Army origin start the game with the  Clone Soldier trait. After completing the  Homeworld Excavation archaeology site, the empire gets the  event chain, allowing it to choose between replacing the trait with  Clone Soldier Descendant or  Clone Soldier Ascendant. Each of the Clone Solder traits adds a corresponding  Commander trait. None of the Clone Soldier traits can be removed and they do not cost any trait points.
+Pops with the  Clone Soldier or  Clone Soldier Ascendant traits cannot reproduce naturally, must be assembled and sustained by the   buildings, and will decline with insufficient buildings. They cannot be sold on the slave market or used as a founder species in a released sector, and cannot be genetically modified without adopting the  Clone Synthetization tradition after choosing the Clone Potential path.
+Ascended Clone Army empires that adopted  Cloning traditions can support additional pops through , , and . The  Clone Synthetization tradition will also allow them to genetically modify Clone Soldier pops and add the  Clone Soldier trait to other species. The sustained pop limit is shared by all Clone Soldier pops regardless of species.
+Overtuned traits
+Empires with the  Overtuned origin can select these traits in empire creation and change them through genetic modification. They can also be removed by empires with the  Genetic Resequencing or  Genotype Regeneration tradition. Overtuned traits provide bonuses similar to basic traits for less points but also reduce leader lifespan and pop growth speed. Overtuned traits have their effects doubled by the  Damn the Consequences edict.
+Cybernetic Creed traits
+Empires with the  Cybernetic Creed origin will begin with the  Ritualistic Implants and can replace it with a faction-specific trait during the The Conclave of Fusion situation. Each of these traits gives  Spiritualist leaders the  Ritualistic Implants trait, increases the pops' price on the slave market by  +500 and prevents the species from being modified until the The Conclave of Fusion situation ends. The traits are removed if the pop is not  Spiritualist or is assimilated to remove cybernetic traits.
+Pre-sapient traits
+Pre-sapient species have exclusive traits that cannot otherwise be chosen when creating or modifying a species. They retain these traits after being uplifted as a sapient species and the traits do not cost any trait points. A few pre-sapient traits are found only in certain species but can also be added if a sapient species is turned pre-sapient by a covenant with the Composer of Strands. They can be removed from templates if the empire has one of the following:
+ Epigenetic Triggers technology
+ Genetic Resequencing tradition
+ Genotype Regeneration tradition
+Acquired traits
+These traits are not available at game start, but can be gained over the course of the game. They do not cost any trait points, but cannot be added through genetic modification, even by applying an existing template.
+Ascension traits
+Ascension traits can only be added by completing certain ascensions.
+Assimilation traits
+These traits are added by assimilation or events, and cannot be added or removed through genetic modification. None of them costs any trait points. When a species is assimilated to add a trait, all traits that conflict with it will be removed.
+Biological ascension traits
+Biological ascension traits are unlocked for genetic modification through biological ascension traditions.
+Advanced genetic traits
+Advanced genetic traits are unlocked for genetic modification by the  Allelic Expression or  Exemplary Genetics or  Unnatural Selection traditions. They can only be removed by empires that have the  Genetic Resequencing or  Genotype Regeneration or  Unnatural Selection traditions.
+If the empire has the  Exemplary Genetics tradition, all of these traits except  Exotic Metabolism have their cost reduced by −1, while their cost for Species Genetic Perfection calculation of  are not changed.
+If the empire has the  Somatic Synthesization tradition, the  Vat-Grown trait can be added or removed regardless of other requirements, and has its cost reduced to 0.
+Adaptive Mutations
+Empires without the  Evolutionary Predators origin obtain the Adaptive Mutations trait upon adopting  Mutation tradition tree, or later by launching the  Divergence Directive agenda.
+Nucleotide Isolation traits
+Nucleotide Isolation traits can be obtained in two ways:
+They can be added through genetic modification via the  Nucleotide Isolation tradition.
+They can be obtained from the  event chain, in which case they will also come with their trait point cost reduced by −1, while their cost for Species Genetic Perfection calculation of  are not changed.
+Organic leviathan traits
+Organic leviathan traits can only be added by empires that defeated certain  and either completed the  Genetics tradition tree or adopted the  Nucleotide Isolation tradition.
+Cyborg traits
+Cyborg traits can be added to or removed from a  Cybernetic species if the empire has the  Integrated Anatomy tradition. They are removed if the species is assimilated to remove cybernetic traits.
+Empires with the  Hard Reset origin or the  Augmentation Bazaars civic can select some of these traits at empire creation and add or remove them through species modification.
+Positive cyborg traits
+Most positive cyborg traits add additional  energy upkeep to the pop.
+Negative cyborg traits
+Mechanical leviathan traits
+Mechanical leviathan traits can only be added by empires that have the  Leviathan Tech Genesis technology and defeated the  with the same name.
+Auto-modding only traits
+These traits are  targets of  Adaptive Mutations and  Malleable Genes. They cannot be directly added to species.
+All of these traits increase corresponding job efficiency by +5%, or +15% with the  Planned Polymorphism tradition.
+Unique species traits
+These traits are present on unique species that can be encountered in the galaxy, and cannot be added to regular species.

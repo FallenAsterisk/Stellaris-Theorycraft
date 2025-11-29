@@ -1,0 +1,13 @@
+{
+  "description": "Raw empire-related source text (ethics, government, civics, policies, edicts, factions, etc.) extracted from your uploads.",
+  "raw_files": [
+    "Civics.txt",
+    "Council and Agendas.txt",
+    "Edicts.txt",
+    "Empire.txt",
+    "Ethics.txt",
+    "Factions.txt",
+    "Government.txt",
+    "Policies.txt"
+  ]
+}

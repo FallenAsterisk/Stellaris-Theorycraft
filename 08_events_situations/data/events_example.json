@@ -1,0 +1,9 @@
+{
+  "description": "Example event/situation subset.",
+  "situations": [
+    {
+      "id": "situation.first_contact",
+      "name": "First Contact"
+    }
+  ]
+}

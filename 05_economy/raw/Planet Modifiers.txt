@@ -1,0 +1,65 @@
+Planet modifiers
+
+Version
+
+This article has been verified for the current PC  (4.2) of the game.
+Celestial object
+
+
+
+
+Planet modifiers
+Each planet has a small chance of containing a modifier that will affect the colony should the world be colonized. They may be positive, negative or mixed, identified by the color of the modifier's border.
+Random anomalies can generate a great variety of planet modifiers but those usually do not have any effects.
+Contents
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Random modifiers
+These modifiers can appear at random on any planet outside an empire's home system. If terraforming technology is researched, some of them can be removed either via a special decision or by terraforming the planet. A planet can have up to 2 random modifiers.
+Flora modifiers
+Each planet can only have one flora modifier, which affects the number of  Agriculture Districts that can be built and their job output.
+Mineral quality modifiers
+Each planet can only have one mineral quality modifier, which affects the number of  Mining Districts that can be built and their job output. They are not removed if the planet is terraformed.
+Orbital deposit modifiers
+The following modifiers add a deposit of  +6 minerals when surveyed. They only appear on uninhabitable planets.
+Terraforming candidates
+Terraforming Candidates are modifiers that have a small chance to appear on uninhabitable planets and are always added to worlds ruined by a crisis. The modifiers allow the planet to be terraformed if the  Climate Restoration technology has been researched. They do not appear if the required expansion is not installed. The chance for a planet to have the modifier is scaled by the Habitable Worlds .
+Event-triggering modifiers
+The following random modifiers trigger an event roughly one year after the planet is colonized. The event can only trigger once per colony.
+Unique modifiers
+Unique modifiers will always appear on certain predetermined planets and cannot be found anywhere else.
+Homeworld modifiers
+Homeworld modifiers can only be added to the capital world of an empire by Origins when the game starts.
+Doomsday
+Empires that start with the  Doomsday origin start with a homeworld modifier that goes through 4 stages. Each stage lasts roughly 10 years and increases the effects of the previous stage. It also prevents revolts from taking place or pops from immigrating to the planet.
+Red Giant
+Empires that start with the  Red Giant origin start with a homeworld modifier that goes through 6 stages. The stages will increase as Red Giant Expansion situation progresses and decrease as the situation regresses. Unlike other modifiers, the  Habitability penalty can't be canceled by bonuses to  Habitability.
+Guardian modifiers
+Guardian modifiers are added through the Leviathan Parade Opportunity situations.
+Event modifiers
+The following modifiers can only be added by events.
+Terraforming modifiers
+The following modifiers can only be added by .
+Shroud-Forged modifiers
+The following modifiers can only be added by random events that can take place during the Forged by the Shroud situation. They are removed if the planet is conquered by another empire.
+Anomaly modifiers
+Anomaly modifiers can only be added by anomalies found on habitable planets.
+Archaeological site modifiers
+Archaeological site modifiers can only be added by archaeological site outcomes.
+Other modifiers

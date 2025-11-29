@@ -1,0 +1,49 @@
+Holdings
+
+Version
+
+This article has been verified for the current PC  (4.2) of the game.
+Buildings
+
+
+
+
+Holdings
+A holding represents an area on a world that is owned by an empire other than the world's owner. There are two type of holdings: overlord holdings and branch offices. Both of them provide vision in the system where they're built. Only one of each holding can be constructed on a world. The construction speed of holdings is affected by the system owner's construction speed bonuses and penalties rather than those of the holding owner.
+Contents
+
+
+
+
+
+
+
+Overlord holdings
+Overlord holdings can be constructed by overlords on their subjects' worlds. The total number of holdings that can be constructed anywhere within a subject's empire is determined by the Holdings Limit term in the subject agreement and is also affected by the Bureaucratic Surveillance resolutions. Overlord holdings can be distributed across multiple worlds, or all constructed together on a single world. If built from the Subject Agreement menu, they are built on the subject's capital by default.
+If a subject becomes independent, all overlord holdings are destroyed.
+Origin holdings
+The following holdings are unlocked by certain origins.
+Civic holdings
+The following holdings are unlocked by certain civics.
+Branch offices
+
+A branch office with a Temple of Prosperity
+Branch offices can be constructed by empires with  Corporate authority. They give the corporate empire  Trade equal to 50% of the world's current  Trade. Only one branch office can be established on each world, by any empire. They cannot be constructed on  Nanite Worlds, or systems owned by a  Gestalt Consciousness,  Fanatic Purifiers or fallen empire. Branch offices can be closed by their corporate owner at any time.
+Establishing a branch office costs a base of  1000 energy credits and  50 influence increasing by 10% for each hyperlane jump after 3 jumps, and increases the corporate empire's  empire size by 5. The establishment cost can be reduced by −15% with the  Universal Transactions ascension perk.
+Up to four branch office holdings can be built in a branch office, with each level of capital tier unlocking one holding slot. Branch office holdings provide various jobs to the planet and bonuses to the corporate empire, adding 1% to resources and  Naval Capacity produced by branch office holding per 1  Trade gained by Branch Office, as well as increase the planet's  Trade based on the holding and the jobs filled on the planet. The  Influence cost of holdings is doubled if the world's owner has  Corporate authority.
+Branch offices can be created by corporations that have any of the following with the system's owner:
+ Commercial Pact
+ Federation
+ Subject
+ Overlord
+ Same overlord unless overlord has  Corporate authority or the  Corporate Sovereign civic
+ Corporate Sovereign civic and the system owner is a member of the Galactic Imperium
+ Imperial Charter resolution and the system owner is a member of the Galactic Imperium
+ Commercial Agreement and the pre-FTL civilization reached  Atomic Age or  Early Space Age
+If the Corporate empire loses the last relationship that allowed it to establish a branch office, the branch office remains open, but the world's owner gains the Expropriation casus belli.
+Many Corporate civics either unlock a civic branch holding or grant additional bonuses to a specific holding, causing it to generate additional  Trade and add  200 Trader jobs to the corporate empire's capital. The bonuses stack if multiple civics improve the same holding.
+Empires with the  Criminal Heritage civic have much more relaxed requirements to establish a branch office and their  Trade output ranges from 25% to 75% of the world's current  Trade depending on the amount of  Crime present on the world. If they do not meet the regular requirements for a legal branch office, they instead use an "illegal" set of holdings that shift half of the produced jobs to  Criminal jobs and produce +25  Crime. Additionally, the system owner will gain the Expropriation casus belli and there is a 5% chance monthly that the branch office will be closed while the planet has no  Crime. The empire cannot have another branch office closed for 10 years, but the branch office cannot be re-established on the same world for 10 years either.  Criminal Heritage empires also cannot establish a branch office when they are at war or have a truce with the system owner. Each legal holding increases the minimum amount of  Crime on the planet by +5 as well. Legal and illegal holdings convert if the empire meets or no longer meets the requirements to have a legal branch office.
+Civic holdings
+The following holdings are unlocked by certain civics.
+Authority holdings
+The following holdings are unlocked by certain advanced authorities. Both legal and illegal branch offices use the same holdings.
